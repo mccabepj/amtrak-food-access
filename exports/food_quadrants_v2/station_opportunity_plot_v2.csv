@@ -1,0 +1,85 @@
+﻿id,name,route,x,y,food,weekly,n
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,13,96.066,31,13.75,1
+ALD,Alderson Amtrak,Cardinal,100,0,0,0,1
+ALX,Alexandria,Cardinal; Silver Meteor,13,0,18,0,1
+AKY,Ashland Amtrak Station,Cardinal,0,0,10,0,1
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,13,0,25,0,1
+BAR,Barstow,Southwest Chief,100,0,0,0,1
+CHW,Charleston,Cardinal,60,0,1,0,1
+CHS,Charleston Amtrak Station,Silver Meteor,73,0,1,0,1
+CVS,Charlottesville,Cardinal,0,0,27,0,1
+CIN,Cincinnati Union Terminal,Cardinal,21,27.679,1,6,1
+CLF,Clifton Forge Amtrak Station,Cardinal,47,0,1,0,1
+COI,Connersville Amtrak,Cardinal,100,0,0,0,1
+CRF,Crawfordsville Amtrak,Cardinal,47,0,1,0,1
+CLP,Culpeper Amtrak Station,Cardinal,0,0,17,0,1
+DFB,Deerfield Beach Amtrak Station,Silver Meteor,100,0,0,0,1
+DLD,Deland,Silver Meteor,100,0,0,0,1
+DLB,Delray Beach Amtrak,Silver Meteor,100,0,0,0,1
+DDG,Dodge City Amtrak Station,Southwest Chief,21.75,0,4,0,1
+DYE,Dyer Amtrak,Cardinal,100,0,0,0,1
+FAY,Fayetteville Amtrak Station,Silver Meteor,16.5,37.5,6,14,1
+FLG,Flagstaff,Southwest Chief,0,0,39,0,1
+FLO,Florence Amtrak Station,Silver Meteor,100,24.656,0,7,1
+FTL,Fort Lauderdale Amtrak Station,Silver Meteor,100,0,0,0,1
+FMD,Fort Madison,Southwest Chief,21,0,1,0,1
+FBG,Fredericksburg Amtrak,Silver Meteor,0,0,19,0,1
+FUL,Fullerton Amtrak Station,Southwest Chief,0,0,40,0,1
+GBB,Galesburg Amtrak Station,Southwest Chief,0,0,13,0,1
+GLP,Gallup Amtrak Station,Southwest Chief,3.5,0,5,0,1
+GCK,Garden City Amtrak Station,Southwest Chief,100,0,0,0,1
+HIN,Hinton Amtrak Station,Cardinal,21.75,0,4,0,1
+HOL,Hollywood Amtrak Station,Silver Meteor,53,0,2,0,1
+HUN,Huntington Amtrak Station,Cardinal,47.75,0,4,0,1
+HUT,Hutchinson Amtrak Station,Southwest Chief,3.5,0,5,0,1
+IND,Indianapolis,Cardinal,26,53.571,15,6,1
+JAX,Jacksonville,Silver Meteor,100,89.844,0,14,1
+JSP,Jesup Amtrak Station,Silver Meteor,60,0,1,0,1
+KCY,Kansas City,Southwest Chief,0,98.296,15,13.75,1
+KNG,Kingman,Southwest Chief,34.75,22.869,3,6.75,1
+KTR,Kingstree Amtrak Station,Silver Meteor,100,0,0,0,1
+KIS,Kissimmee Amtrak Station,Silver Meteor,3.5,0,6,0,1
+LAJ,La Junta Amtrak Station,Southwest Chief,40,59.361,2,13.75,1
+LAP,La Plata Amtrak Station,Southwest Chief,100,0,0,0,1
+LAF,Lafayette Amtrak Station,Cardinal,0,0,13,0,1
+LMR,Lamar Amtrak,Southwest Chief,27,0,2,0,1
+LMY,Lamy,Southwest Chief,21,0,1,0,1
+LSV,Las Vegas Amtrak Station,Southwest Chief,14,0,2,0,1
+LRC,Lawrence Amtrak Station,Southwest Chief,26,0,16,0,1
+MSS,Manassas Amtrak Station,Cardinal,0,0,21,0,1
+MAY,Maysville Amtrak Station,Cardinal,34,0,1,0,1
+MDT,Mendota Amtrak Station,Southwest Chief,100,0,0,0,1
+MNG,Montgomery Amtrak,Cardinal,21,0,1,0,1
+NPV,Naperville Amtrak Station,Southwest Chief,8.75,0,3,0,1
+NDL,Needles Amtrak,Southwest Chief,34,0,1,0,1
+NWK,Newark,Cardinal; Silver Meteor,0,0,14,0,1
+NEW,Newton,Southwest Chief,3.5,0,5,0,1
+ORL,Orlando,Silver Meteor,100,58.75,0,14,1
+PAK,Palatka Amtrak,Silver Meteor,73,0,1,0,1
+PTB,Petersburg Amtrak Station,Silver Meteor,53,0,2,0,1
+PHL,Philadelphia,Cardinal; Silver Meteor,29.5,29.344,8,10.25,1
+PRC,Prince Amtrak Station,Cardinal,100,0,0,0,1
+PCT,Princeton Amtrak Station,Southwest Chief,27,0,2,0,1
+RAT,Raton,Southwest Chief,27,0,2,0,1
+REN,Rensselaer Amtrak,Cardinal,100,0,0,0,1
+RVR,Richmond Staples Mill Road Amtrak Station,Silver Meteor,60,38.125,1,14,1
+RIV,Riverside,Southwest Chief,47.75,0,3,0,1
+RMT,Rocky Mount,Silver Meteor,73,0,1,0,1
+SNB,San Bernardino,Southwest Chief,100,0,0,0,1
+SAV,Savannah,Silver Meteor,100,0,0,0,1
+SBG,Sebring Amtrak Station,Silver Meteor,66,0,2,0,1
+SPM,South Portsmouth Amtrak,Cardinal,100,0,0,0,1
+STA,Staunton Amtrak Station,Cardinal,0,0,24,0,1
+THN,Thurmond Amtrak,Cardinal,100,0,0,0,1
+TOP,Topeka Amtrak Station,Southwest Chief,100,0,0,0,1
+TRE,Trenton,Cardinal; Silver Meteor,3.5,0,7,0,1
+TRI,Trinidad Amtrak,Southwest Chief,21.75,0,4,0,1
+VRV,Victorville Amtrak,Southwest Chief,60,0,1,0,1
+WAS,Washington Union Station,Cardinal; Silver Meteor,0,94.719,23,20,1
+WPB,West Palm Beach Amtrak Station,Silver Meteor,100,0,0,0,1
+WSS,White Sulphur Springs Amtrak,Cardinal,100,0,0,0,1
+WIL,Wilmington,Cardinal; Silver Meteor,29.5,0,5,0,1
+WLO,Winslow Amtrak,Southwest Chief,8.75,0,3,0,1
+WTH,Winter Haven,Silver Meteor,73,0,1,0,1
+WPK,Winter Park Amtrak Station,Silver Meteor,13,0,31,0,1
+YEM,Yemassee Amtrak,Silver Meteor,100,0,0,0,1

@@ -1,0 +1,836 @@
+﻿Station ID,Station,Selected Routes,Selected Route IDs,OSM Key,Name,Category,Amenity,Lodging Type,Straight-line Distance M,Radius M,Fetched UTC,OSM Database Timestamp
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/1939151232,Diego's New Mexican Fusion,Food,restaurant,,435.7,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/2074560280,Pizza 9,Food,restaurant,,137.8,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/2966746202,2G's Bistro,Food,restaurant,,493.1,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/3955462123,Zendo,Food,cafe,,248.8,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/4086488891,Le Troquet,Food,restaurant,,267.1,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/4680927165,Mak's Quick Fire Kitchen,Food,restaurant,,484.1,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/4712626460,Knead Dough Bar,Food,cafe,,258.3,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/4712626461,The Brew,Food,cafe,,334.8,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/4712626462,Lulu's Kitchen,Food,restaurant,,349.6,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6548409941,Aldo's New York Style Pizzeria,Food,restaurant,,398.5,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6592665374,Bad Ass Coffee,Food,cafe,,412.5,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6604146475,Anatolia,Food,restaurant,,405.0,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6604146476,JC's New York Pizza Department,Food,restaurant,,321.7,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6604146480,Asia Noodle Bar,Food,restaurant,,391.3,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6604147714,,Food,cafe,,458.6,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6604167058,La Luna,Food,cafe,,498.2,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6604167069,La Mexicana,Food,restaurant,,392.4,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6604172917,,Food,restaurant,,235.0,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6604172918,,Food,restaurant,,248.6,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6604268695,Sueños Coffee Co.,Food,cafe,,381.6,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6682068982,Tucanos,Food,restaurant,,216.1,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/6682068983,Sushi King,Food,restaurant,,233.8,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/7111702431,Foodtopia,Food,restaurant,,401.3,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/8934788284,Novel Point Coffee,Food,cafe,,455.3,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/8934788287,Por Vida Coffee,Food,cafe,,432.9,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/9808044836,Baca Boys Cafe,Food,restaurant,,440.5,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/10656392372,Buds & Beans,Food,cafe,,182.4,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/11818345479,Byte,Food,cafe,,411.6,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/12230273493,Range Cafe,Food,restaurant,,400.1,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/13111316401,Char,Food,restaurant,,356.4,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,node/13121694601,Afghan Kebab House,Food,restaurant,,253.0,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,way/923560721,Hilton Garden Inn,Lodging,,hotel,292.3,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,way/1388725758,Hotel Andaluz,Lodging,,hotel,356.6,500,2026-10-28T14:47:19.857272+00:00,2026-10-28T14:46:03Z
+ALD,Alderson Amtrak,Cardinal,58,way/226933196,,Lodging,,guest_house,66.8,500,2026-10-28T14:48:19.609810+00:00,2026-10-28T14:47:03Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/662064834,Pasara,Food,restaurant,,357.3,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/765750824,Starbucks,Food,cafe,,432.5,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/875506954,Laporta's,Food,restaurant,,451.7,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/875506964,Joe Theismann's,Food,restaurant,,222.0,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/1727230067,Uptowner Cafe,Food,cafe,,453.4,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/2245478989,Perfect Pita,Food,restaurant,,370.2,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/2249646498,Starbucks,Food,cafe,,238.5,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/2414824292,Starbucks,Food,cafe,,443.1,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/5165098021,Sandellas Flatbread Cafe,Food,cafe,,407.0,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/5444142279,Sweet Fire Donna's,Food,restaurant,,498.1,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/9653839817,For Five Coffee,Food,cafe,,187.3,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/11762375797,Indo Chen,Food,restaurant,,425.9,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/12207854069,Casa Tequila Bar & Grill,Food,restaurant,,320.4,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/12207962682,Gin Ramen,Food,restaurant,,473.8,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/13134638759,HomeGrown,Food,restaurant,,493.3,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,node/14020892776,"AKB, a hotel bar",Food,restaurant,,473.5,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,way/160689586,Archer Hotel Old Town Alexandria,Lodging,,hotel,477.0,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,way/160689704,Hampton Inn Alexandria - Old Town/King Street Metro,Lodging,,hotel,420.7,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,way/160693732,Hilton Garden Inn Alexandria Old Town,Lodging,,hotel,392.4,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,way/181548186,The Westin Alexandria Old Town,Lodging,,hotel,440.3,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,way/215136079,Embassy Suites by Hilton Alexandria-Old Town,Lodging,,hotel,163.8,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,way/215963201,Table Talk,Food,restaurant,,337.1,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,way/534080320,Hilton Alexandria Old Town,Lodging,,hotel,266.4,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,way/534080321,Club Wyndham Old Town Alexandria,Lodging,,hotel,327.7,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,way/545745922,Bob and Edith's Diner,Food,restaurant,,291.5,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,way/1014431349,Hyatt Centric,Lodging,,hotel,411.8,500,2026-10-28T14:49:33.110059+00:00,2026-10-28T14:48:05Z
+AKY,Ashland Amtrak Station,Cardinal,58,node/2104915428,Bella Fonte Italian Restaurant,Food,restaurant,,396.4,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,node/2104915447,Bob Evans,Food,restaurant,,427.9,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,node/2104959374,Starbucks,Food,cafe,,376.1,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,node/2104959383,Fat Patti's,Food,restaurant,,222.8,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,node/13051073780,Tuscan Prime Italian Chophouse,Food,restaurant,,179.9,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,node/14095902500,Mi Casita,Food,restaurant,,218.7,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,node/14095917115,Alda Piatto,Food,restaurant,,404.4,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,node/14095917154,Bluegrass Inn,Lodging,,motel,466.0,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,node/14095917155,Hibachi Express And Poke Bowl,Food,restaurant,,99.6,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,way/143010408,,Food,restaurant,,430.4,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,way/845207350,La Finca,Food,restaurant,,314.7,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+AKY,Ashland Amtrak Station,Cardinal,58,way/921910418,Delta Hotels by Marriott Ashland Downtown,Lodging,,hotel,169.8,500,2026-10-28T14:51:10.512932+00:00,2026-10-28T14:50:06Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/2389697837,Mera,Food,restaurant,,356.5,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/2494219930,Tapas Teatro,Food,restaurant,,215.1,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/2495120535,Sofi's Crepes,Food,cafe,,243.2,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/3432415450,The Royal Blue,Food,restaurant,,308.1,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/3889570026,Ema's Corner,Food,restaurant,,426.7,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/4592905486,Jerry Carryout,Food,restaurant,,400.2,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/5187372320,Joanne's Grill,Food,restaurant,,297.7,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/5613531219,Soup’s On,Food,restaurant,,344.8,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/9214331206,Viccino's Italiian Gourmet,Food,restaurant,,247.8,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/9214331207,The Chicken or the Egg,Food,restaurant,,258.0,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/9609211839,Foraged,Food,restaurant,,198.3,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/9609463482,Alma Cocina Latina,Food,restaurant,,189.2,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/10742072553,Station North Arts Cafe,Food,cafe,,451.8,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/12166869101,Le Comptoir du Vin,Food,restaurant,,292.8,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/13814865108,Carpet Cafe,Food,cafe,,486.2,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/14061568001,Angeli's Pizzeria & Bar - Bolton Hill,Food,restaurant,,334.8,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,node/14112264301,Olivia Café,Food,cafe,,222.6,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,way/336352391,Honey Carry-Out,Food,restaurant,,448.1,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,way/336362792,The Ivy Hotel,Lodging,,hotel,499.9,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,way/336370005,Rice And Noodle,Food,restaurant,,262.1,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,way/336371084,Sammy's Trattoria,Food,restaurant,,421.6,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,way/336371825,Aloha Sushi & Bar,Food,restaurant,,363.3,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,way/336371827,Twelve24 Grille,Food,restaurant,,338.9,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,way/336371828,Dodah's Kitchen,Food,restaurant,,389.0,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,way/336372515,Downtown Hotel,Lodging,,hotel,344.9,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,way/336374719,Cafe 1908,Food,restaurant,,350.0,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,way/336374897,HH Tea,Food,cafe,,433.4,500,2026-10-28T15:04:59.081832+00:00,2026-10-28T15:03:11Z
+CHW,Charleston,Cardinal,58,way/334626889,Four Points by Sheraton - Charleston,Lodging,,hotel,379.0,500,2026-10-28T15:08:07.117717+00:00,2026-10-28T15:06:13Z
+CHW,Charleston,Cardinal,58,way/334629941,Sam's Uptown Cafe & Bar,Food,cafe,,363.8,500,2026-10-28T15:08:07.117717+00:00,2026-10-28T15:06:13Z
+CHS,Charleston Amtrak Station,Silver Meteor,42947,way/1053449123,,Food,restaurant,,411.8,500,2026-10-28T15:12:41.846722+00:00,2026-10-28T15:11:15Z
+CVS,Charlottesville,Cardinal,58,node/2633347575,Box'd Kitchen,Food,restaurant,,258.9,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/2641546148,Smyrna,Food,restaurant,,151.2,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/2641546154,Orzo Kitchen and Wine Bar,Food,restaurant,,414.3,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/2641546160,Continental Divide,Food,restaurant,,68.4,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/2646122204,Feast!,Food,cafe,,432.2,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/3855933557,Royalty Eats,Food,restaurant,,404.5,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/3855933563,Little Manila Resto,Food,restaurant,,397.0,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/3928062057,Maya Restaurant,Food,restaurant,,186.7,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/6176835631,The Ridley,Food,restaurant,,418.1,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/9102027932,DOMA,Food,restaurant,,168.6,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/9807512445,Starbucks,Food,cafe,,314.5,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/10304868491,Q Noodles,Food,restaurant,,335.5,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/11591939593,Give & Take Coffee,Food,cafe,,419.3,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/11902369837,Domoishi,Food,restaurant,,155.4,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/11902384146,Dillishus Fish & Chik'n,Food,restaurant,,109.7,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/12125681940,Guajiros Miami Eatery,Food,restaurant,,294.8,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/12125681941,Mudhouse Coffee,Food,cafe,,285.1,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/12136201072,Oakhart Social Restaurant,Food,restaurant,,317.3,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/12136201073,Public Fish and Oyster,Food,restaurant,,305.9,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/12904003431,Mariscos El Barco,Food,restaurant,,215.0,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/13613154669,Asian Express,Food,restaurant,,266.3,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/13613154670,Mejicali,Food,restaurant,,106.7,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,node/13983890592,Six Ko Korean Eats,Food,restaurant,,398.8,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,way/253736676,Hampton Inn and Suites Charlottesville - At The University,Lodging,,hotel,238.2,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,way/254093108,Black Cow Chophouse,Food,restaurant,,374.4,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,way/254093109,Tavern & Grocery,Food,restaurant,,472.6,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,way/377812673,Korner Restaurant,Food,restaurant,,425.7,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,way/395709828,Red Hub Food Co.,Food,restaurant,,326.7,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,way/575374619,"The Draftsman, Charlottesville, University, Autograph Collection Hotel",Lodging,,hotel,424.5,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CVS,Charlottesville,Cardinal,58,way/1125517504,The Doyle Hotel,Lodging,,hotel,364.0,500,2026-10-28T15:13:44.732695+00:00,2026-10-28T15:12:14Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/1619741021,Corner Bakery,Food,cafe,,98.6,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/1699221031,Pazzo's,Food,restaurant,,357.4,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/1951914730,Giordano's Pizzeria,Food,restaurant,,397.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/2311635023,Starbucks,Food,cafe,,247.1,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/2481236977,Noodles & Company,Food,restaurant,,469.6,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/2485002926,Monroe Reserve,Food,restaurant,,255.0,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/2882728188,Starbucks,Food,cafe,,390.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/2882748136,Yolk,Food,restaurant,,404.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/3407947954,Protein Bar,Food,restaurant,,364.6,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/5295997076,One North Kitchen,Food,restaurant,,471.0,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/5460615421,IDOF - I Dream of Falafel,Food,restaurant,,246.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/5460616621,Blaze Pizza,Food,restaurant,,311.0,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/5460620370,Beggars Pizza,Food,restaurant,,189.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/5460717972,Slightly Toasted,Food,restaurant,,446.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/5624360081,Naf Naf Grill,Food,restaurant,,331.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/6263367205,Arturo Express,Food,restaurant,,105.9,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/6269041647,Boxcar Betty’s,Food,restaurant,,415.4,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/6301024848,Rivers,Food,restaurant,,316.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/6301965552,Swadesi Cafe,Food,cafe,,313.6,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/6322570530,Dark Matter Coffee - Meddle,Food,cafe,,295.8,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/6322774469,Mojo Coffee,Food,cafe,,185.9,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/8199152333,Starbucks,Food,cafe,,40.1,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/9025081822,Canopy by Hilton Chicago Central Loop,Lodging,,hotel,363.6,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/9294100630,Brown Bag Seafood Co.,Food,restaurant,,306.7,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/10222965518,Starbucks,Food,cafe,,422.3,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/10788368689,Lotus Banh Mi,Food,restaurant,,472.4,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/10925526109,FARE,Food,restaurant,,428.9,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/10945307449,Sushi-san,Food,restaurant,,288.7,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/10945307451,Tortazo,Food,restaurant,,284.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/10945307453,Market Creations,Food,restaurant,,284.9,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/10945307456,Joe & The Juice,Food,cafe,,285.6,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/10945326829,Kindling,Food,restaurant,,312.0,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/10974086037,Blackwood BBQ,Food,restaurant,,390.9,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/11098487459,Espresso and Milk,Food,cafe,,488.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/11098530575,Da Local Boy,Food,restaurant,,411.1,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/11098530576,Bereket,Food,restaurant,,402.7,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/11098556507,Dollop Coffee Co.,Food,cafe,,225.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/11673117985,Asadito,Food,restaurant,,475.3,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/11885108322,The Outpost Mexican Eatery,Food,restaurant,,371.5,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/12027016694,Sang's Kitchen,Food,restaurant,,434.6,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/12027016695,Izakaya Yume,Food,restaurant,,435.7,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/12027016696,So Gong Dong Tofu & Korean BBQ,Food,restaurant,,437.1,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/12288326605,Market Creations,Food,restaurant,,330.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/12650054072,Sopraffina Marketcaffe,Food,restaurant,,386.4,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/12650075136,Hannah's Bretzel,Food,restaurant,,411.1,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/12954723701,Peet's Coffee,Food,cafe,,65.7,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/13069843749,Polombia,Food,restaurant,,451.5,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/13078237253,Eaves,Food,restaurant,,455.0,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/13191620397,Himalayan Sherpa Kitchen,Food,restaurant,,466.0,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/13322943078,Mammoth Poke & Ramen,Food,restaurant,,287.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/13332981527,Canal Street Eatery & Market,Food,restaurant,,143.2,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/13332989848,Ahuevo,Food,restaurant,,468.5,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/13416540209,Just Salads,Food,restaurant,,124.4,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/13458684601,Silk Road of Chicago,Food,restaurant,,307.4,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,node/13879150730,Nesh,Food,restaurant,,485.5,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,way/73751803,Hilton Garden Inn Chicago Central Loop,Lodging,,hotel,377.9,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,way/147095673,La Quinta Inn & Suites by Wyndham Chicago Downtown,Lodging,,hotel,488.9,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,way/148910721,Taco Lulú,Food,restaurant,,283.1,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,way/149730616,Holiday Inn Chicago-Downtown,Lodging,,hotel,426.0,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,way/150864783,Lou Mitchell's Restaurant,Food,restaurant,,242.5,500,2026-10-28T15:14:51.597337+00:00,2026-10-28T15:13:15Z
+CIN,Cincinnati Union Terminal,Cardinal,58,node/13423991900,Create Cafe,Food,cafe,,24.5,500,2026-10-28T15:16:11.561746+00:00,2026-10-28T15:14:16Z
+CLF,Clifton Forge Amtrak Station,Cardinal,58,way/340799926,Caffe Museo,Food,cafe,,222.8,500,2026-10-28T15:18:21.113549+00:00,2026-10-28T15:16:17Z
+CLF,Clifton Forge Amtrak Station,Cardinal,58,way/340800026,The Red Lantern Inn,Lodging,,hotel,393.5,500,2026-10-28T15:18:21.113549+00:00,2026-10-28T15:16:17Z
+CRF,Crawfordsville Amtrak,Cardinal,58,node/12996111955,Brother's Pizza,Food,restaurant,,222.6,500,2026-10-28T15:40:46.956490+00:00,2026-10-28T15:39:35Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/10809093224,Natraj Indian Cuisine,Food,restaurant,,76.0,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/10809093236,Grass Rootes,Food,restaurant,,135.6,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/10809093241,Pinto Thai,Food,restaurant,,143.9,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/10809188885,Flavor on Main,Food,restaurant,,244.4,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11575201036,Sweet Roux,Food,restaurant,,231.4,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11575201038,It's About Thyme,Food,restaurant,,216.9,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11575201039,Graze to Griddle,Food,restaurant,,207.5,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11575201049,Frost Cafe,Food,cafe,,243.7,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11575201052,Suites at 249,Lodging,,hotel,52.2,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11575201053,Raven's Nest Coffee House,Food,cafe,,92.2,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11575255074,Uncle Elder's Family Restaurant BBQ,Food,restaurant,,161.8,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11593154062,Taqueria La Chiapaneca,Food,restaurant,,298.8,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11608815302,The 4 C's,Food,restaurant,,298.8,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11608815343,The Sangria Bowl,Food,restaurant,,285.4,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11608815349,Grill 309,Food,restaurant,,298.1,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11662091727,18 Grams Coffee Lab,Food,cafe,,129.9,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/11669498544,Burnt Ends BBQ,Food,restaurant,,323.1,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,node/12324710315,Dtom Dtun Noodle,Food,restaurant,,111.9,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,way/921207149,Culpeper Center,Lodging,,hotel,215.0,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+CLP,Culpeper Amtrak Station,Cardinal,58,way/1255310852,Lord Culpeper Hotel,Lodging,,hotel,311.1,500,2026-10-28T15:41:44.386010+00:00,2026-10-28T15:40:36Z
+DFB,Deerfield Beach Amtrak Station,Silver Meteor,42947,way/110254461,La Quinta,Lodging,,hotel,281.7,500,2026-10-28T15:48:54.074147+00:00,2026-10-28T15:47:39Z
+DDG,Dodge City Amtrak Station,Southwest Chief,51,node/2338822216,Applebee's,Food,restaurant,,365.7,500,2026-10-28T15:53:56.117775+00:00,2026-10-28T15:52:40Z
+DDG,Dodge City Amtrak Station,Southwest Chief,51,node/2338822217,Pizza Hut,Food,restaurant,,290.8,500,2026-10-28T15:53:56.117775+00:00,2026-10-28T15:52:40Z
+DDG,Dodge City Amtrak Station,Southwest Chief,51,node/2338822234,Bella Italia Ristorante,Food,restaurant,,245.8,500,2026-10-28T15:53:56.117775+00:00,2026-10-28T15:52:40Z
+DDG,Dodge City Amtrak Station,Southwest Chief,51,node/2338822236,Golden House,Food,restaurant,,120.4,500,2026-10-28T15:53:56.117775+00:00,2026-10-28T15:52:40Z
+FAY,Fayetteville Amtrak Station,Silver Meteor,42947,node/8767057880,Antonella's Ristorante,Food,restaurant,,377.1,500,2026-10-28T15:57:14.441202+00:00,2026-10-28T15:55:45Z
+FAY,Fayetteville Amtrak Station,Silver Meteor,42947,node/12335563086,The Coffee Scene at Prince Charles,Food,restaurant,,134.6,500,2026-10-28T15:57:14.441202+00:00,2026-10-28T15:55:45Z
+FAY,Fayetteville Amtrak Station,Silver Meteor,42947,node/13439838956,Muse & Co,Food,cafe,,338.7,500,2026-10-28T15:57:14.441202+00:00,2026-10-28T15:55:45Z
+FAY,Fayetteville Amtrak Station,Silver Meteor,42947,way/278563645,Blue Moon,Food,cafe,,354.4,500,2026-10-28T15:57:14.441202+00:00,2026-10-28T15:55:45Z
+FAY,Fayetteville Amtrak Station,Silver Meteor,42947,way/549489392,Pierros Bistro,Food,restaurant,,444.3,500,2026-10-28T15:57:14.441202+00:00,2026-10-28T15:55:45Z
+FAY,Fayetteville Amtrak Station,Silver Meteor,42947,way/947120037,Rude Awakening,Food,cafe,,419.5,500,2026-10-28T15:57:14.441202+00:00,2026-10-28T15:55:45Z
+FLG,Flagstaff,Southwest Chief,51,node/1836793421,Beaver Street Brewery,Food,restaurant,,220.7,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/1836793424,Macy's European Coffeehouse and Bakery,Food,cafe,,207.7,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/2099091250,Pizzicletta,Food,restaurant,,299.2,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/2102302794,Altitudes Bar and Grill,Food,restaurant,,149.4,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/2102302795,Biff's Bagels,Food,restaurant,,201.0,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/2127045332,Dara Thai,Food,restaurant,,145.4,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/2127045334,MartAnne's Breakfast Palace,Food,restaurant,,116.7,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/2127045371,Hotel Monte Vista,Lodging,,hotel,166.1,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/2133174999,La Bellavia,Food,restaurant,,220.3,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/2134414411,Swaddee Thai,Food,restaurant,,178.0,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/2157967240,Single Speed Cafe,Food,cafe,,141.4,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/2884633301,Late for the Train Cafe,Food,cafe,,265.4,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/4416949792,Flagstaff Coffee Company,Food,restaurant,,49.5,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/4499451646,Motel DuBeau,Lodging,,motel,172.8,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/4502986879,Toasted Owl,Food,cafe,,285.3,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/4560707816,Firecreek Coffee,Food,cafe,,61.6,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/4787045221,Steep Leaf Lounge,Food,cafe,,110.2,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/4790184221,Diablo Burger,Food,restaurant,,181.8,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/4975586221,Alpine Pizza,Food,restaurant,,50.2,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/5512814421,Criollo Latin,Food,restaurant,,110.2,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/5724055725,Collins Irish Pub And Grill,Food,restaurant,,32.4,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/7383097385,Cornish Pasty Co.,Food,restaurant,,170.4,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/7386045121,Late for the Train,Food,cafe,,112.9,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/8406965817,India Palace,Food,restaurant,,268.2,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/9008929617,Bigfoot BBQ,Food,restaurant,,194.4,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/9960582728,Pato Thai Cuisine,Food,restaurant,,53.9,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/9960582729,Karma Sushi Bar Grill,Food,restaurant,,23.7,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/9960582730,Lumberjack Pizza,Food,restaurant,,97.6,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/10013811669,Big Bowl Noodle,Food,restaurant,,86.3,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/12050292513,Morning Glory Cafe,Food,cafe,,280.8,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/12050296296,Red Curry Vegan Kitchen,Food,restaurant,,108.1,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/12153094601,Fratelli’s Pizza Downtown,Food,restaurant,,262.4,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/12927904201,Tourist Home Cafe,Food,cafe,,215.5,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/13382588101,Urban Pine Eatery,Food,restaurant,,124.4,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/13382594301,Shift Kitchen & Bar,Food,restaurant,,173.5,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/13634275238,Asia Station,Food,restaurant,,302.8,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,node/13704619201,Proper meats + provisions,Food,restaurant,,107.3,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,way/169141885,Weatherford Hotel,Lodging,,hotel,119.0,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,way/201854992,NiMarco's Pizza,Food,restaurant,,288.1,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,way/202770568,Grand Canyon International Hostel,Lodging,,hostel,186.8,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,way/202770809,Awa Kava & Coffee,Food,cafe,,403.9,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,way/202786262,Rodeway Inn Flagstaff-Downtown,Lodging,,motel,221.4,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,way/453585951,Lumberyard Brewing Co.,Food,restaurant,,84.5,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,way/561333276,Residence Inn Flagstaff,Lodging,,hotel,243.1,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,way/564416523,Bespoke Inn Flagstaff,Lodging,,guest_house,495.2,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FLG,Flagstaff,Southwest Chief,51,way/1360480898,Wicked AZ Coffee,Food,cafe,,341.5,500,2026-10-28T15:58:15.042937+00:00,2026-10-28T15:56:46Z
+FMD,Fort Madison,Southwest Chief,51,node/6136899818,Chuong Garden,Food,restaurant,,82.4,500,2026-10-28T16:03:23.317665+00:00,2026-10-28T16:01:51Z
+FMD,Fort Madison,Southwest Chief,51,way/654881384,Kingsley Inn,Lodging,,hotel,288.3,500,2026-10-28T16:03:23.317665+00:00,2026-10-28T16:01:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,node/2153453853,Bangkok Cafe,Food,restaurant,,477.5,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,node/6668279714,The Alpine Chef,Food,restaurant,,17.7,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,node/11557622862,,Food,cafe,,247.8,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,node/12323835055,Billiken's Smokehouse,Food,restaurant,,252.8,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,node/12324531642,The Port,Food,restaurant,,489.5,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,node/13205961201,Original Grinds Coffee Co.,Food,cafe,,230.8,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205373846,Sammy T's,Food,restaurant,,404.9,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205373853,Soup & Taco,Food,restaurant,,447.7,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205430692,Bello Manzo,Food,restaurant,,338.1,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205430702,Richard Johnston Inn,Lodging,,guest_house,324.7,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205430704,Osan,Food,restaurant,,307.8,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205434533,Fredericksburg Square,Food,restaurant,,135.7,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205445779,Courtyard Fredericksburg Historic District,Lodging,,hotel,227.5,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205445793,Agora Downtown Cafe,Food,cafe,,105.9,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205445801,The Caroline House,Lodging,,guest_house,133.0,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205482356,Benny Vitali's,Food,restaurant,,349.4,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205487295,Tea Tyme,Food,cafe,,441.6,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205487296,Spirits American Bar & Grill,Food,restaurant,,448.0,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205658101,Brock's Riverside Grill,Food,restaurant,,204.9,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205806085,25–30 Espresso,Food,cafe,,103.2,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/205823875,Colonial Tavern at the Irish Brigade,Food,restaurant,,174.1,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,way/812993302,Casey’s,Food,restaurant,,434.8,500,2026-10-28T16:05:36.590905+00:00,2026-10-28T16:03:51Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/2509989408,Santa Fe Express Cafe,Food,cafe,,28.7,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/4091993604,The Night Owl,Food,cafe,,307.0,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/4091993605,Monkey Business Cafe,Food,restaurant,,418.8,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/4091993607,Max Bloom's Cafe Noir,Food,cafe,,448.4,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/4091993612,Kentro Greek Kitchen,Food,restaurant,,160.1,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/5734462799,JP23 BBQ & Smokehouse,Food,restaurant,,202.6,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/5734462805,The Continental Room,Food,restaurant,,211.3,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/5734462810,Spice Social,Food,restaurant,,318.9,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/5734462811,Wreckless,Food,restaurant,,312.5,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/5874357738,The Brownstone Cafe,Food,cafe,,457.8,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/6337445191,Kopan Ramen,Food,restaurant,,189.0,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/9328044912,The Cellar,Food,restaurant,,466.6,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/9328044915,Green Bliss Cafe,Food,cafe,,436.5,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/9328064617,Pilgrim's Coffee Shop,Food,cafe,,441.1,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/9328064618,Les Amis Restaurant and Lounge,Food,restaurant,,448.0,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/9328064619,Mulberry Restaurant,Food,restaurant,,425.7,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/9328064620,The Smoking Tiger Coffee and Bread,Food,cafe,,403.7,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/9328064622,Slice Shabu,Food,restaurant,,394.8,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/9328064623,Rialto Cafe,Food,restaurant,,407.5,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/9328064625,Made Coffee,Food,cafe,,337.4,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/9982812899,J's Korean Cuisine,Food,restaurant,,228.9,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/12076226550,Khan Saab Desi Craft Kitchen,Food,restaurant,,277.6,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13344108431,Enraku Sushi,Food,restaurant,,190.9,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13344108433,It's Boba Time,Food,cafe,,176.7,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13344108439,Kalaveras,Food,restaurant,,137.7,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13344108441,The Poke Co.,Food,restaurant,,182.5,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13344108442,Vivot,Food,cafe,,184.8,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13344108443,Chicana,Food,restaurant,,187.7,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13344108444,All About Pho,Food,restaurant,,169.5,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13344108447,Fuoco Pizzeria Napoletana,Food,restaurant,,246.3,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13344108448,U-bu U-bu,Food,restaurant,,228.0,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13344108452,Jaxon's Chix Tenders,Food,restaurant,,313.5,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13479426904,Rutabegorz,Food,restaurant,,324.2,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13762104067,Roman Cucina,Food,restaurant,,367.7,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,node/13796750459,High Horse Saloon,Food,restaurant,,220.7,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,way/124282630,The Old Spaghetti Factory,Food,restaurant,,97.9,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,way/186411961,,Food,restaurant,,134.3,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,way/186411982,Chomp Rockin' Sushi and Teppan Grills,Food,restaurant,,190.2,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,way/604267683,Joe's Bar,Food,restaurant,,270.6,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+FUL,Fullerton Amtrak Station,Southwest Chief,51,way/1509302311,Lagos Mexican Cuisine,Food,restaurant,,303.7,500,2026-10-28T16:06:51.296373+00:00,2026-10-28T16:05:53Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,node/1929386501,Craft on Seminary Street,Food,restaurant,,254.7,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,node/1929386550,The Packinghouse,Food,restaurant,,125.3,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,node/1929386612,Budde's,Food,restaurant,,324.6,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,node/1929386615,Alfano's,Food,restaurant,,330.3,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,node/1929386638,The Bean Hive,Food,cafe,,469.3,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,node/11064108105,Jimmy's Pizza,Food,restaurant,,99.0,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,node/12075937070,baked (pizzas),Food,restaurant,,244.1,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,node/12075965169,El Barril Mexican Restaurant,Food,restaurant,,344.2,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,node/12075965269,Koreana,Food,restaurant,,347.0,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,way/188546667,Landmark Creperie,Food,restaurant,,236.5,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,way/318530756,Pizza House,Food,restaurant,,447.4,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,way/318531353,Iron Spike Brew,Food,restaurant,,438.6,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GBB,Galesburg Amtrak Station,Southwest Chief,51,way/517621725,Innkeeper's Coffee,Food,cafe,,414.9,500,2026-10-28T17:35:01.983729+00:00,2026-10-28T17:33:05Z
+GLP,Gallup Amtrak Station,Southwest Chief,51,node/622596816,Sammy C's Rockin' Sports Bar,Food,restaurant,,227.1,500,2026-10-28T17:36:11.862822+00:00,2026-10-28T17:35:06Z
+GLP,Gallup Amtrak Station,Southwest Chief,51,node/622598305,Angela's Cafe,Food,cafe,,48.2,500,2026-10-28T17:36:11.862822+00:00,2026-10-28T17:35:06Z
+GLP,Gallup Amtrak Station,Southwest Chief,51,node/622598315,Historic Eagle Cafe,Food,cafe,,205.5,500,2026-10-28T17:36:11.862822+00:00,2026-10-28T17:35:06Z
+GLP,Gallup Amtrak Station,Southwest Chief,51,node/2269992492,Camille's Sidewalk Cafe,Food,restaurant,,405.1,500,2026-10-28T17:36:11.862822+00:00,2026-10-28T17:35:06Z
+GLP,Gallup Amtrak Station,Southwest Chief,51,way/256337305,Gallup Coffee Company,Food,cafe,,297.0,500,2026-10-28T17:36:11.862822+00:00,2026-10-28T17:35:06Z
+HIN,Hinton Amtrak Station,Cardinal,58,way/890500397,The Market,Food,restaurant,,294.7,500,2026-10-28T17:11:10.880118+00:00,2026-10-28T17:09:51Z
+HIN,Hinton Amtrak Station,Cardinal,58,way/890500398,Chessie's on the Square,Food,restaurant,,306.8,500,2026-10-28T17:11:10.880118+00:00,2026-10-28T17:09:51Z
+HIN,Hinton Amtrak Station,Cardinal,58,way/890500411,Chestnut Revival,Food,restaurant,,269.0,500,2026-10-28T17:11:10.880118+00:00,2026-10-28T17:09:51Z
+HIN,Hinton Amtrak Station,Cardinal,58,way/1148406150,Lucky Rivers Cafe and Catering,Food,cafe,,126.8,500,2026-10-28T17:11:10.880118+00:00,2026-10-28T17:09:51Z
+HIN,Hinton Amtrak Station,Cardinal,58,way/1514695070,,Lodging,,guest_house,265.2,500,2026-10-28T17:11:10.880118+00:00,2026-10-28T17:09:51Z
+HIN,Hinton Amtrak Station,Cardinal,58,way/1515280713,,Lodging,,guest_house,234.6,500,2026-10-28T17:11:10.880118+00:00,2026-10-28T17:09:51Z
+HIN,Hinton Amtrak Station,Cardinal,58,way/1515431524,,Lodging,,guest_house,359.8,500,2026-10-28T17:11:10.880118+00:00,2026-10-28T17:09:51Z
+HIN,Hinton Amtrak Station,Cardinal,58,way/1515431527,The Guest House Inn on Courthouse Square,Lodging,,guest_house,375.4,500,2026-10-28T17:11:10.880118+00:00,2026-10-28T17:09:51Z
+HOL,Hollywood Amtrak Station,Silver Meteor,42947,node/5212575625,Hollywood Gateway Inn,Lodging,,apartment,309.1,500,2026-10-28T17:12:13.080563+00:00,2026-10-28T17:10:51Z
+HOL,Hollywood Amtrak Station,Silver Meteor,42947,way/1000075030,Miami Grill,Food,restaurant,,477.1,500,2026-10-28T17:12:13.080563+00:00,2026-10-28T17:10:51Z
+HOL,Hollywood Amtrak Station,Silver Meteor,42947,way/1249531908,The Hollywood Donut Factory,Food,restaurant,,384.4,500,2026-10-28T17:12:13.080563+00:00,2026-10-28T17:10:51Z
+HUN,Huntington Amtrak Station,Cardinal,58,node/5923047296,New China Garden Buffet,Food,restaurant,,484.9,500,2026-10-28T17:13:20.058346+00:00,2026-10-28T17:11:50Z
+HUN,Huntington Amtrak Station,Cardinal,58,way/338390528,Bahnhof Wvrsthaus + Biergarten,Food,restaurant,,425.7,500,2026-10-28T17:13:20.058346+00:00,2026-10-28T17:11:50Z
+HUN,Huntington Amtrak Station,Cardinal,58,way/587261677,Grindstone Coffeeology,Food,cafe,,377.9,500,2026-10-28T17:13:20.058346+00:00,2026-10-28T17:11:50Z
+HUN,Huntington Amtrak Station,Cardinal,58,way/741076177,Davis' Place Neighborhood Bar & Grill,Food,restaurant,,420.8,500,2026-10-28T17:13:20.058346+00:00,2026-10-28T17:11:50Z
+HUT,Hutchinson Amtrak Station,Southwest Chief,51,node/13568728397,Celayense,Food,restaurant,,97.2,500,2026-10-28T17:14:27.155179+00:00,2026-10-28T17:12:51Z
+HUT,Hutchinson Amtrak Station,Southwest Chief,51,node/13568787070,Pizza Hut,Food,restaurant,,340.6,500,2026-10-28T17:14:27.155179+00:00,2026-10-28T17:12:51Z
+HUT,Hutchinson Amtrak Station,Southwest Chief,51,node/13571730297,Roma's Italian Restaurant,Food,restaurant,,29.4,500,2026-10-28T17:14:27.155179+00:00,2026-10-28T17:12:51Z
+HUT,Hutchinson Amtrak Station,Southwest Chief,51,node/13586214584,The Hickory Stik,Food,restaurant,,288.3,500,2026-10-28T17:14:27.155179+00:00,2026-10-28T17:12:51Z
+HUT,Hutchinson Amtrak Station,Southwest Chief,51,node/13596099590,Metro To Go,Food,cafe,,175.8,500,2026-10-28T17:14:27.155179+00:00,2026-10-28T17:12:51Z
+HUT,Hutchinson Amtrak Station,Southwest Chief,51,node/13697280824,Catalyst Lofts,Lodging,,apartment,251.5,500,2026-10-28T17:14:27.155179+00:00,2026-10-28T17:12:51Z
+HUT,Hutchinson Amtrak Station,Southwest Chief,51,way/1479101727,Hutchinson Inn,Lodging,,motel,335.5,500,2026-10-28T17:14:27.155179+00:00,2026-10-28T17:12:51Z
+HUT,Hutchinson Amtrak Station,Southwest Chief,51,way/1486436685,Coratel Inn & Suites,Lodging,,motel,145.3,500,2026-10-28T17:14:27.155179+00:00,2026-10-28T17:12:51Z
+IND,Indianapolis,Cardinal,58,node/3799605264,Starbucks,Food,cafe,,209.0,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/4079685108,Crowne Plaza Indianapolis Downtown (Union Station),Lodging,,hotel,109.0,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/4079685110,Le Meridien Indianapolis,Lodging,,hotel,356.8,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/6479327285,St. Elmo Steak House,Food,restaurant,,320.9,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/7261911885,Georgia Street Grind,Food,cafe,,270.9,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/9680958617,Hyatt Place Indianapolis Downtown,Lodging,,hotel,428.5,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/11286250673,Hot Box Pizza,Food,restaurant,,377.3,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/11286250674,Kilroy'sBar & Grill,Food,restaurant,,309.5,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/11286250676,The Old Spaghetti Factory,Food,restaurant,,285.9,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/11286250677,Hooters,Food,restaurant,,268.8,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/11619291375,Ruth's Chris Steak House,Food,restaurant,,482.2,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/12806479216,Dick's Last Resort,Food,restaurant,,373.5,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/13308263328,Mount Fuji,Food,restaurant,,383.7,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/13308263336,Yard House,Food,restaurant,,395.7,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/13416756505,Seoul Fresh,Food,cafe,,376.3,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/13762052088,Spoke & Steele,Food,restaurant,,346.4,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,node/14068844102,Aroma Indian Cuisine,Food,restaurant,,474.6,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,way/199297625,Holiday Inn Express & Suites,Lodging,,hotel,471.2,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,way/199956293,Hyatt House Indianapolis / Downtown,Lodging,,hotel,428.7,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,way/340404001,Hyatt Regency Indianapolis,Lodging,,hotel,494.0,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,way/340480877,Omni Severin Hotel,Lodging,,hotel,223.7,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,way/341313470,Hampton Inn Indianapolis Downtown Across from Circle Centre,Lodging,,hotel,449.0,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,way/341313486,Homewood Suites by Hilton Indianapolis-Downtown,Lodging,,hotel,312.3,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,way/848665190,TownePlace Suites,Lodging,,hotel,461.9,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,way/848665199,TaxMan CityWay,Food,restaurant,,473.6,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,way/989226557,Tru,Lodging,,hotel,361.3,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+IND,Indianapolis,Cardinal,58,relation/4832618,Signia By Hilton,Lodging,,hotel,188.8,500,2026-10-28T17:38:19.874388+00:00,2026-10-28T17:37:07Z
+JSP,Jesup Amtrak Station,Silver Meteor,42947,way/741939066,Damon's Famous Fingers & Wings,Food,restaurant,,398.9,500,2026-10-28T17:39:33.039802+00:00,2026-10-28T17:38:08Z
+KCY,Kansas City,Southwest Chief,51,node/1831544751,Parisi Café,Food,cafe,,55.5,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/1831546117,Pierpont's Restaurant,Food,restaurant,,56.0,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/1831553472,Harvey's,Food,restaurant,,21.3,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/1914702534,Lidia's,Food,restaurant,,347.6,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/2616795952,Lulu's Thai Noodle Shop,Food,restaurant,,422.6,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/4987495827,Grunauer,Food,restaurant,,327.1,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/5134100835,One East,Food,restaurant,,234.9,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/5180976077,Savvy Coffee & Lunch Bar,Food,cafe,,334.0,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/10266528750,Starbucks,Food,cafe,,334.1,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/10266528763,Burnt End BBQ,Food,restaurant,,350.5,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/10266528773,Unforked,Food,restaurant,,294.3,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/12377580382,Sushi Kodawari,Food,restaurant,,399.0,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,node/13908302905,Lazia,Food,restaurant,,437.5,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,way/37832783,Sheraton Kansas City Hotel at Crown Center,Lodging,,hotel,470.3,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,way/50903451,The Westin Crown Center,Lodging,,hotel,249.4,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,way/253778346,Cafe Gratitude,Food,restaurant,,461.1,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,way/340312222,Crossroads Hotel,Lodging,,hotel,417.1,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,way/437364923,Home2 Suites Kansas City Downtown,Lodging,,hotel,490.8,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KCY,Kansas City,Southwest Chief,51,way/879008150,Jack Stack Barbecue,Food,restaurant,,302.0,500,2026-10-28T17:41:40.030092+00:00,2026-10-28T17:40:09Z
+KNG,Kingman,Southwest Chief,51,way/160702192,Mr. D'z,Food,restaurant,,425.7,500,2026-10-28T17:43:42.067011+00:00,2026-10-28T17:42:10Z
+KNG,Kingman,Southwest Chief,51,way/1152460967,Mattina's Ristorante Italiano,Food,restaurant,,256.8,500,2026-10-28T17:43:42.067011+00:00,2026-10-28T17:42:10Z
+KNG,Kingman,Southwest Chief,51,way/1357845894,Mudd on 66,Food,cafe,,248.9,500,2026-10-28T17:43:42.067011+00:00,2026-10-28T17:42:10Z
+KIS,Kissimmee Amtrak Station,Silver Meteor,42947,node/4220614596,Savion's Place,Food,restaurant,,99.8,500,2026-10-28T18:26:32.843494+00:00,2026-10-28T18:24:38Z
+KIS,Kissimmee Amtrak Station,Silver Meteor,42947,node/5503753859,3 Sisters Speakeasy,Food,restaurant,,114.1,500,2026-10-28T18:26:32.843494+00:00,2026-10-28T18:24:38Z
+KIS,Kissimmee Amtrak Station,Silver Meteor,42947,node/5503757296,Broadway Pizza Bar,Food,restaurant,,153.9,500,2026-10-28T18:26:32.843494+00:00,2026-10-28T18:24:38Z
+KIS,Kissimmee Amtrak Station,Silver Meteor,42947,node/6605073888,,Food,cafe,,412.5,500,2026-10-28T18:26:32.843494+00:00,2026-10-28T18:24:38Z
+KIS,Kissimmee Amtrak Station,Silver Meteor,42947,node/11194964373,Cariño's Cafe,Food,cafe,,134.9,500,2026-10-28T18:26:32.843494+00:00,2026-10-28T18:24:38Z
+KIS,Kissimmee Amtrak Station,Silver Meteor,42947,node/11289789369,Main Street Pizza,Food,restaurant,,354.3,500,2026-10-28T18:26:32.843494+00:00,2026-10-28T18:24:38Z
+KIS,Kissimmee Amtrak Station,Silver Meteor,42947,way/931766793,Orange Blossom Hotel,Lodging,,hotel,206.9,500,2026-10-28T18:26:32.843494+00:00,2026-10-28T18:24:38Z
+LAJ,La Junta Amtrak Station,Southwest Chief,51,way/112119220,Midtown Motel,Lodging,,motel,410.3,500,2026-10-28T18:28:46.613112+00:00,2026-10-28T18:27:47Z
+LAJ,La Junta Amtrak Station,Southwest Chief,51,way/971827992,Travel Inn of La Junta,Lodging,,hotel,218.6,500,2026-10-28T18:28:46.613112+00:00,2026-10-28T18:27:47Z
+LAJ,La Junta Amtrak Station,Southwest Chief,51,way/1383629283,Asian Cafe,Food,restaurant,,495.3,500,2026-10-28T18:28:46.613112+00:00,2026-10-28T18:27:47Z
+LAJ,La Junta Amtrak Station,Southwest Chief,51,way/1383629298,Lucy's Tacos,Food,restaurant,,265.9,500,2026-10-28T18:28:46.613112+00:00,2026-10-28T18:27:47Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/2873883553,La Scala,Food,restaurant,,173.6,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/5290416854,Pete's Diner,Food,restaurant,,462.8,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/9784434710,Latea,Food,cafe,,453.5,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/10163919946,BRU Burger Bar,Food,restaurant,,49.5,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/11017530431,RedSeven Kitchen + Cocktail,Food,restaurant,,51.5,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/11265552929,The Lobby,Food,cafe,,412.4,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/11358749093,Nom Nom Tacos & Tequila,Food,restaurant,,163.4,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/11607154934,Star City Coffee,Food,cafe,,68.4,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/11753746370,Peppercorns Kitchen,Food,restaurant,,461.8,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/14050060036,Kürtőskalács,Food,restaurant,,355.6,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,node/14197071781,The Eleventh House,Food,cafe,,159.7,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,way/283273587,Hilton Garden Inn,Lodging,,hotel,369.3,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,way/283530870,Holiday Inn,Lodging,,hotel,482.6,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,way/283537192,Sichuan House,Food,restaurant,,326.2,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,way/555857540,Hampton Inn & Suites West Lafayette,Lodging,,hotel,464.5,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LAF,Lafayette Amtrak Station,Cardinal,58,way/1222577792,Digby's Pub and Patio,Food,restaurant,,287.3,500,2026-10-28T18:32:39.676640+00:00,2026-10-28T18:30:49Z
+LMR,Lamar Amtrak,Southwest Chief,51,way/802057404,Brew Unto Others,Food,cafe,,118.5,500,2026-10-28T18:35:46.955370+00:00,2026-10-28T18:33:50Z
+LMR,Lamar Amtrak,Southwest Chief,51,way/802073508,Las Brisas Restaurant,Food,restaurant,,307.0,500,2026-10-28T18:35:46.955370+00:00,2026-10-28T18:33:50Z
+LMR,Lamar Amtrak,Southwest Chief,51,relation/11083475,Holiday Motel,Lodging,,motel,461.6,500,2026-10-28T18:35:46.955370+00:00,2026-10-28T18:33:50Z
+LMR,Lamar Amtrak,Southwest Chief,51,relation/11083476,The Buzzards Nest,Lodging,,motel,159.6,500,2026-10-28T18:35:46.955370+00:00,2026-10-28T18:33:50Z
+LMY,Lamy,Southwest Chief,51,node/6957960517,Legal Tender,Food,restaurant,,81.8,500,2026-10-28T18:36:56.908082+00:00,2026-10-28T18:35:50Z
+LMY,Lamy,Southwest Chief,51,way/822381540,,Lodging,,guest_house,266.9,500,2026-10-28T18:36:56.908082+00:00,2026-10-28T18:35:50Z
+LMY,Lamy,Southwest Chief,51,way/822381547,,Lodging,,guest_house,352.1,500,2026-10-28T18:36:56.908082+00:00,2026-10-28T18:35:50Z
+LSV,Las Vegas Amtrak Station,Southwest Chief,51,node/8828247752,Kin,Food,restaurant,,87.1,500,2026-10-28T18:53:16.171543+00:00,2026-10-28T18:52:06Z
+LSV,Las Vegas Amtrak Station,Southwest Chief,51,node/9630466868,Dick's Pub & Restaurant,Food,restaurant,,348.2,500,2026-10-28T18:53:16.171543+00:00,2026-10-28T18:52:06Z
+LSV,Las Vegas Amtrak Station,Southwest Chief,51,way/579398926,Castañeda Hotel,Lodging,,hotel,99.0,500,2026-10-28T18:53:16.171543+00:00,2026-10-28T18:52:06Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/613633882,Rudy's Pizzeria,Food,restaurant,,431.6,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/1726310300,The Java Break,Food,cafe,,387.2,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/2283112837,Mr. Brew's Taphouse,Food,restaurant,,452.6,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/2495639979,La Prima Tazza,Food,cafe,,451.4,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/2704141951,Ladybird Diner,Food,restaurant,,493.0,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/2704141961,Mass Street Fish House & Raw Bar,Food,restaurant,,492.1,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/2704141963,715 Restaurant,Food,restaurant,,491.3,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/2704163298,TEN Restaurant,Food,restaurant,,487.6,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/2713414567,Henry's pub and coffee house,Food,cafe,,457.8,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/2864344829,Cosmos Indian Store,Food,restaurant,,467.5,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/2864344835,Merchants,Food,restaurant,,477.2,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/2864373494,Fiesta Cancun,Food,restaurant,,473.2,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/12137010449,SpringHill Suites,Lodging,,hotel,344.0,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/12681620363,Culinaria,Food,restaurant,,368.0,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/12684657221,The Nostalgia Room,Food,cafe,,404.6,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,node/12687849440,Bon Bon!,Food,restaurant,,291.9,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LRC,Lawrence Amtrak Station,Southwest Chief,51,way/214550415,The Free State Brewing Company,Food,restaurant,,436.6,500,2026-10-28T18:54:15.065299+00:00,2026-10-28T18:53:03Z
+LAX,Los Angeles,Southwest Chief,51,node/470872073,Philippe The Original,Food,restaurant,,389.1,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/1069655015,The California Endowment Courtyard Cafe,Food,cafe,,357.1,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/2894755461,Chiguacle,Food,restaurant,,201.5,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/4908362224,The Little Jewel of New Orleans,Food,restaurant,,453.8,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/4946245021,Las Anitas,Food,restaurant,,218.9,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/4946281521,Juanita's Cafe,Food,restaurant,,198.7,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/4946281522,El Paseo Inn,Food,restaurant,,172.3,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/4946281721,La Golondrina Cafe,Food,restaurant,,199.9,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/5634145923,Starbucks,Food,cafe,,448.5,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/6019708047,Thai,Food,restaurant,,325.2,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/11250159048,Golden Tree,Food,restaurant,,463.4,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/12912909729,ABC Seafood,Food,restaurant,,468.7,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/12912964605,Minon Cake,Food,cafe,,487.3,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/12912965405,Mama Lu's Dumpling House,Food,restaurant,,430.2,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/12912970423,Phoenix Inn Chinese Cuisine,Food,restaurant,,490.5,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/13351410662,Suehiro Mini,Food,restaurant,,441.5,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/13352229147,Mayflower Seafood Restaurant,Food,restaurant,,397.9,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/13353854289,Placita Cafe,Food,cafe,,288.2,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/13406517043,Buffalo Wild Wings,Food,restaurant,,390.3,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/14256899997,La Luz Del Dia,Food,restaurant,,191.5,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,node/14257046190,Les Compadres de Oaxaca,Food,restaurant,,428.9,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,way/216697990,Denny's,Food,restaurant,,493.6,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,way/443287381,Starbucks,Food,cafe,,115.9,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,way/443287617,Traxx,Food,restaurant,,41.9,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+LAX,Los Angeles,Southwest Chief,51,relation/6387395,Metro Plaza Hotel,Lodging,,hotel,302.5,500,2026-10-28T18:55:16.621350+00:00,2026-10-28T18:54:03Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/3748672636,Katerina's Greek Cuisine,Food,restaurant,,138.1,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/3874108267,Doug's Deli,Food,restaurant,,157.2,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/3874108269,Grounds Central Station,Food,cafe,,163.9,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/3874123413,Crossroads Tabletop Tavern,Food,restaurant,,117.0,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/3891084432,Bulldog Bistro,Food,restaurant,,256.0,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/3891118253,Philadelphia Tavern,Food,restaurant,,136.2,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/3891143410,Siam Classic,Food,restaurant,,245.3,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/3894449069,Carmello's,Food,restaurant,,105.8,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/3894485266,Monza,Food,restaurant,,114.0,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/4880985843,Jirani Coffeehouse,Food,cafe,,13.8,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/5257651590,Zandra's Taqueria,Food,restaurant,,91.7,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/6993933260,CJ Finz Raw Bar & Grille,Food,restaurant,,40.9,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/6993933261,Foster's Grille,Food,restaurant,,33.4,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/6993933262,Mariachis Tequileria & Restaurant,Food,restaurant,,32.9,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/6993933263,The Bone,Food,restaurant,,48.1,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/9711662827,The Omelette Cafe,Food,restaurant,,476.6,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,node/12180114950,Lume Asian Fusion,Food,restaurant,,97.5,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,way/385780619,Malone's of Manassas,Food,restaurant,,223.1,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,way/747457963,Public House Kitchen and Brewery,Food,restaurant,,118.5,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,way/1042428212,Battle Street Bistro,Food,restaurant,,136.0,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MSS,Manassas Amtrak Station,Cardinal,58,way/1056905990,Olde Towne Sports Pub,Food,restaurant,,446.8,500,2026-10-28T18:56:20.758672+00:00,2026-10-28T18:55:02Z
+MAY,Maysville Amtrak Station,Cardinal,58,way/868199450,Caproni's on the River,Food,restaurant,,113.9,500,2026-10-28T18:57:28.910872+00:00,2026-10-28T18:56:06Z
+MNG,Montgomery Amtrak,Cardinal,58,node/4049328187,El Jalisco,Food,restaurant,,89.1,500,2026-10-28T19:04:09.445895+00:00,2026-10-28T19:02:13Z
+NPV,Naperville Amtrak Station,Southwest Chief,51,way/160419120,Thai Medallion,Food,restaurant,,85.0,500,2026-10-28T19:08:21.812837+00:00,2026-10-28T19:07:19Z
+NPV,Naperville Amtrak Station,Southwest Chief,51,way/198220458,Fiammé,Food,restaurant,,477.5,500,2026-10-28T19:08:21.812837+00:00,2026-10-28T19:07:19Z
+NPV,Naperville Amtrak Station,Southwest Chief,51,way/618328073,Kreger's Brat and Sausage Haus,Food,restaurant,,290.7,500,2026-10-28T19:08:21.812837+00:00,2026-10-28T19:07:19Z
+NDL,Needles Amtrak,Southwest Chief,51,node/12554906435,Munchy's,Food,restaurant,,178.0,500,2026-10-28T19:09:30.901995+00:00,2026-10-28T19:08:20Z
+NDL,Needles Amtrak,Southwest Chief,51,way/1026856343,Econo Lodge,Lodging,,motel,386.9,500,2026-10-28T19:09:30.901995+00:00,2026-10-28T19:08:20Z
+NDL,Needles Amtrak,Southwest Chief,51,way/1027119944,Rodeway Inn & Suites,Lodging,,motel,430.8,500,2026-10-28T19:09:30.901995+00:00,2026-10-28T19:08:20Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,node/4633808281,MAD FOR CHICKEN,Food,restaurant,,453.3,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,node/5005392449,Don Pepe,Food,restaurant,,223.9,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,node/8392461226,Starbucks,Food,cafe,,92.8,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,node/10755941576,Queen Pizza II,Food,restaurant,,417.4,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,node/10791083105,Sihana Cafe,Food,cafe,,406.6,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,node/11343840345,Starbucks,Food,cafe,,97.4,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,node/13115567002,Kingu Sushi,Food,restaurant,,184.6,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,node/13115567501,Tortas Lokas,Food,restaurant,,177.4,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,way/259492807,DoubleTree,Lodging,,hotel,88.5,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,way/413234888,TRYP Newark,Lodging,,hotel,478.5,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,way/413424393,China Express,Food,restaurant,,435.8,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,way/436683594,Burke's Tavern,Food,restaurant,,483.3,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,way/436709137,Playball Restaurant,Food,restaurant,,309.0,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,way/436760801,Mi Pequeno Mexico,Food,restaurant,,453.6,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,way/436766482,Manu's Kitchen Bar and Sushi Lounge,Food,restaurant,,493.8,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,way/905546078,Alondra's Bar & Lounge,Food,restaurant,,438.7,500,2026-10-28T19:32:00.289748+00:00,2026-10-28T19:30:37Z
+NEW,Newton,Southwest Chief,51,node/528022728,Acapulco Mexican Restaurant,Food,restaurant,,431.1,500,2026-10-28T19:33:04.115427+00:00,2026-10-28T19:31:37Z
+NEW,Newton,Southwest Chief,51,node/3654645211,Norm's Coffee Bar,Food,restaurant,,253.6,500,2026-10-28T19:33:04.115427+00:00,2026-10-28T19:31:37Z
+NEW,Newton,Southwest Chief,51,node/7176612620,Back Alley Pizza,Food,restaurant,,222.9,500,2026-10-28T19:33:04.115427+00:00,2026-10-28T19:31:37Z
+NEW,Newton,Southwest Chief,51,node/7177776558,China Inn,Food,restaurant,,42.6,500,2026-10-28T19:33:04.115427+00:00,2026-10-28T19:31:37Z
+NEW,Newton,Southwest Chief,51,node/7185751446,Under 701 Cafe,Food,cafe,,343.8,500,2026-10-28T19:33:04.115427+00:00,2026-10-28T19:31:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/662894338,Best Bagel & Coffee,Food,cafe,,350.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/663104998,Tick Tock Diner,Food,restaurant,,247.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/1707825812,Uncle Jack's,Food,restaurant,,394.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/1707825813,Sergimmo Slumeria,Food,restaurant,,444.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/1707825815,Zoob Zib Thai Authentic Noodle Bar,Food,restaurant,,456.4,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/1707825816,Skylight Diner,Food,restaurant,,393.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/1707825817,Hudson Station Bar and Grill,Food,restaurant,,406.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/1707825820,Golden City,Food,restaurant,,377.9,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/1707825821,TRYP,Lodging,,hotel,380.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/1707825822,Sushi Star,Food,cafe,,462.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/1707825823,Starstruck Coffee,Food,cafe,,438.1,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/2307164608,GiGi Cafe,Food,cafe,,398.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/2307167700,Izumi,Food,restaurant,,425.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/2351558467,Bombay Tandoori,Food,restaurant,,479.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/2377128195,Uncle Nick's Restaurant,Food,restaurant,,164.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/2407447000,Pad Thai,Food,restaurant,,83.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/2407447001,Pio Pio Riko,Food,restaurant,,76.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/2703449252,Pennsylvania 6,Food,restaurant,,385.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/2703449303,Niles NYC,Food,restaurant,,267.1,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/2790840179,PaPi Pasta & Pizza,Food,restaurant,,478.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/2946299764,34th Bagels & More,Food,cafe,,354.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/3179745213,Tim Hortons,Food,cafe,,137.9,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/3264422314,Starbucks,Food,cafe,,389.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/3451116498,Moka & Co,Food,cafe,,396.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/3507260979,Andrews NYC Diner,Food,restaurant,,415.1,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/3507260980,fresh&co,Food,restaurant,,279.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/4070145709,Patiala Indian Grill,Food,restaurant,,367.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/4481455792,Bean&Bean Coffee,Food,cafe,,428.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/4842467840,Roast Kitchen,Food,restaurant,,423.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/4846658821,The Bread Factory Cafe,Food,cafe,,418.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/4867303121,Hooters,Food,restaurant,,338.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/5400492993,Ajisen Ramen,Food,restaurant,,455.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/5419491621,Cinnamon snail,Food,restaurant,,224.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/5758246021,Hotel Hayden,Lodging,,hotel,430.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/5812464935,Madman Espresso,Food,cafe,,318.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/5815748397,Swagat,Food,restaurant,,265.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/5816276401,Macaron Café,Food,restaurant,,487.1,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/5816354728,Delmonico's Kitchen,Food,restaurant,,449.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/5816447410,El Sabroso,Food,restaurant,,479.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/6007303592,Hoa Cafe,Food,restaurant,,212.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/6178461392,The Little Beet,Food,restaurant,,226.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/6178461393,Pat LaFrieda Meat Purveyors,Food,restaurant,,230.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/6178461399,Ribalta,Food,restaurant,,228.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/6178461400,Sabi Sushi,Food,restaurant,,221.9,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/6507019906,Starbucks,Food,cafe,,391.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/6638585608,Cafe Bravo,Food,cafe,,293.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/6666722028,The People's Forum,Food,cafe,,462.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/6680695923,Starbucks,Food,cafe,,265.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/6916949630,Hanamizuki,Food,cafe,,394.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/7080440667,Bravo Pizza,Food,restaurant,,255.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/7087207951,Abaya Thai,Food,restaurant,,389.9,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/7125928685,Friedman’s,Food,restaurant,,400.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/7653745273,Haymaker,Food,restaurant,,189.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/7653745278,Ninth Street Espresso,Food,cafe,,228.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/7700401455,Walters,Food,restaurant,,155.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/7700401457,,Food,restaurant,,135.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/7700401461,Rowdy Rooster Indian Fried Chicken,Food,restaurant,,382.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/7951223515,Gogi,Food,restaurant,,456.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/7951223521,Pizzacafe,Food,restaurant,,492.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/8289799740,Starbucks,Food,cafe,,138.4,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/8355860496,Ichiran,Food,restaurant,,406.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/8615466792,BJ Pizza&Deli,Food,restaurant,,200.4,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/8669140491,Starbucks,Food,cafe,,293.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/8669227466,Essen,Food,cafe,,372.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/8678847687,Taste Kitchen,Food,restaurant,,389.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/9172181018,Zou Zou’s,Food,restaurant,,459.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/9235536634,Rosa's Pizza,Food,restaurant,,310.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/9253544617,99¢ Delicious Pizza,Food,restaurant,,374.1,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/9658251141,Liberty Bagels Midtown,Food,cafe,,295.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/9838678804,Greek from Greece,Food,restaurant,,442.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/9838737047,Yang Guo Fu,Food,restaurant,,371.1,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/9902816729,The Landing,Food,restaurant,,217.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/9910104398,Hidden Leaf,Food,restaurant,,454.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/9915437745,Black Fox Coffee Co.,Food,cafe,,457.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/9951145664,Stick To My Pot Potstickers,Food,restaurant,,328.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/10000660266,Blue Bottle Coffee,Food,cafe,,156.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/10884425202,In Common NYC Cafe,Food,cafe,,421.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/10963340357,Birch Coffee,Food,cafe,,94.1,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/11345588157,Kame,Food,restaurant,,370.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/11399352938,Song Tea,Food,cafe,,466.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/11399372270,Legasea Bar & Grill,Food,restaurant,,487.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/11748989360,Moxy NYC Times Square,Lodging,,hotel,486.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/11775761069,Dude’s Pizza,Food,restaurant,,373.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/11842298772,Hey Yuet,Food,restaurant,,401.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/11865529110,Starbucks,Food,cafe,,95.1,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/11968161061,Vanilla Gorilla Cafe,Food,cafe,,423.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/11968161063,Burgerology,Food,restaurant,,392.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12189238901,Roberta's,Food,restaurant,,254.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12235107075,Loopy's,Food,restaurant,,364.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12235107077,New M & J,Food,restaurant,,368.9,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12241733433,Emperor Dumpling,Food,restaurant,,455.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12323976457,Mas Tacos,Food,restaurant,,113.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12526669807,Le Pain Quotidien,Food,cafe,,327.4,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12738172134,Chatti,Food,restaurant,,443.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12899719580,Corner Eats,Food,cafe,,353.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12947494289,Cha Cha Matcha,Food,cafe,,172.4,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12947498610,The Corner Deli;La Esquina,Food,restaurant,,207.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/12947498611,Yono Sushi,Food,restaurant,,180.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/13460888786,ARVACI coffee,Food,cafe,,498.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/13767535451,Blank Street Coffee,Food,cafe,,490.9,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/13781153302,Primo! Cappuccino,Food,cafe,,177.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/13781153310,Gong Cha,Food,cafe,,159.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/13781153314,Penn Café Eatery,Food,cafe,,147.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/13841010267,Alessa Cucina & Bar,Food,restaurant,,333.4,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/13841010268,Lalyn,Food,restaurant,,330.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/13958820934,Versa,Food,restaurant,,310.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/14039198574,Vista Lounge,Food,cafe,,458.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/14126280403,Hawa Smoothies & Bubble Tea,Food,cafe,,298.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/14167035601,Bagel Pub,Food,cafe,,275.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,node/14185735402,Soup Spot,Food,restaurant,,135.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/264674579,Midtown West Hotel,Lodging,,hotel,108.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/264678451,Holiday Inn Express,Lodging,,hotel,221.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/264685131,Hampton Inn Manhattan-Madison Square Garden Area,Lodging,,hotel,440.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/264685133,Hilton Garden Inn,Lodging,,hotel,482.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/264685140,Hotel Indigo,Lodging,,hotel,454.3,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/264685147,Courtyard Marriot,Lodging,,hotel,361.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/264685212,DoubleTree,Lodging,,hotel,453.7,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/265258287,New Yorker by Lotte Hotels,Lodging,,hotel,277.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/265272951,Crowne Plaza HY36 Midtown Manhattan,Lodging,,hotel,384.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/265272953,EVEN Hotel New York - Times Square South,Lodging,,hotel,354.4,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/265272965,Staypineapple,Lodging,,hotel,445.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/265272968,Fairfield Inn & Suites,Lodging,,hotel,401.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/265276939,Henn Na Hotel,Lodging,,hotel,357.4,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/265277039,Avenida,Food,restaurant,,197.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/265282680,Courtyard,Lodging,,hotel,489.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/266108507,Homewood Suites by Hilton,Lodging,,hotel,453.2,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/266108508,Hilton Garden Inn,Lodging,,hotel,464.5,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/277956177,Renaissance,Lodging,,hotel,325.8,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/279786562,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,Lodging,,hotel,223.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/292870388,Cambria Hotel & Suites,Lodging,,hotel,468.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/785585477,DoubleTree,Lodging,,hotel,418.6,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/934137489,Hotel Central Times Square,Lodging,,hotel,446.0,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,way/1076997167,Pendry Manhattan West,Lodging,,hotel,463.4,500,2026-10-28T19:34:09.346877+00:00,2026-10-28T19:32:37Z
+ORL,Orlando,Silver Meteor,42947,way/888460114,TownePlace Suites Orlando Downtown,Lodging,,hotel,377.4,500,2026-10-28T19:35:29.261638+00:00,2026-10-28T19:33:39Z
+ORL,Orlando,Silver Meteor,42947,way/917801036,Hampton Inn & Suites Orlando / Downtown South - Medical Center,Lodging,,hotel,415.7,500,2026-10-28T19:35:29.261638+00:00,2026-10-28T19:33:39Z
+PAK,Palatka Amtrak,Silver Meteor,42947,node/10608903847,Magnolia Cafe,Food,restaurant,,498.0,500,2026-10-28T19:36:38.422360+00:00,2026-10-28T19:35:41Z
+PTB,Petersburg Amtrak Station,Silver Meteor,42947,node/3140652970,Bella Pizza,Food,restaurant,,366.2,500,2026-10-28T19:37:46.213477+00:00,2026-10-28T19:36:43Z
+PTB,Petersburg Amtrak Station,Silver Meteor,42947,node/6764518754,Tops China,Food,restaurant,,376.0,500,2026-10-28T19:37:46.213477+00:00,2026-10-28T19:36:43Z
+PHL,Philadelphia,Cardinal; Silver Meteor,42947; 58,node/13115548237,Sunset Social,Food,restaurant,,382.7,500,2026-10-28T19:42:41.078763+00:00,2026-10-28T19:41:47Z
+PHL,Philadelphia,Cardinal; Silver Meteor,42947; 58,node/13297054428,Alchemy Coffee,Food,cafe,,288.0,500,2026-10-28T19:42:41.078763+00:00,2026-10-28T19:41:47Z
+PHL,Philadelphia,Cardinal; Silver Meteor,42947; 58,node/13334209325,Bowl'd Masala,Food,restaurant,,285.8,500,2026-10-28T19:42:41.078763+00:00,2026-10-28T19:41:47Z
+PHL,Philadelphia,Cardinal; Silver Meteor,42947; 58,node/13334209327,Mucho Peru,Food,restaurant,,284.6,500,2026-10-28T19:42:41.078763+00:00,2026-10-28T19:41:47Z
+PHL,Philadelphia,Cardinal; Silver Meteor,42947; 58,node/13334209330,Sahbyy Food,Food,restaurant,,300.2,500,2026-10-28T19:42:41.078763+00:00,2026-10-28T19:41:47Z
+PHL,Philadelphia,Cardinal; Silver Meteor,42947; 58,node/13588696143,Walnut Street Cafe,Food,restaurant,,469.3,500,2026-10-28T19:42:41.078763+00:00,2026-10-28T19:41:47Z
+PHL,Philadelphia,Cardinal; Silver Meteor,42947; 58,node/13588721037,Starbucks,Food,cafe,,487.3,500,2026-10-28T19:42:41.078763+00:00,2026-10-28T19:41:47Z
+PHL,Philadelphia,Cardinal; Silver Meteor,42947; 58,node/13625380376,Erawan,Food,restaurant,,489.2,500,2026-10-28T19:42:41.078763+00:00,2026-10-28T19:41:47Z
+PCT,Princeton Amtrak Station,Southwest Chief,51,node/4970973593,,Food,restaurant,,171.5,500,2026-10-28T19:52:25.270138+00:00,2026-10-28T19:50:51Z
+PCT,Princeton Amtrak Station,Southwest Chief,51,way/544157899,The Coffee Cup,Food,restaurant,,125.8,500,2026-10-28T19:52:25.270138+00:00,2026-10-28T19:50:51Z
+RAT,Raton,Southwest Chief,51,way/782581574,Los Chanquis Mexican & Seafood,Food,restaurant,,207.0,500,2026-10-28T19:53:40.816838+00:00,2026-10-28T19:51:53Z
+RAT,Raton,Southwest Chief,51,way/782581585,111 Park Espresso Bar & Cafe,Food,cafe,,123.4,500,2026-10-28T19:53:40.816838+00:00,2026-10-28T19:51:53Z
+RVR,Richmond Staples Mill Road Amtrak Station,Silver Meteor,42947,node/14079170136,New Top's China,Food,restaurant,,395.7,500,2026-10-28T19:56:01.825870+00:00,2026-10-28T19:54:56Z
+RIV,Riverside,Southwest Chief,51,node/10148770796,El Patrón Downtown Riverside,Food,restaurant,,496.9,500,2026-10-28T19:57:17.839710+00:00,2026-10-28T19:56:00Z
+RIV,Riverside,Southwest Chief,51,way/232941177,Applebee's,Food,restaurant,,403.1,500,2026-10-28T19:57:17.839710+00:00,2026-10-28T19:56:00Z
+RIV,Riverside,Southwest Chief,51,way/234707763,Park Avenue Polynesian Restaurant,Food,restaurant,,383.5,500,2026-10-28T19:57:17.839710+00:00,2026-10-28T19:56:00Z
+RMT,Rocky Mount,Silver Meteor,42947,node/13398752861,Bustin' A Gut,Food,restaurant,,463.6,500,2026-10-28T19:58:19.434992+00:00,2026-10-28T19:57:00Z
+SBG,Sebring Amtrak Station,Silver Meteor,42947,node/10753879484,Hardie Doctor Saloon & Restaurant,Food,restaurant,,486.6,500,2026-10-28T20:01:24.385222+00:00,2026-10-28T20:00:02Z
+SBG,Sebring Amtrak Station,Silver Meteor,42947,way/1156367821,Hardie Doctor Saloon & Restaurant,Food,restaurant,,490.1,500,2026-10-28T20:01:24.385222+00:00,2026-10-28T20:00:02Z
+STA,Staunton Amtrak Station,Cardinal,58,node/2492787596,Baja Bean Co,Food,restaurant,,243.2,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/2493869021,Pampered Palate Cafe,Food,cafe,,205.0,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/2495149044,Accordia,Food,cafe,,221.4,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/2495149046,Cranberry's Grocery & Eatery,Food,cafe,,199.3,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/2495171996,Zynodoa Restaurant,Food,restaurant,,242.9,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/2495914831,Chop House Tavern,Food,restaurant,,294.2,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/4881949295,Byers Street Bistro,Food,restaurant,,129.2,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/4900675901,The Depot Grille,Food,restaurant,,171.4,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/7333106122,Shenandoah Pizza & Tap House,Food,restaurant,,223.4,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/7333173291,Reunion Bakery & Espresso,Food,cafe,,131.2,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/11012921246,the apARTment on Church,Lodging,,guest_house,313.3,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/11012921248,Crucible Coffee Roasters,Food,cafe,,426.1,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/11020555758,Blackburn Inn and Conference Center,Lodging,,hotel,492.0,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/12046769333,Gibson's Warehouse,Lodging,,guest_house,123.8,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/12228300237,Blu Point Seafood Co,Food,restaurant,,316.8,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/12228300243,Sama Sama,Food,restaurant,,272.2,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/13246667536,Mill Street Grill,Food,restaurant,,55.0,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/13270407405,Taste of India,Food,restaurant,,83.3,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/13287977180,Ubon Thai,Food,restaurant,,264.6,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/13289676590,The Frenchmen,Food,restaurant,,56.4,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/13307466564,Bricks Restaurant & Pub,Food,restaurant,,368.8,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/13324519779,Sweet Addie's,Food,restaurant,,303.2,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/13324519780,The Green Room,Food,restaurant,,298.7,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,node/13340535785,Queen City Bistro,Food,restaurant,,224.6,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,way/169787192,Hotel 24 South,Lodging,,hotel,167.8,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,way/241797289,The Storefront Hotel,Lodging,,hotel,171.5,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,way/241945200,The By & By,Food,cafe,,233.5,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,way/849516914,The Shack,Food,restaurant,,321.1,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,way/1316807472,Charlotte's Kitchenette,Food,restaurant,,288.3,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,way/1339124371,,Lodging,,apartment,407.7,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+STA,Staunton Amtrak Station,Cardinal,58,way/1444303631,Staunton Stays,Lodging,,apartment,175.1,500,2026-10-28T20:06:30.658368+00:00,2026-10-28T20:05:05Z
+TOP,Topeka Amtrak Station,Southwest Chief,51,way/195742983,Ramada Inn and Convention Center,Lodging,,hotel,256.0,500,2026-10-28T20:08:32.806584+00:00,2026-10-28T20:07:06Z
+TRE,Trenton,Cardinal; Silver Meteor,42947; 58,node/4115354875,NJ Weedman's Joint,Food,restaurant,,421.9,500,2026-10-28T20:09:36.578548+00:00,2026-10-28T20:08:07Z
+TRE,Trenton,Cardinal; Silver Meteor,42947; 58,node/4116096500,Thomasena's Restaurant,Food,restaurant,,479.9,500,2026-10-28T20:09:36.578548+00:00,2026-10-28T20:08:07Z
+TRE,Trenton,Cardinal; Silver Meteor,42947; 58,node/4154572724,Soulful Seafood's Soul Shack,Food,restaurant,,449.9,500,2026-10-28T20:09:36.578548+00:00,2026-10-28T20:08:07Z
+TRE,Trenton,Cardinal; Silver Meteor,42947; 58,node/4154573660,Latino Americano Pizza,Food,restaurant,,499.8,500,2026-10-28T20:09:36.578548+00:00,2026-10-28T20:08:07Z
+TRE,Trenton,Cardinal; Silver Meteor,42947; 58,node/4155521618,Pizza-Grill Com,Food,restaurant,,45.1,500,2026-10-28T20:09:36.578548+00:00,2026-10-28T20:08:07Z
+TRE,Trenton,Cardinal; Silver Meteor,42947; 58,node/7511646885,El Kiosko,Food,restaurant,,353.5,500,2026-10-28T20:09:36.578548+00:00,2026-10-28T20:08:07Z
+TRE,Trenton,Cardinal; Silver Meteor,42947; 58,node/10742062005,Tracy’s Kitchen,Food,restaurant,,480.9,500,2026-10-28T20:09:36.578548+00:00,2026-10-28T20:08:07Z
+TRI,Trinidad Amtrak,Southwest Chief,51,node/11109855234,Hilton Garden Inn Trinidad Downtown,Lodging,,hotel,207.4,500,2026-10-28T20:10:40.946010+00:00,2026-10-28T20:09:08Z
+TRI,Trinidad Amtrak,Southwest Chief,51,node/12205582501,Sita's Kitchen,Food,restaurant,,496.4,500,2026-10-28T20:10:40.946010+00:00,2026-10-28T20:09:08Z
+TRI,Trinidad Amtrak,Southwest Chief,51,way/913396778,Savoy Hotel Trinidad Colorado,Lodging,,hotel,264.4,500,2026-10-28T20:10:40.946010+00:00,2026-10-28T20:09:08Z
+TRI,Trinidad Amtrak,Southwest Chief,51,way/972101911,Great Wall Chinese,Food,restaurant,,398.1,500,2026-10-28T20:10:40.946010+00:00,2026-10-28T20:09:08Z
+TRI,Trinidad Amtrak,Southwest Chief,51,way/972113596,Wonderful House,Food,restaurant,,474.2,500,2026-10-28T20:10:40.946010+00:00,2026-10-28T20:09:08Z
+TRI,Trinidad Amtrak,Southwest Chief,51,way/1158217625,Habaneros' Mexican Grill,Food,restaurant,,179.6,500,2026-10-28T20:10:40.946010+00:00,2026-10-28T20:09:08Z
+VRV,Victorville Amtrak,Southwest Chief,51,way/109431505,El Super Pollo,Food,restaurant,,390.8,500,2026-10-28T20:12:44.409135+00:00,2026-10-28T20:11:09Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/737405220,East St Cafe,Food,cafe,,84.0,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/738195019,Kimpton George Hotel,Lodging,,hotel,308.9,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/739150368,Article One,Food,restaurant,,491.5,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/739150378,Art & Soul,Food,restaurant,,413.0,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/2387758798,Corner Bakery,Food,cafe,,265.1,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/2456893811,Kogod's New York Deli,Food,cafe,,400.9,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/3590681663,Warka Coffee,Food,cafe,,473.5,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/5241981902,CAVA,Food,restaurant,,70.8,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/5790965454,Blue Bottle Coffee,Food,cafe,,67.4,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/5939762550,Wolfgang Puck Bar + Bites,Food,restaurant,,114.2,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/6432368407,Lucille's Modern Chophouse,Food,restaurant,,303.4,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/8153393017,The Ministry,Food,cafe,,444.6,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/10224486868,Butter Chicken Company 3,Food,restaurant,,274.0,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/10233018517,Sweet Lemon Cafe,Food,cafe,,377.1,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/11639104051,Pho79,Food,restaurant,,392.8,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/11639170017,Café Fili,Food,cafe,,354.3,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/11784671821,Bistro du Jour,Food,restaurant,,410.6,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/11975746228,SUNdeVICH,Food,restaurant,,466.9,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/12323809749,Crepe Lena & Waffle,Food,restaurant,,91.4,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/12563198787,Starbucks,Food,cafe,,110.4,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/13194781269,Cafe Phillips,Food,cafe,,325.6,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,node/13711899442,Peruvian Brothers,Food,restaurant,,334.9,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,way/48040796,The Royal Sonesta,Lodging,,hotel,374.9,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,way/48040879,Hilton Washington DC Capitol Hill,Lodging,,hotel,380.7,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,way/48040920,Phoenix Park Hotel,Lodging,,hotel,263.9,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,way/55323271,Ebenezer's Coffee House,Food,cafe,,270.0,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,way/66418893,The Monocle,Food,restaurant,,291.8,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,way/74035719,Hyatt Regency Washington on Capitol Hill,Lodging,,hotel,483.3,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,way/74035728,YOTEL Washington DC,Lodging,,hotel,408.9,500,2026-10-28T20:18:38.986531+00:00,2026-10-28T20:17:11Z
+WPB,West Palm Beach Amtrak Station,Silver Meteor,42947,way/1228653752,Hotel Evernia,Lodging,,hotel,471.5,500,2026-10-28T20:19:44.529967+00:00,2026-10-28T20:18:11Z
+WSS,White Sulphur Springs Amtrak,Cardinal,58,way/44817967,The Greenbrier,Lodging,,hotel,350.3,500,2026-10-28T20:23:53.963155+00:00,2026-10-28T20:22:22Z
+WIL,Wilmington,Cardinal; Silver Meteor,42947; 58,node/4686729764,DH4 Restaurant,Food,restaurant,,307.9,500,2026-10-28T20:24:57.134848+00:00,2026-10-28T20:23:29Z
+WIL,Wilmington,Cardinal; Silver Meteor,42947; 58,node/5154194236,Bank’s Seafood Kitchen,Food,restaurant,,322.3,500,2026-10-28T20:24:57.134848+00:00,2026-10-28T20:23:29Z
+WIL,Wilmington,Cardinal; Silver Meteor,42947; 58,node/5154194255,Dragon Cuisine,Food,restaurant,,374.0,500,2026-10-28T20:24:57.134848+00:00,2026-10-28T20:23:29Z
+WIL,Wilmington,Cardinal; Silver Meteor,42947; 58,node/5154194256,Milk & Honey,Food,cafe,,289.8,500,2026-10-28T20:24:57.134848+00:00,2026-10-28T20:23:29Z
+WIL,Wilmington,Cardinal; Silver Meteor,42947; 58,node/8630251826,La Taqueria Santa Fe,Food,restaurant,,304.6,500,2026-10-28T20:24:57.134848+00:00,2026-10-28T20:23:29Z
+WLO,Winslow Amtrak,Southwest Chief,51,node/663770747,The Turquoise Room,Food,restaurant,,31.5,500,2026-10-28T20:28:53.738471+00:00,2026-10-28T20:27:31Z
+WLO,Winslow Amtrak,Southwest Chief,51,node/2158543779,Brown Mug Cafe,Food,restaurant,,97.9,500,2026-10-28T20:28:53.738471+00:00,2026-10-28T20:27:31Z
+WLO,Winslow Amtrak,Southwest Chief,51,node/4540025506,,Food,restaurant,,249.9,500,2026-10-28T20:28:53.738471+00:00,2026-10-28T20:27:31Z
+WLO,Winslow Amtrak,Southwest Chief,51,way/144341236,Earl's Motor Court,Lodging,,motel,260.0,500,2026-10-28T20:28:53.738471+00:00,2026-10-28T20:27:31Z
+WLO,Winslow Amtrak,Southwest Chief,51,way/1447873506,La Posada Hotel,Lodging,,hotel,28.6,500,2026-10-28T20:28:53.738471+00:00,2026-10-28T20:27:31Z
+WTH,Winter Haven,Silver Meteor,42947,way/936358430,Harborside,Food,restaurant,,476.9,500,2026-10-28T20:29:57.308518+00:00,2026-10-28T20:28:34Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411691493,Luma on Park,Food,restaurant,,167.9,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411701193,Panullo's Italian restaurant,Food,restaurant,,129.9,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411706888,The Park View,Food,restaurant,,104.8,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411710997,Barnie's Coffee Kitchen,Food,cafe,,111.7,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411715333,Bosphorous Lounge,Food,restaurant,,119.6,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411717029,Croissant Gourmet,Food,cafe,,128.9,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411718541,Prato,Food,restaurant,,162.3,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411721039,Al Bacio,Food,restaurant,,484.2,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411722906,Boca,Food,restaurant,,380.1,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411731061,Orchid Thai Cuisine,Food,restaurant,,310.7,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411745875,Armando's Cucina Italiana,Food,restaurant,,426.0,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411746785,Tomatina,Food,restaurant,,406.6,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411748614,Hannibal's,Food,restaurant,,451.0,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411749398,Chez Vincent,Food,restaurant,,455.5,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411749896,Dexter's,Food,restaurant,,481.6,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411773020,Power House Cafe,Food,cafe,,256.4,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411775032,Nelore Brazilian Steakhouse,Food,restaurant,,260.3,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411776456,Starbucks,Food,cafe,,306.4,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411777862,Umi Japanese Restaurant,Food,restaurant,,397.4,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3411832839,Park Avenue Pizza,Food,restaurant,,276.1,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/3704332799,The Coop,Food,restaurant,,496.5,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/5127163472,The Wine Room,Food,restaurant,,154.2,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/6281999239,GRATO Italian Kitchen,Food,restaurant,,402.6,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/6281999240,Café de France,Food,cafe,,397.2,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/8668469798,Cocina 214,Food,restaurant,,176.2,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/8668490626,fresh&co,Food,restaurant,,402.8,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/9241191117,Pepe's Cantina Winter Park,Food,restaurant,,399.2,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/10789443676,Farm & Haus Park Avenue,Food,restaurant,,397.0,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/11411675298,Tabla,Food,restaurant,,244.6,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,node/12752601815,Hamilton's Kitchen,Food,restaurant,,389.8,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,way/539065228,,Food,restaurant,,436.0,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,way/670825777,Park Plaza Hotel,Lodging,,hotel,176.6,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,way/1420249999,Alfond Inn Rollins,Lodging,,hotel,473.1,500,2026-10-28T20:32:01.679703+00:00,2026-10-28T20:30:36Z

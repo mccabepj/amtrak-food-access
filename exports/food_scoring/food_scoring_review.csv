@@ -1,0 +1,31 @@
+﻿Level,Station ID,Station,Trip ID,Service Date,Reason
+Station,FLO,Florence Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,KTR,Kingstree Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,YEM,Yemassee Amtrak,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,SAV,Savannah,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,JAX,Jacksonville,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,DLD,Deland,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,ORL,Orlando,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,WPB,West Palm Beach Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,DLB,Delray Beach Amtrak,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,DFB,Deerfield Beach Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,FTL,Fort Lauderdale Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,MIA,Miami Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,MDT,Mendota Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,LAP,La Plata Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,TOP,Topeka Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,GCK,Garden City Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,BAR,Barstow,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,SNB,San Bernardino,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,DYE,Dyer Amtrak,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,REN,Rensselaer Amtrak,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,COI,Connersville Amtrak,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,SPM,South Portsmouth Amtrak,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,THN,Thurmond Amtrak,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,PRC,Prince Amtrak Station,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,ALD,Alderson Amtrak,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,WSS,White Sulphur Springs Amtrak,,,Successful zero: no matching food mapped within 500 m; not verified absence
+Station,NYP,Ny Moynihan Train Hall At Penn Station,,,No intermediate calls in assessment period (terminal-only or no active trips)
+Station,MIA,Miami Amtrak Station,,,No intermediate calls in assessment period (terminal-only or no active trips)
+Station,CHI,Chicago Union Station,,,No intermediate calls in assessment period (terminal-only or no active trips)
+Station,LAX,Los Angeles,,,No intermediate calls in assessment period (terminal-only or no active trips)

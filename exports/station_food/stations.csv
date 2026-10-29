@@ -1,0 +1,536 @@
+﻿Station ID,Station,Latitude,Longitude,Coordinate Source,Source Stop IDs
+ABE,Aberdeen Amtrak Station,39.508447,-76.16326,GTFS station/stop coordinate,ABE
+ALY,Albany Amtrak Station,44.630464,-123.102774,GTFS station/stop coordinate,ALY
+ALB,Albany-Rensselaer Amtrak Station,42.641029,-73.741147,GTFS station/stop coordinate,ALB
+ALI,Albion,42.247196,-84.755814,GTFS station/stop coordinate,ALI
+ABQ,Albuquerque Alvarado Transportation Center,35.082061,-106.647975,GTFS station/stop coordinate,ABQ
+AST,Aldershot,43.313413,-79.855712,GTFS station/stop coordinate,AST
+ALD,Alderson Amtrak,37.724277,-80.644856,GTFS station/stop coordinate,ALD
+ALX,Alexandria,38.806503,-77.06233,GTFS station/stop coordinate,ALX
+ALC,Alliance Amtrak,40.921275,-81.092904,GTFS station/stop coordinate,ALC
+ALP,Alpine Amtrak Station,30.357302,-103.661513,GTFS station/stop coordinate,ALP
+ALN,Alton Amtrak Station,38.921007,-90.157298,GTFS station/stop coordinate,ALN
+ALT,Altoona Amtrak Station,40.514475,-78.40162,GTFS station/stop coordinate,ALT
+AMS,Amsterdam Amtrak Station,42.953719,-74.2195,GTFS station/stop coordinate,AMS
+ANA,Anaheim,33.803803,-117.877308,GTFS station/stop coordinate,ANA
+ARB,Ann Arbor Amtrak Station,42.287692,-83.743154,GTFS station/stop coordinate,ARB
+ATN,Anniston Amtrak Station,33.649112,-85.832145,GTFS station/stop coordinate,ATN
+ACD,Arcadia Valley Station,37.592161,-90.624403,GTFS station/stop coordinate,ACD
+ADM,Ardmore Amtrak Station,34.172465,-97.12551,GTFS station/stop coordinate,ADM
+ARD,Ardmore Amtrak Station,40.008278,-75.290399,GTFS station/stop coordinate,ARD
+ARK,Arkadelphia Amtrak Station,34.113919,-93.053284,GTFS station/stop coordinate,ARK
+ASD,Ashland Amtrak,37.759596,-77.481304,GTFS station/stop coordinate,ASD
+AKY,Ashland Amtrak Station,38.480875,-82.639603,GTFS station/stop coordinate,AKY
+ATL,Atlanta,33.799445,-84.392477,GTFS station/stop coordinate,ATL
+ARN,Auburn Amtrak,38.903638,-121.083187,GTFS station/stop coordinate,ARN
+AUS,Austin,30.269449,-97.75694,GTFS station/stop coordinate,AUS
+BAL,Baltimore Penn Station,39.307302,-76.615688,GTFS station/stop coordinate,BAL
+BAM,Bangor Amtrak Station,42.314519,-86.111646,GTFS station/stop coordinate,BAM
+BAR,Barstow,34.90482,-117.025435,GTFS station/stop coordinate,BAR
+BTL,Battle Creek,42.318453,-85.187825,GTFS station/stop coordinate,BTL
+BAS,Bay St Louis,30.308734,-89.334,GTFS station/stop coordinate,BAS
+BMT,Beaumont Amtrak,30.076458,-94.127367,GTFS station/stop coordinate,BMT
+BEL,Bellingham Amtrak Station,48.720263,-122.511255,GTFS station/stop coordinate,BEL
+BLF,Bellows Falls Amtrak Station,43.13654,-72.444597,GTFS station/stop coordinate,BLF
+BEN,Benson Amtrak,31.968758,-110.296904,GTFS station/stop coordinate,BEN
+BKY,Berkeley Amtrak,37.867254,-122.300707,GTFS station/stop coordinate,BKY
+BER,Berlin Amtrak,41.635595,-72.765274,GTFS station/stop coordinate,BER
+BIX,Biloxi Amtrak Sta,30.39905786,-88.89164084,GTFS station/stop coordinate,BIX
+BNG,Bingen-White Salmon Amtrak,45.71502,-121.46873,GTFS station/stop coordinate,BNG
+BHM,Birmingham,33.512937,-86.807023,GTFS station/stop coordinate,BHM
+BNL,Bloomington-Normal,40.50901,-88.984306,GTFS station/stop coordinate,BNL
+BBY,Boston,42.347317,-71.075828,GTFS station/stop coordinate,BBY
+BON,Boston,42.366235,-71.061122,GTFS station/stop coordinate,BON
+BOS,Boston,42.352311,-71.055304,GTFS station/stop coordinate,BOS
+BWE,Bowie State,39.01783443,-76.76498908,GTFS station/stop coordinate,BWE
+BNF,Branford,41.274549,-72.817225,GTFS station/stop coordinate,BNF
+BRA,Brattleboro Amtrak Station,42.850849,-72.556497,GTFS station/stop coordinate,BRA
+BRP,Bridgeport Amtrak Station,41.178006,-73.187539,GTFS station/stop coordinate,BRP
+BRH,Brookhaven Amtrak Station,31.582961,-90.44107,GTFS station/stop coordinate,BRH
+BRO,Browning Amtrak,48.534067,-113.013151,GTFS station/stop coordinate,BRO
+BRK,Brunswick Amtrak Station,43.911388,-69.965541,GTFS station/stop coordinate,BRK
+BYN,Bryan Amtrak Station,41.480319,-84.551799,GTFS station/stop coordinate,BYN
+BFX,Buffalo,42.878449,-78.873748,GTFS station/stop coordinate,BFX
+BUF,Buffalo Depew Station,42.907017,-78.726584,GTFS station/stop coordinate,BUF
+BBK,Burbank,34.178925,-118.311829,GTFS station/stop coordinate,BBK
+BUR,Burbank Amtrak,34.193072,-118.353767,GTFS station/stop coordinate,BUR
+BCV,Burke Centre Amtrak,38.797271,-77.29879,GTFS station/stop coordinate,BCV
+BTN,Burlington,44.4757,-73.21927,GTFS station/stop coordinate,BTN
+BNC,Burlington Amtrak Station,36.094225,-79.434531,GTFS station/stop coordinate,BNC
+BRL,Burlington Amtrak Station,40.805788,-91.101951,GTFS station/stop coordinate,BRL
+BWI,Bwi Thurgood Marshall Airport Station,39.192362,-76.6943,GTFS station/stop coordinate,BWI
+CML,Camarillo Amtrak,34.215933,-119.034114,GTFS station/stop coordinate,CML
+CAM,Camden Amtrak Station,34.248157,-80.62519,GTFS station/stop coordinate,CAM
+CBN,Canadian Border,43.109235,-79.058357,GTFS station/stop coordinate,CBN
+CDL,Carbondale,37.724235,-89.216628,GTFS station/stop coordinate,CDL
+CRV,Carlinville Amtrak Station,39.279295,-89.889276,GTFS station/stop coordinate,CRV
+CPN,Carpinteria Amtrak,34.39678,-119.522975,GTFS station/stop coordinate,CPN
+CYN,Cary,35.788294,-78.782246,GTFS station/stop coordinate,CYN
+CNV,Castleton Amtrak Station,43.613382,-73.171337,GTFS station/stop coordinate,CNV
+CEN,Centralia Amtrak Station,38.527531,-89.136118,GTFS station/stop coordinate,CEN
+CTL,Centralia Amtrak Station,46.71747,-122.953062,GTFS station/stop coordinate,CTL
+CHM,Champaign-Urbana,40.115843,-88.241366,GTFS station/stop coordinate,CHM
+CHW,Charleston,38.346368,-81.638494,GTFS station/stop coordinate,CHW
+CHS,Charleston Amtrak Station,32.875473,-79.998048,GTFS station/stop coordinate,CHS
+CLT,Charlotte Amtrak Station,35.241403,-80.822812,GTFS station/stop coordinate,CLT
+CVS,Charlottesville,38.031484,-78.491684,GTFS station/stop coordinate,CVS
+CWT,Chatsworth,34.253205,-118.599417,GTFS station/stop coordinate,CWT
+CMO,Chemult,43.216784,-121.781594,GTFS station/stop coordinate,CMO
+CHI,Chicago Union Station,41.878684,-87.639443,GTFS station/stop coordinate,CHI
+CIC,Chico Amtrak,39.723259,-121.845861,GTFS station/stop coordinate,CIC
+CIN,Cincinnati Union Terminal,39.109927,-84.537061,GTFS station/stop coordinate,CIN
+CLA,Claremont Amtrak,43.36833,-72.377644,GTFS station/stop coordinate,CLA
+CBR,Cleburne Amtrak Station,32.349743,-97.382333,GTFS station/stop coordinate,CBR
+CSN,Clemson Amtrak Station,34.691115,-82.832501,GTFS station/stop coordinate,CSN
+CLE,Cleveland,41.505787,-81.696172,GTFS station/stop coordinate,CLE
+CLF,Clifton Forge Amtrak Station,37.814521,-79.827363,GTFS station/stop coordinate,CLF
+CLN,Clinton,41.279458,-72.528314,GTFS station/stop coordinate,CLN
+COT,Coatesville Amtrak,39.985688,-75.820929,GTFS station/stop coordinate,COT
+COX,Colfax Amtrak Station,39.099172,-120.953075,GTFS station/stop coordinate,COX
+CLB,Columbia Amtrak Station,33.994297,-81.04049,GTFS station/stop coordinate,CLB
+CBS,Columbus Amtrak Station,43.340611,-89.012609,GTFS station/stop coordinate,CBS
+COV,Connellsville Amtrak,40.020282,-79.592813,GTFS station/stop coordinate,COV
+COI,Connersville Amtrak,39.645969,-85.13338,GTFS station/stop coordinate,COI
+CWH,Cornwells Heights Amtrak,40.071663,-74.952187,GTFS station/stop coordinate,CWH
+CRF,Crawfordsville Amtrak,40.044705,-86.899187,GTFS station/stop coordinate,CRF
+CRN,Creston Amtrak,41.05692,-94.361617,GTFS station/stop coordinate,CRN
+CRT,Croton-Harmon Amtrak Station,41.189903,-73.882394,GTFS station/stop coordinate,CRT
+CLP,Culpeper Amtrak Station,38.47236,-77.993421,GTFS station/stop coordinate,CLP
+CUM,Cumberland Amtrak Station,39.650628,-78.758,GTFS station/stop coordinate,CUM
+CUT,Cut Bank Amtrak Station,48.638364,-112.331584,GTFS station/stop coordinate,CUT
+DAL,Dallas,32.776094,-96.807235,GTFS station/stop coordinate,DAL
+DAN,Danville Amtrak Station,36.58409,-79.383968,GTFS station/stop coordinate,DAN
+DAV,Davis,38.543562,-121.737707,GTFS station/stop coordinate,DAV
+DER,Dearborn,42.307167,-83.235311,GTFS station/stop coordinate,DER
+DFB,Deerfield Beach Amtrak Station,26.317069,-80.122147,GTFS station/stop coordinate,DFB
+DRT,Del Rio Amtrak Station,29.362202,-100.902662,GTFS station/stop coordinate,DRT
+DLD,Deland,29.017849,-81.352477,GTFS station/stop coordinate,DLD
+DLB,Delray Beach Amtrak,26.454021,-80.091154,GTFS station/stop coordinate,DLB
+DEM,Deming Amtrak,32.27177,-107.754346,GTFS station/stop coordinate,DEM
+DNK,Denmark Amtrak Station,33.326184,-81.143635,GTFS station/stop coordinate,DNK
+DEN,Denver,39.752959,-104.999929,GTFS station/stop coordinate,DEN
+DET,Detroit,42.368097,-83.072397,GTFS station/stop coordinate,DET
+DLK,Detroit Lakes Amtrak Station,46.819692,-95.845998,GTFS station/stop coordinate,DLK
+DVL,Devils Lake Amtrak Station,48.110468,-98.861372,GTFS station/stop coordinate,DVL
+DIL,Dillon Amtrak Station,34.417647,-79.372301,GTFS station/stop coordinate,DIL
+DDG,Dodge City Amtrak Station,37.752306,-100.016961,GTFS station/stop coordinate,DDG
+DOV,Dover,43.197968,-70.878361,GTFS station/stop coordinate,DOV
+DOA,Dowagiac Amtrak Station,41.980941,-86.109041,GTFS station/stop coordinate,DOA
+DOW,Downingtown Amtrak,40.002193,-75.710775,GTFS station/stop coordinate,DOW
+DQN,Du Quoin Amtrak Station,38.012328,-89.240254,GTFS station/stop coordinate,DQN
+DUN,Dunsmuir Amtrak Station,41.211127,-122.270587,GTFS station/stop coordinate,DUN
+DRD,Durand Amtrak Station,42.909495,-83.98232,GTFS station/stop coordinate,DRD
+DHM,Durham,43.139328,-70.936013,GTFS station/stop coordinate,DHM
+DNC,Durham Amtrak Station,35.997347,-78.906299,GTFS station/stop coordinate,DNC
+DWT,Dwight Amtrak Station,41.089854,-88.430707,GTFS station/stop coordinate,DWT
+DYE,Dyer Amtrak,41.515413,-87.518076,GTFS station/stop coordinate,DYE
+GPK,East Glacier Park Amtrak Station,48.442333,-113.219523,GTFS station/stop coordinate,GPK
+LNS,East Lansing Amtrak Station,42.718731,-84.495962,GTFS station/stop coordinate,LNS
+EDG,Edgewood,39.41624514,-76.29281265,GTFS station/stop coordinate,EDG
+EDM,Edmonds,47.811081,-122.384141,GTFS station/stop coordinate,EDM
+EFG,Effingham Amtrak Station,39.117059,-88.54711,GTFS station/stop coordinate,EFG
+ELP,El Paso,31.757346,-106.495644,GTFS station/stop coordinate,ELP
+ELT,Elizabethtown Amtrak Station,40.147028,-76.612234,GTFS station/stop coordinate,ELT
+EKH,Elkhart Amtrak Station,41.680748,-85.971848,GTFS station/stop coordinate,EKH
+ELK,Elko Amtrak,40.836483,-115.75053,GTFS station/stop coordinate,ELK
+ELY,Elyria Amtrak,41.370033,-82.096685,GTFS station/stop coordinate,ELY
+EMY,Emeryville,37.840474,-122.291615,GTFS station/stop coordinate,EMY
+EPH,Ephrata Amtrak,47.320948,-119.549267,GTFS station/stop coordinate,EPH
+ERI,Erie Amtrak Station,42.120847,-80.082444,GTFS station/stop coordinate,ERI
+ESM,Essex Amtrak,48.275543,-113.610942,GTFS station/stop coordinate,ESM
+ESX,Essex Junction-Burlington Amtrak Station,44.492466,-73.110277,GTFS station/stop coordinate,ESX
+EUG,Eugene,44.055043,-123.092361,GTFS station/stop coordinate,EUG
+EVR,Everett Amtrak Station,47.975401,-122.197858,GTFS station/stop coordinate,EVR
+EXR,Exeter,42.98102,-70.9587,GTFS station/stop coordinate,EXR
+EXT,Exton Amtrak,40.019291,-75.621713,GTFS station/stop coordinate,EXT
+FFV,Fairfield-Vacaville Amtrak Station,38.285626,-121.967926,GTFS station/stop coordinate,FFV
+FAR,Fargo Amtrak Station,46.880982,-96.785372,GTFS station/stop coordinate,FAR
+FAY,Fayetteville Amtrak Station,35.054993,-78.884788,GTFS station/stop coordinate,FAY
+VRN,Ferrisburgh,44.180921,-73.248824,GTFS station/stop coordinate,VRN
+FLG,Flagstaff,35.197374,-111.648871,GTFS station/stop coordinate,FLG
+FLN,Flint Amtrak Station,43.015425,-83.651728,GTFS station/stop coordinate,FLN
+FLO,Florence Amtrak Station,34.199157,-79.757056,GTFS station/stop coordinate,FLO
+FED,Fort Edward Amtrak,43.269603,-73.58055,GTFS station/stop coordinate,FED
+FTL,Fort Lauderdale Amtrak Station,26.119256,-80.17,GTFS station/stop coordinate,FTL
+FMD,Fort Madison,40.629558,-91.313529,GTFS station/stop coordinate,FMD
+FMG,Fort Morgan Amtrak Station,40.247169,-103.802818,GTFS station/stop coordinate,FMG
+FTW,Fort Worth,32.7515305,-97.3257888,GTFS station/stop coordinate,FTW
+FRA,Framingham Amtrak,42.275993,-71.420033,GTFS station/stop coordinate,FRA
+FBG,Fredericksburg Amtrak,38.298413,-77.457203,GTFS station/stop coordinate,FBG
+FRE,Freeport Amtrak Station,43.855035,-70.102358,GTFS station/stop coordinate,FRE
+FMT,Fremont,37.559093,-122.007496,GTFS station/stop coordinate,FMT
+FUL,Fullerton Amtrak Station,33.868969,-117.922849,GTFS station/stop coordinate,FUL
+FTN,Fulton Amtrak Station,36.525704,-88.888772,GTFS station/stop coordinate,FTN
+GLE,Gainesville Amtrak Station,33.625159,-97.140896,GTFS station/stop coordinate,GLE
+GNS,Gainesville Amtrak Station,34.288897,-83.819694,GTFS station/stop coordinate,GNS
+GBB,Galesburg Amtrak Station,40.944678,-90.364106,GTFS station/stop coordinate,GBB
+GLP,Gallup Amtrak Station,35.529176,-108.740548,GTFS station/stop coordinate,GLP
+GCK,Garden City Amtrak Station,37.964365,-100.873256,GTFS station/stop coordinate,GCK
+GAS,Gastonia Amtrak Station,35.269186,-81.162366,GTFS station/stop coordinate,GAS
+MKA,General Mitchell Intl. Airport Amtrak Station,42.940583,-87.924359,GTFS station/stop coordinate,MKA
+GLM,Gilman Amtrak,40.752547,-87.998055,GTFS station/stop coordinate,GLM
+GGW,Glasgow Amtrak Station,48.194854,-106.636188,GTFS station/stop coordinate,GGW
+GDL,Glendale Amtrak,34.123706,-118.258868,GTFS station/stop coordinate,GDL
+GLN,Glenview Amtrak Station,42.075038,-87.805562,GTFS station/stop coordinate,GLN
+GSC,Glenwood Springs,39.547903,-107.323218,GTFS station/stop coordinate,GSC
+GTA,Goleta Amtrak,34.437729,-119.843092,GTFS station/stop coordinate,GTA
+GRA,Granby Amtrak Station,40.084188,-105.935503,GTFS station/stop coordinate,GRA
+GFK,Grand Forks Amtrak Station,47.917522,-97.110835,GTFS station/stop coordinate,GFK
+GJT,Grand Junction Amtrak Station,39.064375,-108.569929,GTFS station/stop coordinate,GJT
+GRR,Grand Rapids Vernon J. Ehlers Station,42.955788,-85.672447,GTFS station/stop coordinate,GRR
+GRI,Green River Amtrak,38.992039,-110.165228,GTFS station/stop coordinate,GRI
+GFD,Greenfield Amtrak Station,42.585458,-72.600765,GTFS station/stop coordinate,GFD
+GRO,Greensboro,36.069797,-79.78708,GTFS station/stop coordinate,GRO
+GNB,Greensburg Amtrak,40.304986,-79.546893,GTFS station/stop coordinate,GNB
+GRV,Greenville Amtrak Station,34.858256,-82.413486,GTFS station/stop coordinate,GRV
+GWD,Greenwood Amtrak Station,33.517159,-90.176454,GTFS station/stop coordinate,GWD
+GMS,Grimsby,43.195949,-79.557945,GTFS station/stop coordinate,GMS
+GVB,Grover Beach Amtrak,35.12126,-120.629266,GTFS station/stop coordinate,GVB
+GUA,Guadalupe Amtrak Station,34.962927,-120.57341,GTFS station/stop coordinate,GUA
+GUI,Guilford,41.275603,-72.673513,GTFS station/stop coordinate,GUI
+GUF,Gulfport Amtrak Sta,30.369036,-89.09478,GTFS station/stop coordinate,GUF
+HAE,Halethorpe,39.2371851,-76.69148125,GTFS station/stop coordinate,HAE
+HAM,Hamlet Amtrak Station,34.883663,-79.699218,GTFS station/stop coordinate,HAM
+HMD,Hammond Amtrak Station,30.50718,-90.462169,GTFS station/stop coordinate,HMD
+HMI,Hammond-Whiting Amtrak Station,41.691155,-87.506511,GTFS station/stop coordinate,HMI
+HFY,Harpers Ferry Amtrak,39.324452,-77.731078,GTFS station/stop coordinate,HFY
+HAR,Harrisburg,40.26205,-76.878256,GTFS station/stop coordinate,HAR
+HFD,Hartford Amtrak Station,41.768761,-72.681314,GTFS station/stop coordinate,HFD
+HAS,Hastings Amtrak Station,40.584276,-98.387534,GTFS station/stop coordinate,HAS
+HBG,Hattiesburg Amtrak Station,31.326921,-89.286463,GTFS station/stop coordinate,HBG
+HHL,Haverhill Amtrak,42.773297,-71.086375,GTFS station/stop coordinate,HHL
+HAV,Havre Amtrak Station,48.554465,-109.678352,GTFS station/stop coordinate,HAV
+HAY,Hayward Amtrak,37.665997,-122.099277,GTFS station/stop coordinate,HAY
+HAZ,Hazlehurst Amtrak,31.86132,-90.394347,GTFS station/stop coordinate,HAZ
+HER,Helper Amtrak Station,39.684036,-110.853894,GTFS station/stop coordinate,HER
+HEM,Hermann,38.707283,-91.432558,GTFS station/stop coordinate,HEM
+HPT,High Point,35.957128,-80.006097,GTFS station/stop coordinate,HPT
+HIN,Hinton Amtrak Station,37.675037,-80.892232,GTFS station/stop coordinate,HIN
+HLD,Holdrege,40.436013,-99.370077,GTFS station/stop coordinate,HLD
+HOM,Holland Amtrak Station,42.791096,-86.096553,GTFS station/stop coordinate,HOM
+HOL,Hollywood Amtrak Station,26.011641,-80.167884,GTFS station/stop coordinate,HOL
+HLK,Holyoke Amtrak,42.204156,-72.602309,GTFS station/stop coordinate,HLK
+HMW,Homewood,41.562446,-87.668685,GTFS station/stop coordinate,HMW
+HOP,Hope Amtrak Station,33.668913,-93.592247,GTFS station/stop coordinate,HOP
+HOS,Houston,29.767245,-95.367526,GTFS station/stop coordinate,HOS
+HUD,Hudson Amtrak Station,42.253891,-73.797729,GTFS station/stop coordinate,HUD
+HGD,Huntingdon Amtrak Station,40.483665,-78.01178,GTFS station/stop coordinate,HGD
+HUN,Huntington Amtrak Station,38.41582,-82.439735,GTFS station/stop coordinate,HUN
+HUT,Hutchinson Amtrak Station,38.055712,-97.931522,GTFS station/stop coordinate,HUT
+IDP,Independence Amtrak Station,39.086917,-94.429711,GTFS station/stop coordinate,IDP
+IND,Indianapolis,39.761984,-86.160423,GTFS station/stop coordinate,IND
+IRV,Irvine,33.656771,-117.733695,GTFS station/stop coordinate,IRV
+JAN,Jackson,32.300808,-90.190936,GTFS station/stop coordinate,JAN
+JXN,Jackson,42.248113,-84.39967,GTFS station/stop coordinate,JXN
+JAX,Jacksonville,30.365601,-81.723893,GTFS station/stop coordinate,JAX
+JEF,Jefferson City Amtrak Station,38.57887,-92.169906,GTFS station/stop coordinate,JEF
+JSP,Jesup Amtrak Station,31.605589,-81.882173,GTFS station/stop coordinate,JSP
+JST,Johnstown Amtrak Station,40.329689,-78.921996,GTFS station/stop coordinate,JST
+JOL,Joliet Gateway Center,41.524647,-88.078731,GTFS station/stop coordinate,JOL
+KAL,Kalamazoo,42.295255,-85.584018,GTFS station/stop coordinate,KAL
+KKI,Kankakee,41.119259,-87.86543,GTFS station/stop coordinate,KKI
+KAN,Kannapolis,35.496172,-80.624928,GTFS station/stop coordinate,KAN
+KCY,Kansas City,39.084576,-94.585129,GTFS station/stop coordinate,KCY
+KEL,Kelso-Longview,46.142264,-122.913016,GTFS station/stop coordinate,KEL
+KEE,Kewanee Amtrak Station,41.245765,-89.927544,GTFS station/stop coordinate,KEE
+KNG,Kingman,35.188279,-114.052816,GTFS station/stop coordinate,KNG
+KIN,Kingston Amtrak Station,41.483959,-71.560597,GTFS station/stop coordinate,KIN
+KTR,Kingstree Amtrak Station,33.663882,-79.829026,GTFS station/stop coordinate,KTR
+KWD,Kirkwood Amtrak Station,38.581067,-90.406761,GTFS station/stop coordinate,KWD
+KIS,Kissimmee Amtrak Station,28.293835,-81.404234,GTFS station/stop coordinate,KIS
+KFS,Klamath Falls,42.225509,-121.771952,GTFS station/stop coordinate,KFS
+LSE,La Crosse,43.833155,-91.247298,GTFS station/stop coordinate,LSE
+LAG,La Grange Amtrak,41.815634,-87.871545,GTFS station/stop coordinate,LAG
+LAJ,La Junta Amtrak Station,37.988249,-103.543576,GTFS station/stop coordinate,LAJ
+LAP,La Plata Amtrak Station,40.02922,-92.493384,GTFS station/stop coordinate,LAP
+LAF,Lafayette Amtrak Station,40.419347,-86.895901,GTFS station/stop coordinate,LAF
+LFT,Lafayette Amtrak Station,30.226548,-92.014519,GTFS station/stop coordinate,LFT
+LCH,Lake Charles,30.238126,-93.217037,GTFS station/stop coordinate,LCH
+LKL,Lakeland,28.045603,-81.951874,GTFS station/stop coordinate,LKL
+LAK,Lakeland Amtrak Station,28.045603,-81.951874,GTFS station/stop coordinate,LAK
+LMR,Lamar Amtrak,38.089623,-102.618574,GTFS station/stop coordinate,LMR
+LMY,Lamy,35.480973,-105.879968,GTFS station/stop coordinate,LMY
+LNC,Lancaster,40.054181,-76.307714,GTFS station/stop coordinate,LNC
+LPE,Lapeer Amtrak Station,43.04952,-83.306154,GTFS station/stop coordinate,LPE
+LSV,Las Vegas Amtrak Station,35.593432,-105.212779,GTFS station/stop coordinate,LSV
+LAB,Latrobe Amtrak,40.317405,-79.385083,GTFS station/stop coordinate,LAB
+LAU,Laurel Amtrak Station,31.692168,-89.127933,GTFS station/stop coordinate,LAU
+LRC,Lawrence Amtrak Station,38.971166,-95.230539,GTFS station/stop coordinate,LRC
+LWA,Leavenworth Amtrak,47.606493,-120.643965,GTFS station/stop coordinate,LWA
+LEE,Lee'S Summit Amtrak,38.912623,-94.377972,GTFS station/stop coordinate,LEE
+LEW,Lewistown Amtrak Station,40.588309,-77.580047,GTFS station/stop coordinate,LEW
+LIB,Libby Amtrak Station,48.394842,-115.54889,GTFS station/stop coordinate,LIB
+LCN,Lincoln Amtrak Station,40.148199,-89.363051,GTFS station/stop coordinate,LCN
+LNK,Lincoln Amtrak Station,40.815871,-96.71317,GTFS station/stop coordinate,LNK
+LRK,Little Rock Union Station,34.750298,-92.286785,GTFS station/stop coordinate,LRK
+LPS,Lompoc-Surf Amtrak,34.682704,-120.605001,GTFS station/stop coordinate,LPS
+LVW,Longview,32.494032,-94.728322,GTFS station/stop coordinate,LVW
+LDB,Lordsburg Amtrak,32.35007,-108.707025,GTFS station/stop coordinate,LDB
+LOR,Lorton Amtrak Auto Train Station,38.708143,-77.220942,GTFS station/stop coordinate,LOR
+LAX,Los Angeles,34.056177,-118.236778,GTFS station/stop coordinate,LAX
+LYH,Lynchburg,37.406439,-79.156934,GTFS station/stop coordinate,LYH
+MAC,Macomb Amtrak Station,40.461212,-90.67094,GTFS station/stop coordinate,MAC
+MDS,Madison,41.283577,-72.599444,GTFS station/stop coordinate,MDS
+MAL,Malta Amtrak Station,48.360477,-107.872242,GTFS station/stop coordinate,MAL
+MVN,Malvern Amtrak,34.365484,-92.814018,GTFS station/stop coordinate,MVN
+MSS,Manassas Amtrak Station,38.75027825,-77.47278955,GTFS station/stop coordinate,MSS
+MRC,Maricopa,33.056284,-112.047137,GTFS station/stop coordinate,MRC
+MKS,Marks Amtrak,34.258227,-90.272342,GTFS station/stop coordinate,MKS
+MHL,Marshall Amtrak Station,32.551549,-94.366995,GTFS station/stop coordinate,MHL
+MSA,Martin Airport,39.33012395,-76.42143326,GTFS station/stop coordinate,MSA
+MTZ,Martinez,38.018921,-122.138784,GTFS station/stop coordinate,MTZ
+MRB,Martinsburg Amtrak Station,39.458661,-77.961014,GTFS station/stop coordinate,MRB
+MAT,Mattoon Amtrak Station,39.48273,-88.376045,GTFS station/stop coordinate,MAT
+MAY,Maysville Amtrak Station,38.652148,-83.771074,GTFS station/stop coordinate,MAY
+MCB,Mccomb,31.244467,-90.451334,GTFS station/stop coordinate,MCB
+MCK,Mccook Amtrak Station,40.197634,-100.625792,GTFS station/stop coordinate,MCK
+MCG,Mcgregor Amtrak,31.443352,-97.404756,GTFS station/stop coordinate,MCG
+MEM,Memphis,35.132458,-90.059109,GTFS station/stop coordinate,MEM
+MDT,Mendota Amtrak Station,41.549584,-89.11792,GTFS station/stop coordinate,MDT
+MDN,Meriden,41.539385,-72.800678,GTFS station/stop coordinate,MDN
+MEI,Meridian Union Station,32.364166,-88.696568,GTFS station/stop coordinate,MEI
+MET,Metropark Amtrak Station,40.568056,-74.329583,GTFS station/stop coordinate,MET
+MIA,Miami Amtrak Station,25.849554,-80.257759,GTFS station/stop coordinate,MIA
+MBY,Middlebury,44.017425,-73.169775,GTFS station/stop coordinate,MBY
+MID,Middletown,40.195658,-76.736482,GTFS station/stop coordinate,MID
+MKE,Milwaukee,43.034518,-87.917104,GTFS station/stop coordinate,MKE
+MIN,Mineola,32.662049,-95.4891,GTFS station/stop coordinate,MIN
+MOT,Minot Amtrak Station,48.236083,-101.298557,GTFS station/stop coordinate,MOT
+MOE,Mobile Amtrak Sta,30.690853,-88.03829,GTFS station/stop coordinate,MOE
+MNG,Montgomery Amtrak,38.180743,-81.32403,GTFS station/stop coordinate,MNG
+MPR,Montpelier-Berlin Amtrak Station,44.255749,-72.606394,GTFS station/stop coordinate,MPR
+MTR,Montreal Central Station,45.500169,-73.565767,GTFS station/stop coordinate,MTR
+MPK,Moorpark Amtrak,34.28476,-118.878059,GTFS station/stop coordinate,MPK
+MJY,Mount Joy Amtrak,40.109165,-76.503443,GTFS station/stop coordinate,MJY
+MVW,Mount Vernon Amtrak Station,48.41847,-122.334738,GTFS station/stop coordinate,MVW
+MTP,Mt. Pleasant Amtrak Station,40.971179,-91.550772,GTFS station/stop coordinate,MTP
+MYS,Mystic Amtrak,41.350934,-71.963093,GTFS station/stop coordinate,MYS
+NPV,Naperville Amtrak Station,41.779514,-88.145497,GTFS station/stop coordinate,NPV
+NDL,Needles Amtrak,34.840616,-114.606188,GTFS station/stop coordinate,NDL
+NBK,New Brunswick Amtrak Station,40.496522,-74.446265,GTFS station/stop coordinate,NBK
+NBU,New Buffalo Amtrak,41.796656,-86.745782,GTFS station/stop coordinate,NBU
+NCR,New Carrollton Amtrak Station,38.948098,-76.871494,GTFS station/stop coordinate,NCR
+NHV,New Haven,41.297714,-72.92667,GTFS station/stop coordinate,NHV
+STS,New Haven,41.305253,-72.922086,GTFS station/stop coordinate,STS
+NIB,New Iberia Amtrak,30.008415,-91.823809,GTFS station/stop coordinate,NIB
+NLC,New London,41.354267,-72.093225,GTFS station/stop coordinate,NLC
+NOL,New Orleans Union Passenger Terminal,29.946085,-90.078291,GTFS station/stop coordinate,NOL
+NRO,New Rochelle Amtrak Station,40.911451,-73.784329,GTFS station/stop coordinate,NRO
+NWK,Newark,40.734706,-74.16475,GTFS station/stop coordinate,NWK
+NRK,Newark Amtrak,39.669686,-75.753513,GTFS station/stop coordinate,NRK
+EWR,Newark Liberty International Airport,40.696618,-74.18229,GTFS station/stop coordinate,EWR
+NBN,Newbern-Dyersburg Amtrak Station,36.112711,-89.262264,GTFS station/stop coordinate,NBN
+NPN,Newport News,37.122325,-76.517023,GTFS station/stop coordinate,NPN
+NEW,Newton,38.046976,-97.344886,GTFS station/stop coordinate,NEW
+NFS,Niagara Falls,43.108736,-79.063291,GTFS station/stop coordinate,NFS
+NFL,Niagara Falls Amtrak Station,43.109908,-79.055276,GTFS station/stop coordinate,NFL
+NLS,Niles Amtrak Station,41.837412,-86.252372,GTFS station/stop coordinate,NLS
+NFK,Norfolk,36.843509,-76.276195,GTFS station/stop coordinate,NFK
+NOR,Norman Amtrak Station,35.219963,-97.443013,GTFS station/stop coordinate,NOR
+PHN,North Philadelphia Amtrak Station,39.99678,-75.155114,GTFS station/stop coordinate,PHN
+NHT,Northampton,42.318858,-72.626379,GTFS station/stop coordinate,NHT
+NRG,Northridge,34.230659,-118.545417,GTFS station/stop coordinate,NRG
+NYP,Ny Moynihan Train Hall At Penn Station,40.750327,-73.994459,GTFS station/stop coordinate,NYP
+OKJ,Oakland,37.793866,-122.271667,GTFS station/stop coordinate,OKJ
+OAC,Oakland Coliseum/Airport Amtrak,37.752499,-122.198147,GTFS station/stop coordinate,OAC
+OKL,Oakville,43.455394,-79.682392,GTFS station/stop coordinate,OKL
+OSM,Ocean Springs,30.415451,-88.827776,GTFS station/stop coordinate,OSM
+OSD,Oceanside,33.192515,-117.37943,GTFS station/stop coordinate,OSD
+OTN,Odenton,39.0871363,-76.7064122,GTFS station/stop coordinate,OTN
+OKE,Okeechobee Amtrak,27.251867,-80.830812,GTFS station/stop coordinate,OKE
+OKC,Oklahoma City,35.46549,-97.512749,GTFS station/stop coordinate,OKC
+OSB,Old Saybrook Amtrak Station,41.30039,-72.376818,GTFS station/stop coordinate,OSB
+OLW,Olympia-Lacey Amtrak Station,46.991273,-122.794059,GTFS station/stop coordinate,OLW
+OMA,Omaha Amtrak Station,41.249697,-95.927201,GTFS station/stop coordinate,OMA
+ONA,Ontario Amtrak,34.061672,-117.649569,GTFS station/stop coordinate,ONA
+ORC,Oregon City Amtrak,45.366146,-122.595925,GTFS station/stop coordinate,ORC
+ORL,Orlando,28.525926,-81.381516,GTFS station/stop coordinate,ORL
+OSC,Osceola Amtrak Station,41.037116,-93.764894,GTFS station/stop coordinate,OSC
+OTM,Ottumwa Amtrak Station,41.018815,-92.414929,GTFS station/stop coordinate,OTM
+OXN,Oxnard,34.199241,-119.175978,GTFS station/stop coordinate,OXN
+PAK,Palatka Amtrak,29.649734,-81.640471,GTFS station/stop coordinate,PAK
+PSN,Palm Springs Amtrak,33.897491,-116.547913,GTFS station/stop coordinate,PSN
+PAO,Paoli Amtrak Station,40.042754,-75.48376,GTFS station/stop coordinate,PAO
+PAR,Parkesburg Amtrak,39.95918,-75.922123,GTFS station/stop coordinate,PAR
+PAG,Pascagoula,30.367846,-88.559546,GTFS station/stop coordinate,PAG
+PSC,Pasco Amtrak Station,46.237012,-119.087729,GTFS station/stop coordinate,PSC
+PRB,Paso Robles Amtrak Station,35.622683,-120.68786,GTFS station/stop coordinate,PRB
+PVL,Pauls Valley Amtrak Station,34.741735,-97.21846,GTFS station/stop coordinate,PVL
+PRV,Perryville,39.5579616,-76.0732195,GTFS station/stop coordinate,PRV
+PTB,Petersburg Amtrak Station,37.241627,-77.428794,GTFS station/stop coordinate,PTB
+PHL,Philadelphia,39.955615,-75.181041,GTFS station/stop coordinate,PHL
+PIC,Picayune Amtrak Station,30.524606,-89.68026,GTFS station/stop coordinate,PIC
+PGH,Pittsburgh Amtrak Station,40.444738,-79.992307,GTFS station/stop coordinate,PGH
+PIT,Pittsfield Amtrak Station,42.451558,-73.2538,GTFS station/stop coordinate,PIT
+PLO,Plano Amtrak Station,41.662384,-88.538272,GTFS station/stop coordinate,PLO
+PLB,Plattsburgh Amtrak Station,44.696728,-73.446284,GTFS station/stop coordinate,PLB
+POS,Pomona Amtrak,34.059224,-117.750621,GTFS station/stop coordinate,POS
+PNT,Pontiac Amtrak Station,42.632771,-83.292325,GTFS station/stop coordinate,PNT
+PON,Pontiac Amtrak Station,40.878687,-88.637198,GTFS station/stop coordinate,PON
+PBF,Poplar Bluff Amtrak Station,36.753995,-90.393341,GTFS station/stop coordinate,PBF
+POH,Port Henry Amtrak Station,44.042297,-73.458753,GTFS station/stop coordinate,POH
+PTH,Port Huron Amtrak Station,42.960419,-82.443805,GTFS station/stop coordinate,PTH
+POG,Portage,43.547079,-89.467627,GTFS station/stop coordinate,POG
+PDX,Portland,45.528724,-122.676806,GTFS station/stop coordinate,PDX
+POR,Portland,43.654097,-70.291258,GTFS station/stop coordinate,POR
+POU,Poughkeepsie Amtrak Station,41.707056,-73.93749,GTFS station/stop coordinate,POU
+PRC,Prince Amtrak Station,37.856594,-81.060694,GTFS station/stop coordinate,PRC
+PCT,Princeton Amtrak Station,41.385191,-89.466815,GTFS station/stop coordinate,PCT
+PJC,Princeton Junction Amtrak Station,40.31585,-74.623976,GTFS station/stop coordinate,PJC
+PVD,Providence,41.82949,-71.413478,GTFS station/stop coordinate,PVD
+PRO,Provo Amtrak,40.225957,-111.664001,GTFS station/stop coordinate,PRO
+PUR,Purcell Amtrak Station,35.012033,-97.357416,GTFS station/stop coordinate,PUR
+QAN,Quantico Amtrak,38.521882,-77.293027,GTFS station/stop coordinate,QAN
+QCY,Quincy Amtrak Station,39.957063,-91.368525,GTFS station/stop coordinate,QCY
+RGH,Raleigh Union Station,35.777209,-78.647784,GTFS station/stop coordinate,RGH
+RPH,Randolph Amtrak,43.922398,-72.665459,GTFS station/stop coordinate,RPH
+RTL,Rantoul Amtrak,40.310905,-88.159126,GTFS station/stop coordinate,RTL
+RAT,Raton,36.901072,-104.437886,GTFS station/stop coordinate,RAT
+RDW,Red Wing Amtrak Station,44.566214,-92.537066,GTFS station/stop coordinate,RDW
+RDD,Redding Amtrak,40.583595,-122.39337,GTFS station/stop coordinate,RDD
+RNO,Reno,39.528521,-119.812123,GTFS station/stop coordinate,RNO
+REN,Rensselaer Amtrak,40.943281,-87.155121,GTFS station/stop coordinate,REN
+RHI,Rhinecliff Amtrak Station,41.921346,-73.951278,GTFS station/stop coordinate,RHI
+RIC,Richmond,37.936752,-122.35413,GTFS station/stop coordinate,RIC
+RVM,Richmond Main Street Amtrak Station,37.534209,-77.429512,GTFS station/stop coordinate,RVM
+RVR,Richmond Staples Mill Road Amtrak Station,37.617693,-77.496943,GTFS station/stop coordinate,RVR
+RIV,Riverside,33.97567,-117.369988,GTFS station/stop coordinate,RIV
+RNK,Roanoke,37.273185,-79.941795,GTFS station/stop coordinate,RNK
+ROC,Rochester,43.163411,-77.608057,GTFS station/stop coordinate,ROC
+RLN,Rocklin Amtrak Station,38.791006,-121.237299,GTFS station/stop coordinate,RLN
+RKV,Rockville Amtrak,39.084547,-77.145995,GTFS station/stop coordinate,RKV
+RMT,Rocky Mount,35.938001,-77.797855,GTFS station/stop coordinate,RMT
+ROM,Rome Amtrak Station,43.199425,-75.44996,GTFS station/stop coordinate,ROM
+RSV,Roseville Amtrak,38.750016,-121.286286,GTFS station/stop coordinate,RSV
+RSP,Rouses Point Amtrak,44.99487,-73.371093,GTFS station/stop coordinate,RSP
+RTE,Route 128 Amtrak Station,42.210242,-71.147894,GTFS station/stop coordinate,RTE
+ROY,Royal Oak Amtrak,42.488439,-83.14701,GTFS station/stop coordinate,ROY
+RUG,Rugby Amtrak Station,48.369846,-99.997556,GTFS station/stop coordinate,RUG
+RUD,Rutland,43.605756,-72.981538,GTFS station/stop coordinate,RUD
+SAO,Saco Amtrak Station,43.496191,-70.449139,GTFS station/stop coordinate,SAO
+SAC,Sacramento,38.584004,-121.500704,GTFS station/stop coordinate,SAC
+SLM,Salem,44.932331,-123.028331,GTFS station/stop coordinate,SLM
+SNS,Salinas,36.679145,-121.656745,GTFS station/stop coordinate,SNS
+SAL,Salisbury,35.667496,-80.466323,GTFS station/stop coordinate,SAL
+SLC,Salt Lake City,40.761661,-111.908349,GTFS station/stop coordinate,SLC
+SAS,San Antonio Amtrak Station,29.41935,-98.478143,GTFS station/stop coordinate,SAS
+SNB,San Bernardino,34.104112,-117.310659,GTFS station/stop coordinate,SNB
+SNP,San Clemente Pier Amtrak,33.419645,-117.619733,GTFS station/stop coordinate,SNP
+SAN,San Diego,32.716169,-117.169576,GTFS station/stop coordinate,SAN
+OLT,San Diego Old Town Transportation Center,32.755266,-117.200073,GTFS station/stop coordinate,OLT
+SJC,San Jose,37.329933,-121.902388,GTFS station/stop coordinate,SJC
+SNC,San Juan Capistrano Amtrak Station,33.501318,-117.663813,GTFS station/stop coordinate,SNC
+SLO,San Luis Obispo,35.276434,-120.654701,GTFS station/stop coordinate,SLO
+SMC,San Marcos Amtrak,29.876571,-97.941049,GTFS station/stop coordinate,SMC
+SND,Sanderson Amtrak,30.139951,-102.398746,GTFS station/stop coordinate,SND
+SPT,Sandpoint Amtrak,48.276234,-116.545583,GTFS station/stop coordinate,SPT
+SKY,Sandusky Amtrak Station,41.440671,-82.717866,GTFS station/stop coordinate,SKY
+SFA,Sanford Amtrak Auto Train Station,28.808544,-81.291274,GTFS station/stop coordinate,SFA
+SNA,Santa Ana,33.751629,-117.856607,GTFS station/stop coordinate,SNA
+SBA,Santa Barbara,34.413718,-119.692785,GTFS station/stop coordinate,SBA
+SCC,Santa Clara Amtrak,37.353219,-121.936576,GTFS station/stop coordinate,SCC
+GAC,Santa Clara Great America Amtrak,37.406778,-121.967003,GTFS station/stop coordinate,GAC
+SAR,Saratoga Springs Amtrak Station,43.08281,-73.810027,GTFS station/stop coordinate,SAR
+SAV,Savannah,32.083412,-81.148264,GTFS station/stop coordinate,SAV
+SDY,Schenectady,42.814724,-73.942892,GTFS station/stop coordinate,SDY
+SCH,Schriever Amtrak,29.746678,-90.815246,GTFS station/stop coordinate,SCH
+SEB,Seabrook,38.9727318,-76.8435658,GTFS station/stop coordinate,SEB
+SEA,Seattle,47.598445,-122.330161,GTFS station/stop coordinate,SEA
+SBG,Sebring Amtrak Station,27.496632,-81.434202,GTFS station/stop coordinate,SBG
+SED,Sedalia Amtrak Station,38.711604,-93.228706,GTFS station/stop coordinate,SED
+SSM,Selma,35.532786,-78.280099,GTFS station/stop coordinate,SSM
+SBY,Shelby Amtrak Station,48.506748,-111.856649,GTFS station/stop coordinate,SBY
+SIM,Simi Valley Amtrak,34.270204,-118.695163,GTFS station/stop coordinate,SIM
+SDL,Slidell Amtrak Station,30.278372,-89.782565,GTFS station/stop coordinate,SDL
+SOL,Solana Beach Amtrak Station,32.992937,-117.271135,GTFS station/stop coordinate,SOL
+SOB,South Bend Amtrak Station,41.67836,-86.287345,GTFS station/stop coordinate,SOB
+SPM,South Portsmouth Amtrak,38.721281,-82.963751,GTFS station/stop coordinate,SPM
+SOP,Southern Pines Amtrak Station,35.175069,-79.390303,GTFS station/stop coordinate,SOP
+SPB,Spartanburg Amtrak Station,34.953736,-81.936917,GTFS station/stop coordinate,SPB
+SPK,Spokane,47.65672,-117.415455,GTFS station/stop coordinate,SPK
+SPG,Springfield,42.105987,-72.592905,GTFS station/stop coordinate,SPG
+SPI,Springfield,39.802323,-89.651384,GTFS station/stop coordinate,SPI
+SLQ,St-Lambert Amtrak Station,45.498896,-73.507287,GTFS station/stop coordinate,SLQ
+SAB,St. Albans Amtrak Station,44.81236,-73.086191,GTFS station/stop coordinate,SAB
+SCA,St. Catherines,43.147829,-79.256017,GTFS station/stop coordinate,SCA
+SCD,St. Cloud Amtrak Station,45.567748,-94.149093,GTFS station/stop coordinate,SCD
+SJM,St. Joseph-Benton Harbor Amtrak Station,42.10908,-86.484484,GTFS station/stop coordinate,SJM
+STL,St. Louis,38.624195,-90.203973,GTFS station/stop coordinate,STL
+MSP,St. Paul-Minneapolis,44.947661,-93.085355,GTFS station/stop coordinate,MSP
+STM,Stamford Amtrak Station,41.04713,-73.54216,GTFS station/stop coordinate,STM
+STN,Stanley Amtrak Station,48.319813,-102.389379,GTFS station/stop coordinate,STN
+STW,Stanwood Amtrak,48.242638,-122.349935,GTFS station/stop coordinate,STW
+SPL,Staples Amtrak Station,46.354601,-94.795331,GTFS station/stop coordinate,SPL
+STA,Staunton Amtrak Station,38.147639,-79.071776,GTFS station/stop coordinate,STA
+SVT,Sturtevant Amtrak Station,42.718292,-87.9063,GTFS station/stop coordinate,SVT
+SUI,Suisun-Fairfield,38.243401,-122.041099,GTFS station/stop coordinate,SUI
+SMT,Summit Amtrak,41.794912,-87.809742,GTFS station/stop coordinate,SMT
+SYR,Syracuse Regional Transportation Center,43.076548,-76.169244,GTFS station/stop coordinate,SYR
+TAC,Tacoma,47.239803,-122.428099,GTFS station/stop coordinate,TAC
+TPA,Tampa,27.952492,-82.450777,GTFS station/stop coordinate,TPA
+TAY,Taylor Amtrak,30.567667,-97.407763,GTFS station/stop coordinate,TAY
+TPL,Temple,31.095883,-97.345792,GTFS station/stop coordinate,TPL
+TXA,Texarkana Amtrak Station,33.420067,-94.043082,GTFS station/stop coordinate,TXA
+THN,Thurmond Amtrak,37.956986,-81.078754,GTFS station/stop coordinate,THN
+FTC,Ticonderoga Amtrak,43.853788,-73.389681,GTFS station/stop coordinate,FTC
+TCA,Toccoa Amtrak Station,34.578456,-83.331542,GTFS station/stop coordinate,TCA
+TOL,Toledo,41.638345,-83.541721,GTFS station/stop coordinate,TOL
+TOH,Tomah Amtrak Station,43.986007,-90.505331,GTFS station/stop coordinate,TOH
+TOP,Topeka Amtrak Station,39.051415,-95.664916,GTFS station/stop coordinate,TOP
+TWO,Toronto,43.645427,-79.380762,GTFS station/stop coordinate,TWO
+TRE,Trenton,40.219011,-74.75444,GTFS station/stop coordinate,TRE
+TRI,Trinidad Amtrak,37.172688,-104.507981,GTFS station/stop coordinate,TRI
+TRM,Troy Amtrak Station,42.542555,-83.191026,GTFS station/stop coordinate,TRM
+TRU,Truckee Amtrak Station,39.327616,-120.185387,GTFS station/stop coordinate,TRU
+TUS,Tucson Amtrak Station,32.222977,-110.96677,GTFS station/stop coordinate,TUS
+TUK,Tukwila Amtrak,47.461081,-122.240254,GTFS station/stop coordinate,TUK
+TCL,Tuscaloosa Amtrak Station,33.193165,-87.560228,GTFS station/stop coordinate,TCL
+TYR,Tyrone Amtrak,40.667705,-78.24047,GTFS station/stop coordinate,TYR
+UCA,Utica Amtrak Station,43.103892,-75.223434,GTFS station/stop coordinate,UCA
+VNC,Van Nuys,34.211294,-118.448206,GTFS station/stop coordinate,VNC
+VAC,Vancouver,49.273757,-123.098336,GTFS station/stop coordinate,VAC
+VAN,Vancouver,45.628901,-122.686544,GTFS station/stop coordinate,VAN
+VEC,Ventura Amtrak,34.276929,-119.299918,GTFS station/stop coordinate,VEC
+VRV,Victorville Amtrak,34.5372,-117.292956,GTFS station/stop coordinate,VRV
+WFD,Wallingford Amtrak,41.456969,-72.825221,GTFS station/stop coordinate,WFD
+WNR,Walnut Ridge Amtrak Station,36.06766,-90.956766,GTFS station/stop coordinate,WNR
+WAR,Warrensburg Amtrak Station,38.76275,-93.7409,GTFS station/stop coordinate,WAR
+WAH,Washington Amtrak Station,38.561466,-91.012717,GTFS station/stop coordinate,WAH
+WAS,Washington Union Station,38.896993,-77.006422,GTFS station/stop coordinate,WAS
+WAB,Waterbury-Stowe Amtrak Station,44.335011,-72.751806,GTFS station/stop coordinate,WAB
+WTI,Waterloo Amtrak Station,41.431816,-85.024298,GTFS station/stop coordinate,WTI
+WEM,Wells,43.320836,-70.612192,GTFS station/stop coordinate,WEM
+WEN,Wenatchee Amtrak,47.421556,-120.306552,GTFS station/stop coordinate,WEN
+WBL,West Baltimore,39.293448,-76.6533103,GTFS station/stop coordinate,WBL
+WGL,West Glacier Amtrak,48.496218,-113.979164,GTFS station/stop coordinate,WGL
+WPB,West Palm Beach Amtrak Station,26.712554,-80.062184,GTFS station/stop coordinate,WPB
+WSB,Westbrook,41.288787,-72.448,GTFS station/stop coordinate,WSB
+WLY,Westerly Amtrak Station,41.381081,-71.82978,GTFS station/stop coordinate,WLY
+WSP,Westport,44.187288,-73.451773,GTFS station/stop coordinate,WSP
+WRJ,White River Junction Amtrak Station,43.647785,-72.317272,GTFS station/stop coordinate,WRJ
+WSS,White Sulphur Springs Amtrak,37.786443,-80.304004,GTFS station/stop coordinate,WSS
+WFH,Whitefish Amtrak Station,48.413474,-114.335575,GTFS station/stop coordinate,WFH
+WHL,Whitehall Amtrak,43.554694,-73.403207,GTFS station/stop coordinate,WHL
+WBG,Williamsburg Amtrak Station,37.276414,-76.708564,GTFS station/stop coordinate,WBG
+WTN,Williston Amtrak Station,48.143,-103.620926,GTFS station/stop coordinate,WTN
+WIL,Wilmington,39.737263,-75.551095,GTFS station/stop coordinate,WIL
+WLN,Wilson,35.723135,-77.908029,GTFS station/stop coordinate,WLN
+WND,Windsor,41.852013,-72.642253,GTFS station/stop coordinate,WND
+WNL,Windsor Locks,41.93336,-72.62767,GTFS station/stop coordinate,WNL
+WNM,Windsor-Mt. Ascutney Amtrak,43.479908,-72.384985,GTFS station/stop coordinate,WNM
+WNN,Winnemucca Amtrak,40.969044,-117.73221,GTFS station/stop coordinate,WNN
+WIN,Winona,44.044404,-91.640073,GTFS station/stop coordinate,WIN
+WLO,Winslow Amtrak,35.021666,-110.694981,GTFS station/stop coordinate,WLO
+WTH,Winter Haven,28.002146,-81.734878,GTFS station/stop coordinate,WTH
+WPK,Winter Park Amtrak Station,28.597099,-81.351993,GTFS station/stop coordinate,WPK
+WIP,Winter Park/Fraser,39.947566,-105.817388,GTFS station/stop coordinate,WIP
+WDL,Wisconsin Dells Amtrak Station,43.626509,-89.777451,GTFS station/stop coordinate,WDL
+WIH,Wishram Amtrak,45.657669,-120.966142,GTFS station/stop coordinate,WIH
+WOB,Woburn Amtrak Station,42.517358,-71.143823,GTFS station/stop coordinate,WOB
+WPT,Wolf Point Amtrak Station,48.091672,-105.642736,GTFS station/stop coordinate,WPT
+WDB,Woodbridge Amtrak,38.658915,-77.247852,GTFS station/stop coordinate,WDB
+WOR,Worcester Union Station,42.261478,-71.794812,GTFS station/stop coordinate,WOR
+YAZ,Yazoo City Amtrak,32.848477,-90.41523,GTFS station/stop coordinate,YAZ
+YEM,Yemassee Amtrak,32.688286,-80.846901,GTFS station/stop coordinate,YEM
+YNY,Yonkers Amtrak Station,40.935586,-73.902263,GTFS station/stop coordinate,YNY
+YUM,Yuma Amtrak,32.723139,-114.615571,GTFS station/stop coordinate,YUM

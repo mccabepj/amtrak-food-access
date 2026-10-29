@@ -1,0 +1,30 @@
+{
+  "source_gtfs": "C:\\Users\\17574\\Desktop\\sites\\amtrak\\viewer\\viewer\\data\\GTFS.zip",
+  "requested_routes": [
+    "Southwest Chief",
+    "Cardinal",
+    "Silver Meteor"
+  ],
+  "matched_routes": [
+    {
+      "route_id": "42947",
+      "selected_name": "Silver Meteor",
+      "feed_long_name": "Silver Meteor",
+      "feed_short_name": ""
+    },
+    {
+      "route_id": "51",
+      "selected_name": "Southwest Chief",
+      "feed_long_name": "Southwest Chief",
+      "feed_short_name": ""
+    },
+    {
+      "route_id": "58",
+      "selected_name": "Cardinal",
+      "feed_long_name": "Cardinal",
+      "feed_short_name": ""
+    }
+  ],
+  "unique_stations_in_scope": 88,
+  "note": "Union of selected routes across the feed, not limited to one operating date. Shared parent stations counted once."
+}

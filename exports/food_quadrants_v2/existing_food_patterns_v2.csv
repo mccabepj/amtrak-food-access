@@ -1,0 +1,314 @@
+﻿id,name,route,direction,arrival,dwell,gap,x,y,n
+NWK,Newark,Cardinal,Chicago Union Station,06:57:00,5,17,100,24,12
+TRE,Trenton,Cardinal,Chicago Union Station,07:38:00,4,58,96.5,8,12
+PHL,Philadelphia,Cardinal,Chicago Union Station,08:07:00,13,87,70.5,42.5,12
+WIL,Wilmington,Cardinal,Chicago Union Station,08:42:00,3,122,70.5,9,12
+BAL,Baltimore Penn Station,Cardinal,Chicago Union Station,09:35:00,3,175,87,9,12
+WAS,Washington Union Station,Cardinal,Chicago Union Station,10:19:00,80,219,100,90,12
+ALX,Alexandria,Cardinal,Chicago Union Station,11:59:00,0,20,87,0,12
+MSS,Manassas Amtrak Station,Cardinal,Chicago Union Station,12:32:00,0,53,100,0,12
+CLP,Culpeper Amtrak Station,Cardinal,Chicago Union Station,13:05:00,0,86,100,0,12
+CVS,Charlottesville,Cardinal,Chicago Union Station,14:23:00,9,164,100,25.125,12
+STA,Staunton Amtrak Station,Cardinal,Chicago Union Station,15:34:00,0,235,100,0,12
+CLF,Clifton Forge Amtrak Station,Cardinal,Chicago Union Station,16:53:00,0,314,53,0,12
+WSS,White Sulphur Springs Amtrak,Cardinal,Chicago Union Station,17:45:00,0,366,0,0,12
+ALD,Alderson Amtrak,Cardinal,Chicago Union Station,18:16:00,0,397,0,0,12
+HIN,Hinton Amtrak Station,Cardinal,Chicago Union Station,18:46:00,0,427,78.25,0,12
+PRC,Prince Amtrak Station,Cardinal,Chicago Union Station,19:23:00,0,464,0,0,12
+THN,Thurmond Amtrak,Cardinal,Chicago Union Station,19:39:00,0,480,0,0,12
+MNG,Montgomery Amtrak,Cardinal,Chicago Union Station,20:30:00,0,531,79,0,12
+CHW,Charleston,Cardinal,Chicago Union Station,21:09:00,0,570,40,0,12
+HUN,Huntington Amtrak Station,Cardinal,Chicago Union Station,22:24:00,7,645,52.25,25.5,12
+AKY,Ashland Amtrak Station,Cardinal,Chicago Union Station,22:54:00,0,675,100,0,12
+SPM,South Portsmouth Amtrak,Cardinal,Chicago Union Station,23:37:00,0,718,0,0,12
+MAY,Maysville Amtrak Station,Cardinal,Chicago Union Station,00:32:00,0,773,66,0,12
+CIN,Cincinnati Union Terminal,Cardinal,Chicago Union Station,02:11:00,10,872,79,38.75,12
+COI,Connersville Amtrak,Cardinal,Chicago Union Station,04:16:00,0,997,0,0,12
+IND,Indianapolis,Cardinal,Chicago Union Station,05:55:00,30,1096,74,77.5,12
+CRF,Crawfordsville Amtrak,Cardinal,Chicago Union Station,07:23:00,0,1184,53,0,12
+LAF,Lafayette Amtrak Station,Cardinal,Chicago Union Station,08:01:00,0,1222,100,0,12
+REN,Rensselaer Amtrak,Cardinal,Chicago Union Station,08:05:00,0,1286,0,0,12
+DYE,Dyer Amtrak,Cardinal,Chicago Union Station,08:54:00,0,1335,0,0,12
+DYE,Dyer Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,18:54:00,0,59,0,0,12
+REN,Rensselaer Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,19:45:00,0,110,0,0,12
+LAF,Lafayette Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,21:56:00,0,181,100,0,12
+CRF,Crawfordsville Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,22:30:00,0,215,53,0,12
+IND,Indianapolis,Cardinal,Ny Moynihan Train Hall At Penn Station,23:49:00,26,294,74,72.5,12
+COI,Connersville Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,01:31:00,0,396,0,0,12
+CIN,Cincinnati Union Terminal,Cardinal,Ny Moynihan Train Hall At Penn Station,03:27:00,10,512,79,38.75,11
+MAY,Maysville Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,05:02:00,0,607,66,0,11
+SPM,South Portsmouth Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,05:55:00,0,660,0,0,11
+AKY,Ashland Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,06:45:00,0,710,100,0,11
+HUN,Huntington Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,07:19:00,7,744,52.25,30,11
+CHW,Charleston,Cardinal,Ny Moynihan Train Hall At Penn Station,08:31:00,0,816,40,0,11
+MNG,Montgomery Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,09:02:00,0,847,79,0,11
+THN,Thurmond Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,09:56:00,0,901,0,0,11
+PRC,Prince Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,10:18:00,0,923,0,0,11
+HIN,Hinton Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,10:50:00,0,955,78.25,0,11
+ALD,Alderson Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,11:18:00,0,983,0,0,11
+WSS,White Sulphur Springs Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,12:01:00,0,1026,0,0,11
+CLF,Clifton Forge Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,13:09:00,0,1094,53,0,11
+STA,Staunton Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,14:28:00,0,1173,100,0,11
+CVS,Charlottesville,Cardinal,Ny Moynihan Train Hall At Penn Station,15:35:00,9,1240,100,28.125,11
+CLP,Culpeper Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,17:00:00,0,1325,100,0,11
+MSS,Manassas Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,17:35:00,0,1360,100,0,11
+ALX,Alexandria,Cardinal,Ny Moynihan Train Hall At Penn Station,18:27:00,0,1412,87,0,11
+WAS,Washington Union Station,Cardinal,Ny Moynihan Train Hall At Penn Station,18:44:00,25,1429,100,100,11
+BAL,Baltimore Penn Station,Cardinal,Ny Moynihan Train Hall At Penn Station,19:41:00,0,1486,87,0,11
+WIL,Wilmington,Cardinal,Ny Moynihan Train Hall At Penn Station,20:30:00,0,1535,70.5,0,11
+PHL,Philadelphia,Cardinal,Ny Moynihan Train Hall At Penn Station,20:51:00,5,1556,70.5,30,6
+TRE,Trenton,Cardinal,Ny Moynihan Train Hall At Penn Station,21:27:00,0,1592,96.5,0,7
+NWK,Newark,Cardinal,Ny Moynihan Train Hall At Penn Station,22:03:00,0,1628,100,0,7
+CIN,Cincinnati Union Terminal,Cardinal,Ny Moynihan Train Hall At Penn Station,02:27:00,10,512,79,38.75,1
+MAY,Maysville Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,04:02:00,0,607,66,0,1
+SPM,South Portsmouth Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,04:55:00,0,660,0,0,1
+AKY,Ashland Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,05:45:00,0,710,100,0,1
+HUN,Huntington Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,06:19:00,7,744,52.25,30,1
+CHW,Charleston,Cardinal,Ny Moynihan Train Hall At Penn Station,07:31:00,0,816,40,0,1
+MNG,Montgomery Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,08:02:00,0,847,79,0,1
+THN,Thurmond Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,08:56:00,0,901,0,0,1
+PRC,Prince Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,09:18:00,0,923,0,0,1
+HIN,Hinton Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,09:50:00,0,955,78.25,0,1
+ALD,Alderson Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,10:18:00,0,983,0,0,1
+WSS,White Sulphur Springs Amtrak,Cardinal,Ny Moynihan Train Hall At Penn Station,11:01:00,0,1026,0,0,1
+CLF,Clifton Forge Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,12:09:00,0,1094,53,0,1
+STA,Staunton Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,13:28:00,0,1173,100,0,1
+CVS,Charlottesville,Cardinal,Ny Moynihan Train Hall At Penn Station,14:35:00,9,1240,100,28.125,1
+CLP,Culpeper Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,16:00:00,0,1325,100,0,1
+MSS,Manassas Amtrak Station,Cardinal,Ny Moynihan Train Hall At Penn Station,16:35:00,0,1360,100,0,1
+ALX,Alexandria,Cardinal,Ny Moynihan Train Hall At Penn Station,17:27:00,0,1412,87,0,1
+WAS,Washington Union Station,Cardinal,Ny Moynihan Train Hall At Penn Station,17:44:00,25,1429,100,100,1
+BAL,Baltimore Penn Station,Cardinal,Ny Moynihan Train Hall At Penn Station,18:41:00,0,1486,87,0,1
+WIL,Wilmington,Cardinal,Ny Moynihan Train Hall At Penn Station,19:30:00,0,1535,70.5,0,1
+PHL,Philadelphia,Cardinal,Ny Moynihan Train Hall At Penn Station,19:51:00,5,1556,70.5,30,1
+TRE,Trenton,Cardinal,Ny Moynihan Train Hall At Penn Station,20:27:00,0,1592,96.5,0,1
+NWK,Newark,Cardinal,Ny Moynihan Train Hall At Penn Station,21:03:00,0,1628,100,0,1
+PHL,Philadelphia,Cardinal,Ny Moynihan Train Hall At Penn Station,20:56:00,5,1561,70.5,30,5
+TRE,Trenton,Cardinal,Ny Moynihan Train Hall At Penn Station,21:32:00,0,1597,96.5,0,4
+NWK,Newark,Cardinal,Ny Moynihan Train Hall At Penn Station,22:08:00,0,1633,100,0,4
+NWK,Newark,Silver Meteor,Miami Amtrak Station,14:50:00,3,20,100,7.375,28
+TRE,Trenton,Silver Meteor,Miami Amtrak Station,15:30:00,4,60,96.5,7.875,28
+PHL,Philadelphia,Silver Meteor,Miami Amtrak Station,16:05:00,10,95,70.5,39.375,28
+WIL,Wilmington,Silver Meteor,Miami Amtrak Station,16:38:00,4,128,70.5,8.375,28
+BAL,Baltimore Penn Station,Silver Meteor,Miami Amtrak Station,17:38:00,0,188,87,0,28
+WAS,Washington Union Station,Silver Meteor,Miami Amtrak Station,18:26:00,58,236,100,90,28
+ALX,Alexandria,Silver Meteor,Miami Amtrak Station,19:41:00,4,17,87,8,28
+FBG,Fredericksburg Amtrak,Silver Meteor,Miami Amtrak Station,20:32:00,3,68,100,8.5,28
+RVR,Richmond Staples Mill Road Amtrak Station,Silver Meteor,Miami Amtrak Station,21:39:00,10,135,40,37.5,28
+PTB,Petersburg Amtrak Station,Silver Meteor,Miami Amtrak Station,22:21:00,2,177,47,0,28
+RMT,Rocky Mount,Silver Meteor,Miami Amtrak Station,23:52:00,3,268,27,7.25,28
+FAY,Fayetteville Amtrak Station,Silver Meteor,Miami Amtrak Station,01:17:00,10,353,83.5,36.25,28
+FLO,Florence Amtrak Station,Silver Meteor,Miami Amtrak Station,03:10:00,8,466,0,23.25,27
+KTR,Kingstree Amtrak Station,Silver Meteor,Miami Amtrak Station,03:53:00,3,509,0,7.75,27
+CHS,Charleston Amtrak Station,Silver Meteor,Miami Amtrak Station,04:48:00,8,564,27,23.25,27
+YEM,Yemassee Amtrak,Silver Meteor,Miami Amtrak Station,05:44:00,4,620,0,7.75,27
+SAV,Savannah,Silver Meteor,Miami Amtrak Station,06:43:00,6,679,0,30,27
+JSP,Jesup Amtrak Station,Silver Meteor,Miami Amtrak Station,07:43:00,4,739,40,10,27
+JAX,Jacksonville,Silver Meteor,Miami Amtrak Station,09:24:00,25,840,0,100,27
+PAK,Palatka Amtrak,Silver Meteor,Miami Amtrak Station,10:52:00,3,928,27,10,27
+DLD,Deland,Silver Meteor,Miami Amtrak Station,11:50:00,3,986,0,10,27
+WPK,Winter Park Amtrak Station,Silver Meteor,Miami Amtrak Station,12:39:00,2,1035,87,0,27
+ORL,Orlando,Silver Meteor,Miami Amtrak Station,13:04:00,15,1060,0,70,27
+KIS,Kissimmee Amtrak Station,Silver Meteor,Miami Amtrak Station,13:38:00,3,1094,96.5,10,27
+WTH,Winter Haven,Silver Meteor,Miami Amtrak Station,14:30:00,3,1146,27,9.375,27
+SBG,Sebring Amtrak Station,Silver Meteor,Miami Amtrak Station,15:11:00,3,1187,34,9.375,27
+WPB,West Palm Beach Amtrak Station,Silver Meteor,Miami Amtrak Station,17:10:00,0,1306,0,0,27
+DLB,Delray Beach Amtrak,Silver Meteor,Miami Amtrak Station,17:33:00,0,1329,0,0,27
+DFB,Deerfield Beach Amtrak Station,Silver Meteor,Miami Amtrak Station,17:47:00,0,1343,0,0,27
+FTL,Fort Lauderdale Amtrak Station,Silver Meteor,Miami Amtrak Station,18:06:00,0,1362,0,0,27
+HOL,Hollywood Amtrak Station,Silver Meteor,Miami Amtrak Station,18:21:00,0,1377,47,0,27
+FLO,Florence Amtrak Station,Silver Meteor,Miami Amtrak Station,02:10:00,8,466,0,23.25,1
+KTR,Kingstree Amtrak Station,Silver Meteor,Miami Amtrak Station,02:53:00,3,509,0,7.75,1
+CHS,Charleston Amtrak Station,Silver Meteor,Miami Amtrak Station,03:48:00,8,564,27,23.25,1
+YEM,Yemassee Amtrak,Silver Meteor,Miami Amtrak Station,04:44:00,4,620,0,7.75,1
+SAV,Savannah,Silver Meteor,Miami Amtrak Station,05:43:00,6,679,0,23.25,1
+JSP,Jesup Amtrak Station,Silver Meteor,Miami Amtrak Station,06:43:00,4,739,40,10,1
+JAX,Jacksonville,Silver Meteor,Miami Amtrak Station,08:24:00,25,840,0,100,1
+PAK,Palatka Amtrak,Silver Meteor,Miami Amtrak Station,09:52:00,3,928,27,10,1
+DLD,Deland,Silver Meteor,Miami Amtrak Station,10:50:00,3,986,0,10,1
+WPK,Winter Park Amtrak Station,Silver Meteor,Miami Amtrak Station,11:39:00,2,1035,87,0,1
+ORL,Orlando,Silver Meteor,Miami Amtrak Station,12:04:00,15,1060,0,70,1
+KIS,Kissimmee Amtrak Station,Silver Meteor,Miami Amtrak Station,12:38:00,3,1094,96.5,10,1
+WTH,Winter Haven,Silver Meteor,Miami Amtrak Station,13:30:00,3,1146,27,10,1
+SBG,Sebring Amtrak Station,Silver Meteor,Miami Amtrak Station,14:11:00,3,1187,34,9.375,1
+WPB,West Palm Beach Amtrak Station,Silver Meteor,Miami Amtrak Station,16:10:00,0,1306,0,0,1
+DLB,Delray Beach Amtrak,Silver Meteor,Miami Amtrak Station,16:33:00,0,1329,0,0,1
+DFB,Deerfield Beach Amtrak Station,Silver Meteor,Miami Amtrak Station,16:47:00,0,1343,0,0,1
+FTL,Fort Lauderdale Amtrak Station,Silver Meteor,Miami Amtrak Station,17:06:00,0,1362,0,0,1
+HOL,Hollywood Amtrak Station,Silver Meteor,Miami Amtrak Station,17:21:00,0,1377,47,0,1
+HOL,Hollywood Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,07:29:00,0,24,47,0,28
+FTL,Fort Lauderdale Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,07:45:00,0,40,0,0,28
+DFB,Deerfield Beach Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,08:03:00,0,58,0,0,28
+DLB,Delray Beach Amtrak,Silver Meteor,Ny Moynihan Train Hall At Penn Station,08:17:00,0,72,0,0,28
+WPB,West Palm Beach Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,08:42:00,0,97,0,0,28
+SBG,Sebring Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,10:21:00,2,196,34,0,28
+WTH,Winter Haven,Silver Meteor,Ny Moynihan Train Hall At Penn Station,11:03:00,5,238,27,27,28
+KIS,Kissimmee Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,11:54:00,3,289,96.5,9.5,28
+ORL,Orlando,Silver Meteor,Ny Moynihan Train Hall At Penn Station,12:22:00,14,317,0,47.5,28
+WPK,Winter Park Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,12:51:00,2,346,87,0,28
+DLD,Deland,Silver Meteor,Ny Moynihan Train Hall At Penn Station,13:38:00,2,393,0,0,28
+PAK,Palatka Amtrak,Silver Meteor,Ny Moynihan Train Hall At Penn Station,14:27:00,3,442,27,9.375,28
+JAX,Jacksonville,Silver Meteor,Ny Moynihan Train Hall At Penn Station,15:51:00,20,526,0,79.688,28
+JSP,Jesup Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,17:30:00,5,625,40,30,28
+SAV,Savannah,Silver Meteor,Ny Moynihan Train Hall At Penn Station,18:37:00,8,692,0,30,28
+YEM,Yemassee Amtrak,Silver Meteor,Ny Moynihan Train Hall At Penn Station,19:30:00,4,745,0,10,28
+CHS,Charleston Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,20:25:00,9,800,27,30,28
+KTR,Kingstree Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,21:25:00,3,860,0,8.5,28
+FLO,Florence Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,22:22:00,10,917,0,42.5,28
+FAY,Fayetteville Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,23:47:00,10,1002,83.5,38.75,28
+RMT,Rocky Mount,Silver Meteor,Ny Moynihan Train Hall At Penn Station,01:25:00,4,1100,27,7.75,28
+PTB,Petersburg Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,02:50:00,3,1185,47,7.75,27
+RVR,Richmond Staples Mill Road Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,03:42:00,10,1237,40,38.75,27
+FBG,Fredericksburg Amtrak,Silver Meteor,Ny Moynihan Train Hall At Penn Station,04:49:00,0,1304,100,0,24
+ALX,Alexandria,Silver Meteor,Ny Moynihan Train Hall At Penn Station,05:54:00,0,1369,87,0,27
+WAS,Washington Union Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,06:25:00,65,1400,100,100,23
+BAL,Baltimore Penn Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,08:07:00,4,37,87,8,23
+WIL,Wilmington,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:00:00,4,90,70.5,8.5,23
+PHL,Philadelphia,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:25:00,5,115,70.5,25.5,23
+TRE,Trenton,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:58:00,2,148,96.5,0,23
+NWK,Newark,Silver Meteor,Ny Moynihan Train Hall At Penn Station,10:37:00,2,187,100,0,23
+PTB,Petersburg Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,01:50:00,3,1185,47,7.75,1
+RVR,Richmond Staples Mill Road Amtrak Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,02:42:00,10,1237,40,38.75,1
+FBG,Fredericksburg Amtrak,Silver Meteor,Ny Moynihan Train Hall At Penn Station,03:46:00,0,1301,100,0,1
+ALX,Alexandria,Silver Meteor,Ny Moynihan Train Hall At Penn Station,04:54:00,0,1369,87,0,1
+WAS,Washington Union Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,05:25:00,38,1400,100,77.5,1
+BAL,Baltimore Penn Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,06:40:00,4,37,87,8,1
+WIL,Wilmington,Silver Meteor,Ny Moynihan Train Hall At Penn Station,07:33:00,4,90,70.5,8.5,1
+PHL,Philadelphia,Silver Meteor,Ny Moynihan Train Hall At Penn Station,08:08:00,5,125,70.5,27,1
+TRE,Trenton,Silver Meteor,Ny Moynihan Train Hall At Penn Station,08:41:00,2,158,96.5,0,1
+NWK,Newark,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:18:00,2,195,100,0,1
+WAS,Washington Union Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,06:25:00,40,1400,100,100,1
+BAL,Baltimore Penn Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,07:48:00,4,43,87,8,1
+WIL,Wilmington,Silver Meteor,Ny Moynihan Train Hall At Penn Station,08:45:00,4,100,70.5,8.5,1
+PHL,Philadelphia,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:20:00,10,135,70.5,45,1
+TRE,Trenton,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:58:00,2,173,96.5,0,1
+NWK,Newark,Silver Meteor,Ny Moynihan Train Hall At Penn Station,10:37:00,2,212,100,0,1
+FBG,Fredericksburg Amtrak,Silver Meteor,Ny Moynihan Train Hall At Penn Station,04:46:00,0,1301,100,0,3
+WAS,Washington Union Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,06:25:00,33,1400,100,100,1
+BAL,Baltimore Penn Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,07:35:00,4,37,87,8,1
+WIL,Wilmington,Silver Meteor,Ny Moynihan Train Hall At Penn Station,08:28:00,4,90,70.5,8.5,1
+PHL,Philadelphia,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:08:00,5,130,70.5,27,1
+TRE,Trenton,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:41:00,2,163,96.5,0,1
+NWK,Newark,Silver Meteor,Ny Moynihan Train Hall At Penn Station,10:18:00,2,200,100,0,1
+WAS,Washington Union Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,06:25:00,38,1400,100,100,1
+BAL,Baltimore Penn Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,07:40:00,4,37,87,8,1
+WIL,Wilmington,Silver Meteor,Ny Moynihan Train Hall At Penn Station,08:33:00,4,90,70.5,8.5,1
+PHL,Philadelphia,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:08:00,5,125,70.5,27,1
+TRE,Trenton,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:41:00,2,158,96.5,0,1
+NWK,Newark,Silver Meteor,Ny Moynihan Train Hall At Penn Station,10:18:00,2,195,100,0,1
+WAS,Washington Union Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,06:25:00,48,1400,100,100,1
+BAL,Baltimore Penn Station,Silver Meteor,Ny Moynihan Train Hall At Penn Station,07:50:00,4,37,87,8,1
+WIL,Wilmington,Silver Meteor,Ny Moynihan Train Hall At Penn Station,08:43:00,4,90,70.5,8.5,1
+PHL,Philadelphia,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:08:00,5,115,70.5,25.5,1
+TRE,Trenton,Silver Meteor,Ny Moynihan Train Hall At Penn Station,09:41:00,2,148,96.5,0,1
+NWK,Newark,Silver Meteor,Ny Moynihan Train Hall At Penn Station,10:18:00,2,185,100,0,1
+FUL,Fullerton Amtrak Station,Southwest Chief,Chicago Union Station,17:25:00,8,30,100,24,27
+RIV,Riverside,Southwest Chief,Chicago Union Station,18:14:00,4,79,52.25,8.5,27
+SNB,San Bernardino,Southwest Chief,Chicago Union Station,18:36:00,7,101,0,25.5,27
+VRV,Victorville Amtrak,Southwest Chief,Chicago Union Station,19:51:00,3,176,40,9,27
+BAR,Barstow,Southwest Chief,Chicago Union Station,20:42:00,5,227,0,27,27
+NDL,Needles Amtrak,Southwest Chief,Chicago Union Station,23:20:00,2,385,66,0,27
+KNG,Kingman,Southwest Chief,Chicago Union Station,01:27:00,10,452,65.25,38.75,2
+FLG,Flagstaff,Southwest Chief,Chicago Union Station,04:31:00,8,636,100,23.25,2
+WLO,Winslow Amtrak,Southwest Chief,Chicago Union Station,05:39:00,4,704,91.25,7.75,2
+GLP,Gallup Amtrak Station,Southwest Chief,Chicago Union Station,07:36:00,0,821,96.5,0,26
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,Chicago Union Station,10:41:00,50,1006,87,100,26
+LMY,Lamy,Southwest Chief,Chicago Union Station,12:34:00,4,63,79,8.5,26
+LSV,Las Vegas Amtrak Station,Southwest Chief,Chicago Union Station,14:27:00,0,176,86,0,26
+RAT,Raton,Southwest Chief,Chicago Union Station,16:14:00,4,283,73,8.875,26
+TRI,Trinidad Amtrak,Southwest Chief,Chicago Union Station,17:17:00,0,346,78.25,0,26
+LAJ,La Junta Amtrak Station,Southwest Chief,Chicago Union Station,18:45:00,10,434,60,50,26
+LMR,Lamar Amtrak,Southwest Chief,Chicago Union Station,19:47:00,2,496,73,0,26
+GCK,Garden City Amtrak Station,Southwest Chief,Chicago Union Station,22:18:00,2,587,0,0,26
+DDG,Dodge City Amtrak Station,Southwest Chief,Chicago Union Station,23:09:00,6,638,78.25,23.25,26
+HUT,Hutchinson Amtrak Station,Southwest Chief,Chicago Union Station,01:08:00,2,757,96.5,0,26
+NEW,Newton,Southwest Chief,Chicago Union Station,01:47:00,4,796,96.5,7.75,26
+TOP,Topeka Amtrak Station,Southwest Chief,Chicago Union Station,04:14:00,3,943,0,7.75,25
+LRC,Lawrence Amtrak Station,Southwest Chief,Chicago Union Station,04:44:00,2,973,74,0,25
+KCY,Kansas City,Southwest Chief,Chicago Union Station,06:18:00,45,1067,100,100,25
+LAP,La Plata Amtrak Station,Southwest Chief,Chicago Union Station,09:13:00,2,130,0,0,25
+FMD,Fort Madison,Southwest Chief,Chicago Union Station,10:25:00,6,202,79,27,25
+GBB,Galesburg Amtrak Station,Southwest Chief,Chicago Union Station,11:35:00,2,272,100,0,25
+PCT,Princeton Amtrak Station,Southwest Chief,Chicago Union Station,12:28:00,2,325,73,0,25
+MDT,Mendota Amtrak Station,Southwest Chief,Chicago Union Station,12:50:00,1,347,0,0,25
+NPV,Naperville Amtrak Station,Southwest Chief,Chicago Union Station,13:55:00,0,412,91.25,0,25
+TOP,Topeka Amtrak Station,Southwest Chief,Chicago Union Station,03:14:00,3,943,0,7.75,2
+LRC,Lawrence Amtrak Station,Southwest Chief,Chicago Union Station,03:44:00,2,973,74,0,2
+KCY,Kansas City,Southwest Chief,Chicago Union Station,05:18:00,45,1067,100,77.5,2
+LAP,La Plata Amtrak Station,Southwest Chief,Chicago Union Station,08:13:00,2,130,0,0,2
+FMD,Fort Madison,Southwest Chief,Chicago Union Station,09:25:00,6,202,79,27,2
+GBB,Galesburg Amtrak Station,Southwest Chief,Chicago Union Station,10:35:00,2,272,100,0,2
+PCT,Princeton Amtrak Station,Southwest Chief,Chicago Union Station,11:28:00,2,325,73,0,2
+MDT,Mendota Amtrak Station,Southwest Chief,Chicago Union Station,11:50:00,1,347,0,0,2
+NPV,Naperville Amtrak Station,Southwest Chief,Chicago Union Station,12:55:00,0,412,91.25,0,2
+KNG,Kingman,Southwest Chief,Chicago Union Station,01:27:00,10,512,65.25,38.75,1
+FLG,Flagstaff,Southwest Chief,Chicago Union Station,04:31:00,8,696,100,23.25,1
+WLO,Winslow Amtrak,Southwest Chief,Chicago Union Station,05:39:00,4,764,91.25,7.75,1
+GLP,Gallup Amtrak Station,Southwest Chief,Chicago Union Station,06:36:00,0,821,96.5,0,1
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,Chicago Union Station,09:41:00,50,1006,87,100,1
+LMY,Lamy,Southwest Chief,Chicago Union Station,11:34:00,4,63,79,8.5,1
+LSV,Las Vegas Amtrak Station,Southwest Chief,Chicago Union Station,13:27:00,0,176,86,0,1
+RAT,Raton,Southwest Chief,Chicago Union Station,15:14:00,4,283,73,8.875,1
+TRI,Trinidad Amtrak,Southwest Chief,Chicago Union Station,16:17:00,0,346,78.25,0,1
+LAJ,La Junta Amtrak Station,Southwest Chief,Chicago Union Station,17:45:00,10,434,60,50,1
+LMR,Lamar Amtrak,Southwest Chief,Chicago Union Station,18:47:00,2,496,73,0,1
+GCK,Garden City Amtrak Station,Southwest Chief,Chicago Union Station,21:18:00,2,587,0,0,1
+DDG,Dodge City Amtrak Station,Southwest Chief,Chicago Union Station,22:09:00,6,638,78.25,25.5,1
+HUT,Hutchinson Amtrak Station,Southwest Chief,Chicago Union Station,00:08:00,2,757,96.5,0,1
+NEW,Newton,Southwest Chief,Chicago Union Station,00:47:00,4,796,96.5,7.75,1
+KNG,Kingman,Southwest Chief,Chicago Union Station,02:27:00,10,512,65.25,38.75,24
+FLG,Flagstaff,Southwest Chief,Chicago Union Station,05:31:00,8,696,100,23.25,24
+WLO,Winslow Amtrak,Southwest Chief,Chicago Union Station,06:39:00,4,764,91.25,10,24
+NPV,Naperville Amtrak Station,Southwest Chief,Los Angeles,14:00:00,3,30,91.25,7.375,28
+MDT,Mendota Amtrak Station,Southwest Chief,Los Angeles,14:53:00,1,83,0,0,28
+PCT,Princeton Amtrak Station,Southwest Chief,Los Angeles,15:14:00,2,104,73,0,28
+GBB,Galesburg Amtrak Station,Southwest Chief,Los Angeles,16:06:00,3,156,100,8.375,28
+FMD,Fort Madison,Southwest Chief,Los Angeles,17:05:00,5,215,79,27,28
+LAP,La Plata Amtrak Station,Southwest Chief,Los Angeles,18:22:00,2,292,0,0,28
+KCY,Kansas City,Southwest Chief,Los Angeles,20:53:00,44,443,100,100,28
+LRC,Lawrence Amtrak Station,Southwest Chief,Los Angeles,22:45:00,2,68,74,0,28
+TOP,Topeka Amtrak Station,Southwest Chief,Los Angeles,23:21:00,3,104,0,6.25,28
+NEW,Newton,Southwest Chief,Los Angeles,01:36:00,4,239,96.5,6.75,28
+HUT,Hutchinson Amtrak Station,Southwest Chief,Los Angeles,02:13:00,2,276,96.5,0,27
+DDG,Dodge City Amtrak Station,Southwest Chief,Los Angeles,04:08:00,6,391,78.25,23.25,27
+GCK,Garden City Amtrak Station,Southwest Chief,Los Angeles,05:03:00,2,446,0,0,27
+LMR,Lamar Amtrak,Southwest Chief,Los Angeles,05:31:00,2,534,73,0,27
+LAJ,La Junta Amtrak Station,Southwest Chief,Los Angeles,06:35:00,15,598,60,70,27
+TRI,Trinidad Amtrak,Southwest Chief,Los Angeles,08:10:00,0,693,78.25,0,27
+RAT,Raton,Southwest Chief,Los Angeles,09:07:00,5,750,73,30,27
+LSV,Las Vegas Amtrak Station,Southwest Chief,Los Angeles,10:57:00,0,860,86,0,27
+LMY,Lamy,Southwest Chief,Los Angeles,12:49:00,4,972,79,10,27
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,Los Angeles,14:24:00,50,1067,87,93.75,27
+GLP,Gallup Amtrak Station,Southwest Chief,Los Angeles,17:54:00,0,160,96.5,0,27
+WLO,Winslow Amtrak,Southwest Chief,Los Angeles,19:41:00,2,267,91.25,0,3
+FLG,Flagstaff,Southwest Chief,Los Angeles,20:49:00,6,335,100,28.5,3
+KNG,Kingman,Southwest Chief,Los Angeles,23:42:00,7,508,65.25,23.25,3
+NDL,Needles Amtrak,Southwest Chief,Los Angeles,23:49:00,5,575,66,23.25,27
+BAR,Barstow,Southwest Chief,Los Angeles,03:08:00,5,774,0,23.25,26
+VRV,Victorville Amtrak,Southwest Chief,Los Angeles,03:50:00,2,816,40,0,26
+SNB,San Bernardino,Southwest Chief,Los Angeles,05:16:00,5,902,0,23.25,26
+RIV,Riverside,Southwest Chief,Los Angeles,05:40:00,0,926,52.25,0,26
+FUL,Fullerton Amtrak Station,Southwest Chief,Los Angeles,06:39:00,0,985,100,0,26
+BAR,Barstow,Southwest Chief,Los Angeles,02:08:00,5,774,0,23.25,2
+VRV,Victorville Amtrak,Southwest Chief,Los Angeles,02:50:00,2,816,40,0,2
+SNB,San Bernardino,Southwest Chief,Los Angeles,04:16:00,5,902,0,23.25,2
+RIV,Riverside,Southwest Chief,Los Angeles,04:40:00,0,926,52.25,0,2
+FUL,Fullerton Amtrak Station,Southwest Chief,Los Angeles,05:39:00,0,985,100,0,2
+HUT,Hutchinson Amtrak Station,Southwest Chief,Los Angeles,01:13:00,2,276,96.5,0,1
+DDG,Dodge City Amtrak Station,Southwest Chief,Los Angeles,03:08:00,6,391,78.25,23.25,1
+GCK,Garden City Amtrak Station,Southwest Chief,Los Angeles,04:03:00,2,446,0,0,1
+LMR,Lamar Amtrak,Southwest Chief,Los Angeles,04:31:00,2,534,73,0,1
+LAJ,La Junta Amtrak Station,Southwest Chief,Los Angeles,05:35:00,15,598,60,54.25,1
+TRI,Trinidad Amtrak,Southwest Chief,Los Angeles,07:10:00,0,693,78.25,0,1
+RAT,Raton,Southwest Chief,Los Angeles,08:07:00,5,750,73,30,1
+LSV,Las Vegas Amtrak Station,Southwest Chief,Los Angeles,09:57:00,0,860,86,0,1
+LMY,Lamy,Southwest Chief,Los Angeles,11:49:00,4,972,79,10,1
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,Los Angeles,13:24:00,50,1067,87,100,1
+GLP,Gallup Amtrak Station,Southwest Chief,Los Angeles,16:54:00,0,160,96.5,0,1
+WLO,Winslow Amtrak,Southwest Chief,Los Angeles,19:41:00,2,327,91.25,0,1
+FLG,Flagstaff,Southwest Chief,Los Angeles,20:49:00,6,395,100,30,1
+KNG,Kingman,Southwest Chief,Los Angeles,23:42:00,7,568,65.25,23.25,1
+NDL,Needles Amtrak,Southwest Chief,Los Angeles,22:49:00,5,575,66,25.5,1
+WLO,Winslow Amtrak,Southwest Chief,Los Angeles,20:41:00,2,327,91.25,0,24
+FLG,Flagstaff,Southwest Chief,Los Angeles,21:49:00,6,395,100,25.5,24
+KNG,Kingman,Southwest Chief,Los Angeles,00:42:00,7,568,65.25,23.25,24

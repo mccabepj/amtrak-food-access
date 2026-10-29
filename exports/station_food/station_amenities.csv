@@ -1,0 +1,12 @@
+﻿Station ID,Station,OSM Key,Name,Amenity,Straight-line Distance M,Radius M,Fetched UTC,OSM Database Timestamp
+ABE,Aberdeen Amtrak Station,node/6439981909,Frank's Pizza,restaurant,242.4,500,2026-10-28T14:36:02.195624+00:00,2026-10-28T14:34:01Z
+ABE,Aberdeen Amtrak Station,node/6439981916,Scoop's Corner Cafe & Deli,restaurant,231.9,500,2026-10-28T14:36:02.195624+00:00,2026-10-28T14:34:01Z
+ABE,Aberdeen Amtrak Station,way/249657442,Pat's Pizzeria,restaurant,360.7,500,2026-10-28T14:36:02.195624+00:00,2026-10-28T14:34:01Z
+ABE,Aberdeen Amtrak Station,way/249657878,Szechuan Inn,restaurant,194.3,500,2026-10-28T14:36:02.195624+00:00,2026-10-28T14:34:01Z
+ALY,Albany Amtrak Station,way/1083036696,The Depot Cafe,restaurant,142.2,500,2026-10-28T14:38:23.946299+00:00,2026-10-28T14:37:02Z
+ALY,Albany Amtrak Station,way/1083036697,Sidekicks,cafe,124.9,500,2026-10-28T14:38:23.946299+00:00,2026-10-28T14:37:02Z
+ALB,Albany-Rensselaer Amtrak Station,node/3008692794,Grind & Brew,cafe,20.9,500,2026-10-28T14:39:52.807869+00:00,2026-10-28T14:38:02Z
+ALB,Albany-Rensselaer Amtrak Station,node/10594999035,Derailed Bar and Grill,restaurant,381.4,500,2026-10-28T14:39:52.807869+00:00,2026-10-28T14:38:02Z
+ALB,Albany-Rensselaer Amtrak Station,node/11254254629,June's Restaurant,restaurant,73.3,500,2026-10-28T14:39:52.807869+00:00,2026-10-28T14:38:02Z
+ALB,Albany-Rensselaer Amtrak Station,node/12523624062,Cugino's Pizzeria,restaurant,496.2,500,2026-10-28T14:39:52.807869+00:00,2026-10-28T14:38:02Z
+ALB,Albany-Rensselaer Amtrak Station,way/1388382704,Son of Egg Broadway,restaurant,267.0,500,2026-10-28T14:39:52.807869+00:00,2026-10-28T14:38:02Z

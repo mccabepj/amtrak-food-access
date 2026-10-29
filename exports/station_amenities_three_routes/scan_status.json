@@ -1,0 +1,17 @@
+{
+  "updated_utc": "2026-10-28T20:36:20.903481+00:00",
+  "selected_stations": 88,
+  "successful_stations": 88,
+  "incomplete_stations": 0,
+  "all_selected_stations_successful": true,
+  "query_status_counts": {
+    "Success": 88
+  },
+  "radius_m": 500,
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "requested_routes": [
+    "Southwest Chief",
+    "Cardinal",
+    "Silver Meteor"
+  ]
+}

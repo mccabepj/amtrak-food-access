@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <title>Amtrak Transit Viewer</title>
+
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/maplibre-gl@5.18.0/dist/maplibre-gl.css"
+    >
+
+    <link rel="stylesheet" href="./css/styles.css">
+
+    <script
+        defer
+        src="https://unpkg.com/maplibre-gl@5.18.0/dist/maplibre-gl.js"
+    ></script>
+
+    <script type="module" src="./js/app.js"></script>
+</head>
+
+<body>
+<main id="app">
+
+    <div id="map" aria-label="Interactive transit map"></div>
+
+    <header class="panel project">
+        <span class="eyebrow">FOOD ACCESS ALONG THE JOURNEY</span>
+
+        <h1 id="title">Amtrak Transit Viewer</h1>
+
+        <p id="subtitle">Loading rail network…</p>
+    </header>
+
+    <nav class="panel toolbar" aria-label="Map controls">
+        <button
+            id="layers-toggle"
+            aria-expanded="false"
+            aria-controls="layers-panel"
+        >
+            Layers
+        </button>
+
+        <label>
+            Basemap
+
+            <select id="basemap">
+                <option value="streets">Streets</option>
+                <option value="none">None</option>
+            </select>
+        </label>
+
+        <button id="reset">Reset view</button>
+    </nav>
+
+    <section
+        class="panel food-panel"
+        aria-labelledby="food-title"
+    >
+        <h2 id="food-title">What do you want to understand?</h2>
+
+        <div
+            id="food-views"
+            role="group"
+            aria-label="Food access view"
+        >
+            <button
+                type="button"
+                data-view="today"
+                aria-pressed="true"
+                disabled
+            >
+                1. Food access today
+            </button>
+
+            <button
+                type="button"
+                data-view="platform"
+                aria-pressed="false"
+                disabled
+            >
+                2. Food on the platform
+            </button>
+
+            <button
+                type="button"
+                data-view="longer"
+                aria-pressed="false"
+                disabled
+            >
+                3. A longer stop
+            </button>
+        </div>
+
+        <p id="food-question" class="question">
+            Loading food assessment…
+        </p>
+
+        <div id="food-legend"></div>
+
+        <p
+            id="food-count"
+            class="small"
+            role="status"
+        ></p>
+
+        <button
+            id="food-zoom"
+            type="button"
+            disabled
+        >
+            Zoom to study stations
+        </button>
+
+        <details class="help">
+            <summary>Assumptions and limits</summary>
+
+            <p>
+                Scores describe a fixed three-route study, not live
+                conditions or individual passenger journeys. Nearby
+                access uses straight-line estimates. Opening hours,
+                platform access, permission to alight or sell food,
+                demand and timetable feasibility are unverified.
+            </p>
+
+            <p>
+                The platform scenario assumes a six-minute window.
+                The longer-stop scenario tests a minimum 30-minute
+                TOTAL stop, not 30 extra minutes. It shows improvement
+                in estimated access, not just usefulness after
+                extending the stop.
+            </p>
+        </details>
+    </section>
+
+    <section
+        id="layers-panel"
+        class="panel layers"
+        aria-labelledby="layers-title"
+        hidden
+    >
+        <div class="heading">
+            <h2 id="layers-title">Layers</h2>
+
+            <button
+                id="layers-close"
+                aria-label="Close layers"
+            >
+                ×
+            </button>
+        </div>
+
+        <div id="layer-list"></div>
+
+        <details class="feed">
+            <summary>Feed information</summary>
+            <p id="feed-info"></p>
+            <p id="feed-warning"></p>
+        </details>
+    </section>
+
+    <section
+        id="inspector"
+        class="panel inspector"
+        aria-labelledby="inspect-title"
+        hidden
+    >
+        <div class="heading">
+            <div>
+                <span class="eyebrow">FOOD ACCESS</span>
+                <h2 id="inspect-title">Station</h2>
+            </div>
+
+            <button
+                id="inspect-close"
+                aria-label="Close station"
+            >
+                ×
+            </button>
+        </div>
+
+        <div id="inspect-body"></div>
+    </section>
+
+    <div
+        id="status"
+        class="panel status"
+        role="status"
+        aria-live="polite"
+    >
+        Loading GTFS.zip…
+    </div>
+
+</main>
+</body>
+</html>

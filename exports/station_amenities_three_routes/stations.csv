@@ -1,0 +1,89 @@
+﻿Station ID,Station,Selected Routes,Selected Route IDs,Latitude,Longitude,Coordinate Source,Source Stop IDs
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,51,35.082061,-106.647975,GTFS station/stop coordinate,ABQ
+ALD,Alderson Amtrak,Cardinal,58,37.724277,-80.644856,GTFS station/stop coordinate,ALD
+ALX,Alexandria,Cardinal; Silver Meteor,42947; 58,38.806503,-77.06233,GTFS station/stop coordinate,ALX
+AKY,Ashland Amtrak Station,Cardinal,58,38.480875,-82.639603,GTFS station/stop coordinate,AKY
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,42947; 58,39.307302,-76.615688,GTFS station/stop coordinate,BAL
+BAR,Barstow,Southwest Chief,51,34.90482,-117.025435,GTFS station/stop coordinate,BAR
+CHW,Charleston,Cardinal,58,38.346368,-81.638494,GTFS station/stop coordinate,CHW
+CHS,Charleston Amtrak Station,Silver Meteor,42947,32.875473,-79.998048,GTFS station/stop coordinate,CHS
+CVS,Charlottesville,Cardinal,58,38.031484,-78.491684,GTFS station/stop coordinate,CVS
+CHI,Chicago Union Station,Cardinal; Southwest Chief,51; 58,41.878684,-87.639443,GTFS station/stop coordinate,CHI
+CIN,Cincinnati Union Terminal,Cardinal,58,39.109927,-84.537061,GTFS station/stop coordinate,CIN
+CLF,Clifton Forge Amtrak Station,Cardinal,58,37.814521,-79.827363,GTFS station/stop coordinate,CLF
+COI,Connersville Amtrak,Cardinal,58,39.645969,-85.13338,GTFS station/stop coordinate,COI
+CRF,Crawfordsville Amtrak,Cardinal,58,40.044705,-86.899187,GTFS station/stop coordinate,CRF
+CLP,Culpeper Amtrak Station,Cardinal,58,38.47236,-77.993421,GTFS station/stop coordinate,CLP
+DFB,Deerfield Beach Amtrak Station,Silver Meteor,42947,26.317069,-80.122147,GTFS station/stop coordinate,DFB
+DLD,Deland,Silver Meteor,42947,29.017849,-81.352477,GTFS station/stop coordinate,DLD
+DLB,Delray Beach Amtrak,Silver Meteor,42947,26.454021,-80.091154,GTFS station/stop coordinate,DLB
+DDG,Dodge City Amtrak Station,Southwest Chief,51,37.752306,-100.016961,GTFS station/stop coordinate,DDG
+DYE,Dyer Amtrak,Cardinal,58,41.515413,-87.518076,GTFS station/stop coordinate,DYE
+FAY,Fayetteville Amtrak Station,Silver Meteor,42947,35.054993,-78.884788,GTFS station/stop coordinate,FAY
+FLG,Flagstaff,Southwest Chief,51,35.197374,-111.648871,GTFS station/stop coordinate,FLG
+FLO,Florence Amtrak Station,Silver Meteor,42947,34.199157,-79.757056,GTFS station/stop coordinate,FLO
+FTL,Fort Lauderdale Amtrak Station,Silver Meteor,42947,26.119256,-80.17,GTFS station/stop coordinate,FTL
+FMD,Fort Madison,Southwest Chief,51,40.629558,-91.313529,GTFS station/stop coordinate,FMD
+FBG,Fredericksburg Amtrak,Silver Meteor,42947,38.298413,-77.457203,GTFS station/stop coordinate,FBG
+FUL,Fullerton Amtrak Station,Southwest Chief,51,33.868969,-117.922849,GTFS station/stop coordinate,FUL
+GBB,Galesburg Amtrak Station,Southwest Chief,51,40.944678,-90.364106,GTFS station/stop coordinate,GBB
+GLP,Gallup Amtrak Station,Southwest Chief,51,35.529176,-108.740548,GTFS station/stop coordinate,GLP
+GCK,Garden City Amtrak Station,Southwest Chief,51,37.964365,-100.873256,GTFS station/stop coordinate,GCK
+HIN,Hinton Amtrak Station,Cardinal,58,37.675037,-80.892232,GTFS station/stop coordinate,HIN
+HOL,Hollywood Amtrak Station,Silver Meteor,42947,26.011641,-80.167884,GTFS station/stop coordinate,HOL
+HUN,Huntington Amtrak Station,Cardinal,58,38.41582,-82.439735,GTFS station/stop coordinate,HUN
+HUT,Hutchinson Amtrak Station,Southwest Chief,51,38.055712,-97.931522,GTFS station/stop coordinate,HUT
+IND,Indianapolis,Cardinal,58,39.761984,-86.160423,GTFS station/stop coordinate,IND
+JAX,Jacksonville,Silver Meteor,42947,30.365601,-81.723893,GTFS station/stop coordinate,JAX
+JSP,Jesup Amtrak Station,Silver Meteor,42947,31.605589,-81.882173,GTFS station/stop coordinate,JSP
+KCY,Kansas City,Southwest Chief,51,39.084576,-94.585129,GTFS station/stop coordinate,KCY
+KNG,Kingman,Southwest Chief,51,35.188279,-114.052816,GTFS station/stop coordinate,KNG
+KTR,Kingstree Amtrak Station,Silver Meteor,42947,33.663882,-79.829026,GTFS station/stop coordinate,KTR
+KIS,Kissimmee Amtrak Station,Silver Meteor,42947,28.293835,-81.404234,GTFS station/stop coordinate,KIS
+LAJ,La Junta Amtrak Station,Southwest Chief,51,37.988249,-103.543576,GTFS station/stop coordinate,LAJ
+LAP,La Plata Amtrak Station,Southwest Chief,51,40.02922,-92.493384,GTFS station/stop coordinate,LAP
+LAF,Lafayette Amtrak Station,Cardinal,58,40.419347,-86.895901,GTFS station/stop coordinate,LAF
+LMR,Lamar Amtrak,Southwest Chief,51,38.089623,-102.618574,GTFS station/stop coordinate,LMR
+LMY,Lamy,Southwest Chief,51,35.480973,-105.879968,GTFS station/stop coordinate,LMY
+LSV,Las Vegas Amtrak Station,Southwest Chief,51,35.593432,-105.212779,GTFS station/stop coordinate,LSV
+LRC,Lawrence Amtrak Station,Southwest Chief,51,38.971166,-95.230539,GTFS station/stop coordinate,LRC
+LAX,Los Angeles,Southwest Chief,51,34.056177,-118.236778,GTFS station/stop coordinate,LAX
+MSS,Manassas Amtrak Station,Cardinal,58,38.75027825,-77.47278955,GTFS station/stop coordinate,MSS
+MAY,Maysville Amtrak Station,Cardinal,58,38.652148,-83.771074,GTFS station/stop coordinate,MAY
+MDT,Mendota Amtrak Station,Southwest Chief,51,41.549584,-89.11792,GTFS station/stop coordinate,MDT
+MIA,Miami Amtrak Station,Silver Meteor,42947,25.849554,-80.257759,GTFS station/stop coordinate,MIA
+MNG,Montgomery Amtrak,Cardinal,58,38.180743,-81.32403,GTFS station/stop coordinate,MNG
+NPV,Naperville Amtrak Station,Southwest Chief,51,41.779514,-88.145497,GTFS station/stop coordinate,NPV
+NDL,Needles Amtrak,Southwest Chief,51,34.840616,-114.606188,GTFS station/stop coordinate,NDL
+NWK,Newark,Cardinal; Silver Meteor,42947; 58,40.734706,-74.16475,GTFS station/stop coordinate,NWK
+NEW,Newton,Southwest Chief,51,38.046976,-97.344886,GTFS station/stop coordinate,NEW
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,42947; 58,40.750327,-73.994459,GTFS station/stop coordinate,NYP
+ORL,Orlando,Silver Meteor,42947,28.525926,-81.381516,GTFS station/stop coordinate,ORL
+PAK,Palatka Amtrak,Silver Meteor,42947,29.649734,-81.640471,GTFS station/stop coordinate,PAK
+PTB,Petersburg Amtrak Station,Silver Meteor,42947,37.241627,-77.428794,GTFS station/stop coordinate,PTB
+PHL,Philadelphia,Cardinal; Silver Meteor,42947; 58,39.955615,-75.181041,GTFS station/stop coordinate,PHL
+PRC,Prince Amtrak Station,Cardinal,58,37.856594,-81.060694,GTFS station/stop coordinate,PRC
+PCT,Princeton Amtrak Station,Southwest Chief,51,41.385191,-89.466815,GTFS station/stop coordinate,PCT
+RAT,Raton,Southwest Chief,51,36.901072,-104.437886,GTFS station/stop coordinate,RAT
+REN,Rensselaer Amtrak,Cardinal,58,40.943281,-87.155121,GTFS station/stop coordinate,REN
+RVR,Richmond Staples Mill Road Amtrak Station,Silver Meteor,42947,37.617693,-77.496943,GTFS station/stop coordinate,RVR
+RIV,Riverside,Southwest Chief,51,33.97567,-117.369988,GTFS station/stop coordinate,RIV
+RMT,Rocky Mount,Silver Meteor,42947,35.938001,-77.797855,GTFS station/stop coordinate,RMT
+SNB,San Bernardino,Southwest Chief,51,34.104112,-117.310659,GTFS station/stop coordinate,SNB
+SAV,Savannah,Silver Meteor,42947,32.083412,-81.148264,GTFS station/stop coordinate,SAV
+SBG,Sebring Amtrak Station,Silver Meteor,42947,27.496632,-81.434202,GTFS station/stop coordinate,SBG
+SPM,South Portsmouth Amtrak,Cardinal,58,38.721281,-82.963751,GTFS station/stop coordinate,SPM
+STA,Staunton Amtrak Station,Cardinal,58,38.147639,-79.071776,GTFS station/stop coordinate,STA
+THN,Thurmond Amtrak,Cardinal,58,37.956986,-81.078754,GTFS station/stop coordinate,THN
+TOP,Topeka Amtrak Station,Southwest Chief,51,39.051415,-95.664916,GTFS station/stop coordinate,TOP
+TRE,Trenton,Cardinal; Silver Meteor,42947; 58,40.219011,-74.75444,GTFS station/stop coordinate,TRE
+TRI,Trinidad Amtrak,Southwest Chief,51,37.172688,-104.507981,GTFS station/stop coordinate,TRI
+VRV,Victorville Amtrak,Southwest Chief,51,34.5372,-117.292956,GTFS station/stop coordinate,VRV
+WAS,Washington Union Station,Cardinal; Silver Meteor,42947; 58,38.896993,-77.006422,GTFS station/stop coordinate,WAS
+WPB,West Palm Beach Amtrak Station,Silver Meteor,42947,26.712554,-80.062184,GTFS station/stop coordinate,WPB
+WSS,White Sulphur Springs Amtrak,Cardinal,58,37.786443,-80.304004,GTFS station/stop coordinate,WSS
+WIL,Wilmington,Cardinal; Silver Meteor,42947; 58,39.737263,-75.551095,GTFS station/stop coordinate,WIL
+WLO,Winslow Amtrak,Southwest Chief,51,35.021666,-110.694981,GTFS station/stop coordinate,WLO
+WTH,Winter Haven,Silver Meteor,42947,28.002146,-81.734878,GTFS station/stop coordinate,WTH
+WPK,Winter Park Amtrak Station,Silver Meteor,42947,28.597099,-81.351993,GTFS station/stop coordinate,WPK
+YEM,Yemassee Amtrak,Silver Meteor,42947,32.688286,-80.846901,GTFS station/stop coordinate,YEM

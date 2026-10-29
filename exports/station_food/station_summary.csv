@@ -1,0 +1,6 @@
+﻿Station ID,Station,Query Status,Cafe Count,Restaurant Count,Total Count,Nearest Distance M,Unusable Locations,From Cache,Error
+ABE,Aberdeen Amtrak Station,Success,0,4,4,194.3,0,No,
+ALY,Albany Amtrak Station,Success,1,1,2,124.9,0,No,
+ALB,Albany-Rensselaer Amtrak Station,Success,1,4,5,20.9,0,No,
+ALI,Albion,Failed,,,,,,,Query failed after retries: HTTP Error 502: Bad Gateway
+ABQ,Albuquerque Alvarado Transportation Center,Failed,,,,,,,Query failed after retries: HTTP Error 502: Bad Gateway

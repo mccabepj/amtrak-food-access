@@ -1,0 +1,534 @@
+:root {
+    --surface: #fffefa;
+    --muted: #69716b;
+    --border: #dedfd7;
+    --accent: #175c70;
+    --edge: 18px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+[hidden] {
+    display: none !important;
+}
+
+html,
+body,
+#app {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+body {
+    font: 14px Arial, Helvetica, sans-serif;
+    color: #292d2b;
+    overflow: hidden;
+    background: #e9ece5;
+}
+
+button,
+input,
+select {
+    font: inherit;
+    color: inherit;
+}
+
+button,
+select,
+input {
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    background: var(--surface);
+    padding: 7px 9px;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    background: #edf1eb;
+}
+
+button:disabled {
+    cursor: wait;
+    opacity: .55;
+}
+
+button:focus-visible,
+select:focus-visible,
+summary:focus-visible {
+    outline: 3px solid #a16b24;
+    outline-offset: 2px;
+}
+
+#map {
+    position: absolute;
+    inset: 0;
+}
+
+.panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    box-shadow: 0 3px 16px #1d281f17;
+}
+
+h1,
+h2,
+p {
+    margin: 0;
+}
+
+h1 {
+    font-size: 21px;
+    margin-top: 5px;
+}
+
+h2 {
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.eyebrow {
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: .1em;
+    color: var(--muted);
+}
+
+/* Header and map toolbar */
+
+.project {
+    position: absolute;
+    top: var(--edge);
+    left: var(--edge);
+    z-index: 2;
+    padding: 13px 16px;
+    width: 320px;
+}
+
+.project p {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 7px;
+    line-height: 1.5;
+}
+
+.toolbar {
+    position: absolute;
+    top: var(--edge);
+    right: var(--edge);
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    padding: 6px;
+    font-size: 12px;
+}
+
+.toolbar label {
+    font-size: 11px;
+}
+
+.toolbar select,
+.toolbar button {
+    border: 0;
+}
+
+/* Always-visible food-access controls */
+
+.food-panel {
+    position: absolute;
+    top: 125px;
+    left: var(--edge);
+    width: 320px;
+    max-height: calc(100% - 175px);
+    overflow: auto;
+    z-index: 3;
+    padding: 15px;
+}
+
+#food-views {
+    display: grid;
+    gap: 7px;
+    margin: 12px 0;
+}
+
+#food-views button {
+    text-align: left;
+    padding: 10px;
+    font-size: 13px;
+}
+
+#food-views button[aria-pressed=true] {
+    background: #e2edf2;
+    border-color: #558296;
+    color: #104f68;
+    font-weight: bold;
+}
+
+.question {
+    font-size: 12px;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.small,
+.help {
+    font-size: 11px;
+    line-height: 1.6;
+    color: var(--muted);
+}
+
+#food-count {
+    margin: 10px 0;
+}
+
+#food-zoom {
+    width: 100%;
+    font-size: 12px;
+}
+
+.help {
+    margin-top: 12px;
+}
+
+.help p {
+    margin-top: 8px;
+}
+
+summary {
+    cursor: pointer;
+}
+
+/* Color and circle-size legends */
+
+.legend-title {
+    font-size: 11px;
+    font-weight: bold;
+    margin: 12px 0 6px;
+}
+
+.gradient {
+    height: 10px;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background: linear-gradient(
+        to right,
+        #dbe9f3,
+        #739fc1,
+        #174b72
+    );
+}
+
+.legend-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    color: var(--muted);
+    margin: 5px 0;
+}
+
+.size-legend {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    min-height: 52px;
+}
+
+.size-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 10px;
+    color: var(--muted);
+}
+
+.size-dot {
+    display: inline-block;
+    border-radius: 50%;
+    background: #739fc1;
+    border: 1px solid white;
+    flex-shrink: 0;
+}
+
+.unknown-dot {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    border: 2px solid #899398;
+    border-radius: 50%;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+/* Existing layer controls */
+
+.layers {
+    position: absolute;
+    z-index: 5;
+    right: var(--edge);
+    top: 76px;
+    width: 300px;
+    max-height: calc(100% - 130px);
+    overflow: auto;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 15px 16px;
+}
+
+.heading > button {
+    border: 0;
+    padding: 0 6px;
+    font-size: 22px;
+    line-height: 1.1;
+}
+
+.layer {
+    padding: 12px 16px;
+    border-top: 1px solid var(--border);
+}
+
+.layer > label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+}
+
+.swatch {
+    display: inline-block;
+    width: 11px;
+    height: 11px;
+}
+
+.options {
+    display: grid;
+    gap: 8px;
+    font-size: 11px;
+    margin-top: 8px;
+}
+
+.options input {
+    width: 100%;
+    padding: 0;
+}
+
+.layer details {
+    font-size: 11px;
+    margin-top: 8px;
+    color: var(--muted);
+}
+
+.feed {
+    border-top: 1px solid var(--border);
+    padding: 14px 16px;
+    font-size: 11px;
+    line-height: 1.6;
+    color: var(--muted);
+}
+
+.feed p {
+    margin-top: 8px;
+}
+
+/* Food-only station popup */
+
+.inspector {
+    position: absolute;
+    z-index: 4;
+    right: var(--edge);
+    bottom: 48px;
+    width: 380px;
+    max-height: calc(100% - 130px);
+    overflow: auto;
+}
+
+#inspect-body {
+    padding: 0 16px 16px;
+}
+
+.station-subtitle {
+    font-size: 11px;
+    line-height: 1.6;
+    color: var(--muted);
+    margin-bottom: 12px;
+}
+
+.result {
+    padding: 12px;
+    background: #edf3f7;
+    border-left: 4px solid #174b72;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+
+.result h3 {
+    font-size: 14px;
+    margin: 0 0 8px;
+}
+
+.result strong {
+    font-size: 28px;
+    color: #174b72;
+}
+
+.result p {
+    font-size: 12px;
+    line-height: 1.6;
+    margin-top: 8px;
+}
+
+.facts {
+    font-size: 12px;
+    line-height: 1.7;
+    margin: 10px 0;
+}
+
+.facts div {
+    padding: 5px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.score-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 12px;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.score-row.active {
+    background: #e2edf2;
+    font-weight: bold;
+}
+
+.table-wrap {
+    overflow: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 11px;
+    text-align: left;
+}
+
+th,
+td {
+    padding: 8px 6px;
+    vertical-align: top;
+    border-bottom: 1px solid var(--border);
+    line-height: 1.5;
+}
+
+th {
+    font-size: 10px;
+    color: var(--muted);
+    font-weight: normal;
+}
+
+.status {
+    position: absolute;
+    z-index: 6;
+    left: 50%;
+    bottom: 25px;
+    transform: translateX(-50%);
+    max-width: calc(100% - 30px);
+    padding: 11px 15px;
+    font-size: 12px;
+}
+
+/* Responsive layout */
+
+@media (max-width: 900px) {
+    .project {
+        width: 285px;
+    }
+
+    .food-panel {
+        width: 285px;
+        top: 125px;
+    }
+
+    .inspector {
+        width: min(380px, calc(100% - 325px));
+    }
+}
+
+@media (max-width: 650px) {
+    :root {
+        --edge: 10px;
+    }
+
+    .project {
+        width: calc(100% - 20px);
+        padding: 10px 12px;
+    }
+
+    .project p {
+        display: none;
+    }
+
+    h1 {
+        font-size: 18px;
+    }
+
+    .toolbar {
+        top: 85px;
+        right: 10px;
+    }
+
+    .food-panel {
+        top: 135px;
+        width: calc(100% - 20px);
+        max-height: 42vh;
+        padding: 12px;
+    }
+
+    #food-views {
+        gap: 4px;
+        margin: 8px 0;
+    }
+
+    #food-views button {
+        padding: 7px;
+        font-size: 12px;
+    }
+
+    .inspector {
+        left: 10px;
+        right: 10px;
+        bottom: 35px;
+        width: auto;
+        max-height: 40vh;
+        z-index: 5;
+    }
+
+    .layers {
+        top: 130px;
+        left: 10px;
+        right: 10px;
+        width: auto;
+        max-height: 65vh;
+        z-index: 6;
+    }
+
+    .status {
+        bottom: 10px;
+    }
+
+    .size-legend {
+        min-height: 40px;
+    }
+}

@@ -1,0 +1,8087 @@
+{
+  "existing": [
+    {
+      "id": "ALD",
+      "name": "Alderson Amtrak",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "18:16:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:16:00",
+          "departure": "18:16:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 397,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "ALD",
+      "name": "Alderson Amtrak",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "10:18:00",
+          "calls": 1
+        },
+        {
+          "time": "11:18:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "11:18:00",
+          "departure": "11:18:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 983,
+          "calls": 11
+        },
+        {
+          "arrival": "10:18:00",
+          "departure": "10:18:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 983,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "ALX",
+      "name": "Alexandria",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 87,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "11:59:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "11:59:00",
+          "departure": "11:59:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 20,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "ALX",
+      "name": "Alexandria",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 87,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "17:27:00",
+          "calls": 1
+        },
+        {
+          "time": "18:27:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:27:00",
+          "departure": "18:27:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1412,
+          "calls": 11
+        },
+        {
+          "arrival": "17:27:00",
+          "departure": "17:27:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1412,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "AKY",
+      "name": "Ashland Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "22:54:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "22:54:00",
+          "departure": "22:54:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 675,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "AKY",
+      "name": "Ashland Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "05:45:00",
+          "calls": 1
+        },
+        {
+          "time": "06:45:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "06:45:00",
+          "departure": "06:45:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 710,
+          "calls": 11
+        },
+        {
+          "arrival": "05:45:00",
+          "departure": "05:45:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 710,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "BAL",
+      "name": "Baltimore Penn Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 87,
+      "y": 9.0,
+      "calls": 12,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 9,
+      "y_max": 9,
+      "arrivals": [
+        {
+          "time": "09:35:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "09:35:00",
+          "departure": "09:38:00",
+          "dwell": 3,
+          "y": 9,
+          "gap": 175,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "BAL",
+      "name": "Baltimore Penn Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 87,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "18:41:00",
+          "calls": 1
+        },
+        {
+          "time": "19:41:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "19:41:00",
+          "departure": "19:41:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1486,
+          "calls": 11
+        },
+        {
+          "arrival": "18:41:00",
+          "departure": "18:41:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1486,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "CHW",
+      "name": "Charleston",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 40,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "21:09:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "21:09:00",
+          "departure": "21:09:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 570,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "CHW",
+      "name": "Charleston",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 40,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "07:31:00",
+          "calls": 1
+        },
+        {
+          "time": "08:31:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:31:00",
+          "departure": "08:31:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 816,
+          "calls": 11
+        },
+        {
+          "arrival": "07:31:00",
+          "departure": "07:31:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 816,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "CVS",
+      "name": "Charlottesville",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 25.125,
+      "calls": 12,
+      "dwell_typical": 9,
+      "dwell_min": 9,
+      "dwell_max": 9,
+      "y_min": 25.125,
+      "y_max": 25.125,
+      "arrivals": [
+        {
+          "time": "14:23:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "14:23:00",
+          "departure": "14:32:00",
+          "dwell": 9,
+          "y": 25.125,
+          "gap": 164,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "CVS",
+      "name": "Charlottesville",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 28.125,
+      "calls": 12,
+      "dwell_typical": 9,
+      "dwell_min": 9,
+      "dwell_max": 9,
+      "y_min": 28.125,
+      "y_max": 28.125,
+      "arrivals": [
+        {
+          "time": "14:35:00",
+          "calls": 1
+        },
+        {
+          "time": "15:35:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "15:35:00",
+          "departure": "15:44:00",
+          "dwell": 9,
+          "y": 28.125,
+          "gap": 1240,
+          "calls": 11
+        },
+        {
+          "arrival": "14:35:00",
+          "departure": "14:44:00",
+          "dwell": 9,
+          "y": 28.125,
+          "gap": 1240,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "CIN",
+      "name": "Cincinnati Union Terminal",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 79,
+      "y": 38.75,
+      "calls": 12,
+      "dwell_typical": 10,
+      "dwell_min": 10,
+      "dwell_max": 10,
+      "y_min": 38.75,
+      "y_max": 38.75,
+      "arrivals": [
+        {
+          "time": "02:11:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "02:11:00",
+          "departure": "02:21:00",
+          "dwell": 10,
+          "y": 38.75,
+          "gap": 872,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "CIN",
+      "name": "Cincinnati Union Terminal",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 79,
+      "y": 38.75,
+      "calls": 12,
+      "dwell_typical": 10,
+      "dwell_min": 10,
+      "dwell_max": 10,
+      "y_min": 38.75,
+      "y_max": 38.75,
+      "arrivals": [
+        {
+          "time": "02:27:00",
+          "calls": 1
+        },
+        {
+          "time": "03:27:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "03:27:00",
+          "departure": "03:37:00",
+          "dwell": 10,
+          "y": 38.75,
+          "gap": 512,
+          "calls": 11
+        },
+        {
+          "arrival": "02:27:00",
+          "departure": "02:37:00",
+          "dwell": 10,
+          "y": 38.75,
+          "gap": 512,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "CLF",
+      "name": "Clifton Forge Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 53,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "16:53:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "16:53:00",
+          "departure": "16:53:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 314,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "CLF",
+      "name": "Clifton Forge Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 53,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "12:09:00",
+          "calls": 1
+        },
+        {
+          "time": "13:09:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "13:09:00",
+          "departure": "13:09:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1094,
+          "calls": 11
+        },
+        {
+          "arrival": "12:09:00",
+          "departure": "12:09:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1094,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "COI",
+      "name": "Connersville Amtrak",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "04:16:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "04:16:00",
+          "departure": "04:16:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 997,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "COI",
+      "name": "Connersville Amtrak",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "01:31:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "01:31:00",
+          "departure": "01:31:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 396,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "CRF",
+      "name": "Crawfordsville Amtrak",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 53,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "07:23:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "07:23:00",
+          "departure": "07:23:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1184,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "CRF",
+      "name": "Crawfordsville Amtrak",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 53,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "22:30:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "22:30:00",
+          "departure": "22:30:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 215,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "CLP",
+      "name": "Culpeper Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "13:05:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "13:05:00",
+          "departure": "13:05:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 86,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "CLP",
+      "name": "Culpeper Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "16:00:00",
+          "calls": 1
+        },
+        {
+          "time": "17:00:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:00:00",
+          "departure": "17:00:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1325,
+          "calls": 11
+        },
+        {
+          "arrival": "16:00:00",
+          "departure": "16:00:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1325,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "DYE",
+      "name": "Dyer Amtrak",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "08:54:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:54:00",
+          "departure": "08:54:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1335,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "DYE",
+      "name": "Dyer Amtrak",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "18:54:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:54:00",
+          "departure": "18:54:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 59,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "HIN",
+      "name": "Hinton Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 78.25,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "18:46:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:46:00",
+          "departure": "18:46:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 427,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "HIN",
+      "name": "Hinton Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 78.25,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "09:50:00",
+          "calls": 1
+        },
+        {
+          "time": "10:50:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "10:50:00",
+          "departure": "10:50:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 955,
+          "calls": 11
+        },
+        {
+          "arrival": "09:50:00",
+          "departure": "09:50:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 955,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "HUN",
+      "name": "Huntington Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 52.25,
+      "y": 25.5,
+      "calls": 12,
+      "dwell_typical": 7,
+      "dwell_min": 7,
+      "dwell_max": 7,
+      "y_min": 25.5,
+      "y_max": 25.5,
+      "arrivals": [
+        {
+          "time": "22:24:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "22:24:00",
+          "departure": "22:31:00",
+          "dwell": 7,
+          "y": 25.5,
+          "gap": 645,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "HUN",
+      "name": "Huntington Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 52.25,
+      "y": 30.0,
+      "calls": 12,
+      "dwell_typical": 7,
+      "dwell_min": 7,
+      "dwell_max": 7,
+      "y_min": 30,
+      "y_max": 30,
+      "arrivals": [
+        {
+          "time": "06:19:00",
+          "calls": 1
+        },
+        {
+          "time": "07:19:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "07:19:00",
+          "departure": "07:26:00",
+          "dwell": 7,
+          "y": 30,
+          "gap": 744,
+          "calls": 11
+        },
+        {
+          "arrival": "06:19:00",
+          "departure": "06:26:00",
+          "dwell": 7,
+          "y": 30,
+          "gap": 744,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 74,
+      "y": 77.5,
+      "calls": 12,
+      "dwell_typical": 30,
+      "dwell_min": 30,
+      "dwell_max": 30,
+      "y_min": 77.5,
+      "y_max": 77.5,
+      "arrivals": [
+        {
+          "time": "05:55:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "05:55:00",
+          "departure": "06:25:00",
+          "dwell": 30,
+          "y": 77.5,
+          "gap": 1096,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 74,
+      "y": 72.5,
+      "calls": 12,
+      "dwell_typical": 26,
+      "dwell_min": 26,
+      "dwell_max": 26,
+      "y_min": 72.5,
+      "y_max": 72.5,
+      "arrivals": [
+        {
+          "time": "23:49:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "23:49:00",
+          "departure": "00:15:00",
+          "dwell": 26,
+          "y": 72.5,
+          "gap": 294,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LAF",
+      "name": "Lafayette Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "08:01:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:01:00",
+          "departure": "08:01:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1222,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "LAF",
+      "name": "Lafayette Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "21:56:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "21:56:00",
+          "departure": "21:56:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 181,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "MSS",
+      "name": "Manassas Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "12:32:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "12:32:00",
+          "departure": "12:32:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 53,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "MSS",
+      "name": "Manassas Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "16:35:00",
+          "calls": 1
+        },
+        {
+          "time": "17:35:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:35:00",
+          "departure": "17:35:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1360,
+          "calls": 11
+        },
+        {
+          "arrival": "16:35:00",
+          "departure": "16:35:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1360,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "MAY",
+      "name": "Maysville Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 66,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "00:32:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "00:32:00",
+          "departure": "00:32:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 773,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "MAY",
+      "name": "Maysville Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 66,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "04:02:00",
+          "calls": 1
+        },
+        {
+          "time": "05:02:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "05:02:00",
+          "departure": "05:02:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 607,
+          "calls": 11
+        },
+        {
+          "arrival": "04:02:00",
+          "departure": "04:02:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 607,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "MNG",
+      "name": "Montgomery Amtrak",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 79,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "20:30:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "20:30:00",
+          "departure": "20:30:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 531,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "MNG",
+      "name": "Montgomery Amtrak",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 79,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "08:02:00",
+          "calls": 1
+        },
+        {
+          "time": "09:02:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "09:02:00",
+          "departure": "09:02:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 847,
+          "calls": 11
+        },
+        {
+          "arrival": "08:02:00",
+          "departure": "08:02:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 847,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "NWK",
+      "name": "Newark",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 24.0,
+      "calls": 12,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 5,
+      "y_min": 24,
+      "y_max": 24,
+      "arrivals": [
+        {
+          "time": "06:57:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "06:57:00",
+          "departure": "07:02:00",
+          "dwell": 5,
+          "y": 24,
+          "gap": 17,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "NWK",
+      "name": "Newark",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "21:03:00",
+          "calls": 1
+        },
+        {
+          "time": "22:03:00",
+          "calls": 7
+        },
+        {
+          "time": "22:08:00",
+          "calls": 4
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "22:03:00",
+          "departure": "22:03:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1628,
+          "calls": 7
+        },
+        {
+          "arrival": "22:08:00",
+          "departure": "22:08:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1633,
+          "calls": 4
+        },
+        {
+          "arrival": "21:03:00",
+          "departure": "21:03:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1628,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "PHL",
+      "name": "Philadelphia",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 70.5,
+      "y": 42.5,
+      "calls": 12,
+      "dwell_typical": 13,
+      "dwell_min": 13,
+      "dwell_max": 13,
+      "y_min": 42.5,
+      "y_max": 42.5,
+      "arrivals": [
+        {
+          "time": "08:07:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:07:00",
+          "departure": "08:20:00",
+          "dwell": 13,
+          "y": 42.5,
+          "gap": 87,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "PHL",
+      "name": "Philadelphia",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 70.5,
+      "y": 30.0,
+      "calls": 12,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 5,
+      "y_min": 30,
+      "y_max": 30,
+      "arrivals": [
+        {
+          "time": "19:51:00",
+          "calls": 1
+        },
+        {
+          "time": "20:51:00",
+          "calls": 6
+        },
+        {
+          "time": "20:56:00",
+          "calls": 5
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "20:51:00",
+          "departure": "20:56:00",
+          "dwell": 5,
+          "y": 30,
+          "gap": 1556,
+          "calls": 6
+        },
+        {
+          "arrival": "20:56:00",
+          "departure": "21:01:00",
+          "dwell": 5,
+          "y": 30,
+          "gap": 1561,
+          "calls": 5
+        },
+        {
+          "arrival": "19:51:00",
+          "departure": "19:56:00",
+          "dwell": 5,
+          "y": 30,
+          "gap": 1556,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "PRC",
+      "name": "Prince Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "19:23:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "19:23:00",
+          "departure": "19:23:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 464,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "PRC",
+      "name": "Prince Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "09:18:00",
+          "calls": 1
+        },
+        {
+          "time": "10:18:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "10:18:00",
+          "departure": "10:18:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 923,
+          "calls": 11
+        },
+        {
+          "arrival": "09:18:00",
+          "departure": "09:18:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 923,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "REN",
+      "name": "Rensselaer Amtrak",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "08:05:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:05:00",
+          "departure": "08:05:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1286,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "REN",
+      "name": "Rensselaer Amtrak",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "19:45:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "19:45:00",
+          "departure": "19:45:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 110,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "SPM",
+      "name": "South Portsmouth Amtrak",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "23:37:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "23:37:00",
+          "departure": "23:37:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 718,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "SPM",
+      "name": "South Portsmouth Amtrak",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "04:55:00",
+          "calls": 1
+        },
+        {
+          "time": "05:55:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "05:55:00",
+          "departure": "05:55:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 660,
+          "calls": 11
+        },
+        {
+          "arrival": "04:55:00",
+          "departure": "04:55:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 660,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "STA",
+      "name": "Staunton Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "15:34:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "15:34:00",
+          "departure": "15:34:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 235,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "STA",
+      "name": "Staunton Amtrak Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "13:28:00",
+          "calls": 1
+        },
+        {
+          "time": "14:28:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "14:28:00",
+          "departure": "14:28:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1173,
+          "calls": 11
+        },
+        {
+          "arrival": "13:28:00",
+          "departure": "13:28:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1173,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "THN",
+      "name": "Thurmond Amtrak",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "19:39:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "19:39:00",
+          "departure": "19:39:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 480,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "THN",
+      "name": "Thurmond Amtrak",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "08:56:00",
+          "calls": 1
+        },
+        {
+          "time": "09:56:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "09:56:00",
+          "departure": "09:56:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 901,
+          "calls": 11
+        },
+        {
+          "arrival": "08:56:00",
+          "departure": "08:56:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 901,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "TRE",
+      "name": "Trenton",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 96.5,
+      "y": 8.0,
+      "calls": 12,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 8,
+      "y_max": 8,
+      "arrivals": [
+        {
+          "time": "07:38:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "07:38:00",
+          "departure": "07:42:00",
+          "dwell": 4,
+          "y": 8,
+          "gap": 58,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "TRE",
+      "name": "Trenton",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 96.5,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "20:27:00",
+          "calls": 1
+        },
+        {
+          "time": "21:27:00",
+          "calls": 7
+        },
+        {
+          "time": "21:32:00",
+          "calls": 4
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "21:27:00",
+          "departure": "21:27:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1592,
+          "calls": 7
+        },
+        {
+          "arrival": "21:32:00",
+          "departure": "21:32:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1597,
+          "calls": 4
+        },
+        {
+          "arrival": "20:27:00",
+          "departure": "20:27:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1592,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Union Station",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 90.0,
+      "calls": 12,
+      "dwell_typical": 80,
+      "dwell_min": 80,
+      "dwell_max": 80,
+      "y_min": 90,
+      "y_max": 90,
+      "arrivals": [
+        {
+          "time": "10:19:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "10:19:00",
+          "departure": "11:39:00",
+          "dwell": 80,
+          "y": 90,
+          "gap": 219,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Union Station",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 100.0,
+      "calls": 12,
+      "dwell_typical": 25,
+      "dwell_min": 25,
+      "dwell_max": 25,
+      "y_min": 100,
+      "y_max": 100,
+      "arrivals": [
+        {
+          "time": "17:44:00",
+          "calls": 1
+        },
+        {
+          "time": "18:44:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:44:00",
+          "departure": "19:09:00",
+          "dwell": 25,
+          "y": 100,
+          "gap": 1429,
+          "calls": 11
+        },
+        {
+          "arrival": "17:44:00",
+          "departure": "18:09:00",
+          "dwell": 25,
+          "y": 100,
+          "gap": 1429,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WSS",
+      "name": "White Sulphur Springs Amtrak",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "17:45:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:45:00",
+          "departure": "17:45:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 366,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "WSS",
+      "name": "White Sulphur Springs Amtrak",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "11:01:00",
+          "calls": 1
+        },
+        {
+          "time": "12:01:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "12:01:00",
+          "departure": "12:01:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1026,
+          "calls": 11
+        },
+        {
+          "arrival": "11:01:00",
+          "departure": "11:01:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1026,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WIL",
+      "name": "Wilmington",
+      "route": "Cardinal",
+      "direction": "Chicago Union Station",
+      "x": 70.5,
+      "y": 9.0,
+      "calls": 12,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 9,
+      "y_max": 9,
+      "arrivals": [
+        {
+          "time": "08:42:00",
+          "calls": 12
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:42:00",
+          "departure": "08:45:00",
+          "dwell": 3,
+          "y": 9,
+          "gap": 122,
+          "calls": 12
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-22"
+    },
+    {
+      "id": "WIL",
+      "name": "Wilmington",
+      "route": "Cardinal",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 70.5,
+      "y": 0.0,
+      "calls": 12,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "19:30:00",
+          "calls": 1
+        },
+        {
+          "time": "20:30:00",
+          "calls": 11
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "20:30:00",
+          "departure": "20:30:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1535,
+          "calls": 11
+        },
+        {
+          "arrival": "19:30:00",
+          "departure": "19:30:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1535,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "ALX",
+      "name": "Alexandria",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 87,
+      "y": 8.0,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 8,
+      "y_max": 8,
+      "arrivals": [
+        {
+          "time": "19:41:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "19:41:00",
+          "departure": "19:45:00",
+          "dwell": 4,
+          "y": 8,
+          "gap": 17,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "ALX",
+      "name": "Alexandria",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 87,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "04:54:00",
+          "calls": 1
+        },
+        {
+          "time": "05:54:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "05:54:00",
+          "departure": "05:54:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1369,
+          "calls": 27
+        },
+        {
+          "arrival": "04:54:00",
+          "departure": "04:54:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1369,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "BAL",
+      "name": "Baltimore Penn Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 87,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "17:38:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:38:00",
+          "departure": "17:38:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 188,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "BAL",
+      "name": "Baltimore Penn Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 87,
+      "y": 8.0,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 8,
+      "y_max": 8,
+      "arrivals": [
+        {
+          "time": "06:40:00",
+          "calls": 1
+        },
+        {
+          "time": "07:35:00",
+          "calls": 1
+        },
+        {
+          "time": "07:40:00",
+          "calls": 1
+        },
+        {
+          "time": "07:48:00",
+          "calls": 1
+        },
+        {
+          "time": "07:50:00",
+          "calls": 1
+        },
+        {
+          "time": "08:07:00",
+          "calls": 23
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:07:00",
+          "departure": "08:11:00",
+          "dwell": 4,
+          "y": 8,
+          "gap": 37,
+          "calls": 23
+        },
+        {
+          "arrival": "06:40:00",
+          "departure": "06:44:00",
+          "dwell": 4,
+          "y": 8,
+          "gap": 37,
+          "calls": 1
+        },
+        {
+          "arrival": "07:35:00",
+          "departure": "07:39:00",
+          "dwell": 4,
+          "y": 8,
+          "gap": 37,
+          "calls": 1
+        },
+        {
+          "arrival": "07:40:00",
+          "departure": "07:44:00",
+          "dwell": 4,
+          "y": 8,
+          "gap": 37,
+          "calls": 1
+        },
+        {
+          "arrival": "07:48:00",
+          "departure": "07:52:00",
+          "dwell": 4,
+          "y": 8,
+          "gap": 43,
+          "calls": 1
+        },
+        {
+          "arrival": "07:50:00",
+          "departure": "07:54:00",
+          "dwell": 4,
+          "y": 8,
+          "gap": 37,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "CHS",
+      "name": "Charleston Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 27,
+      "y": 23.25,
+      "calls": 28,
+      "dwell_typical": 8,
+      "dwell_min": 8,
+      "dwell_max": 8,
+      "y_min": 23.25,
+      "y_max": 23.25,
+      "arrivals": [
+        {
+          "time": "03:48:00",
+          "calls": 1
+        },
+        {
+          "time": "04:48:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "04:48:00",
+          "departure": "04:56:00",
+          "dwell": 8,
+          "y": 23.25,
+          "gap": 564,
+          "calls": 27
+        },
+        {
+          "arrival": "03:48:00",
+          "departure": "03:56:00",
+          "dwell": 8,
+          "y": 23.25,
+          "gap": 564,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "CHS",
+      "name": "Charleston Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 27,
+      "y": 30.0,
+      "calls": 28,
+      "dwell_typical": 9,
+      "dwell_min": 9,
+      "dwell_max": 9,
+      "y_min": 30,
+      "y_max": 30,
+      "arrivals": [
+        {
+          "time": "20:25:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "20:25:00",
+          "departure": "20:34:00",
+          "dwell": 9,
+          "y": 30,
+          "gap": 800,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "DFB",
+      "name": "Deerfield Beach Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "16:47:00",
+          "calls": 1
+        },
+        {
+          "time": "17:47:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:47:00",
+          "departure": "17:47:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1343,
+          "calls": 27
+        },
+        {
+          "arrival": "16:47:00",
+          "departure": "16:47:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1343,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "DFB",
+      "name": "Deerfield Beach Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "08:03:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:03:00",
+          "departure": "08:03:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 58,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "DLD",
+      "name": "Deland",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 10.0,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 10,
+      "y_max": 10,
+      "arrivals": [
+        {
+          "time": "10:50:00",
+          "calls": 1
+        },
+        {
+          "time": "11:50:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "11:50:00",
+          "departure": "11:53:00",
+          "dwell": 3,
+          "y": 10,
+          "gap": 986,
+          "calls": 27
+        },
+        {
+          "arrival": "10:50:00",
+          "departure": "10:53:00",
+          "dwell": 3,
+          "y": 10,
+          "gap": 986,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "DLD",
+      "name": "Deland",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "13:38:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "13:38:00",
+          "departure": "13:40:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 393,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "DLB",
+      "name": "Delray Beach Amtrak",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "16:33:00",
+          "calls": 1
+        },
+        {
+          "time": "17:33:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:33:00",
+          "departure": "17:33:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1329,
+          "calls": 27
+        },
+        {
+          "arrival": "16:33:00",
+          "departure": "16:33:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1329,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "DLB",
+      "name": "Delray Beach Amtrak",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "08:17:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:17:00",
+          "departure": "08:17:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 72,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FAY",
+      "name": "Fayetteville Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 83.5,
+      "y": 36.25,
+      "calls": 28,
+      "dwell_typical": 10,
+      "dwell_min": 10,
+      "dwell_max": 10,
+      "y_min": 36.25,
+      "y_max": 36.25,
+      "arrivals": [
+        {
+          "time": "01:17:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "01:17:00",
+          "departure": "01:27:00",
+          "dwell": 10,
+          "y": 36.25,
+          "gap": 353,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FAY",
+      "name": "Fayetteville Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 83.5,
+      "y": 38.75,
+      "calls": 28,
+      "dwell_typical": 10,
+      "dwell_min": 10,
+      "dwell_max": 10,
+      "y_min": 38.75,
+      "y_max": 38.75,
+      "arrivals": [
+        {
+          "time": "23:47:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "23:47:00",
+          "departure": "23:57:00",
+          "dwell": 10,
+          "y": 38.75,
+          "gap": 1002,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FLO",
+      "name": "Florence Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 23.25,
+      "calls": 28,
+      "dwell_typical": 8,
+      "dwell_min": 8,
+      "dwell_max": 8,
+      "y_min": 23.25,
+      "y_max": 23.25,
+      "arrivals": [
+        {
+          "time": "02:10:00",
+          "calls": 1
+        },
+        {
+          "time": "03:10:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "03:10:00",
+          "departure": "03:18:00",
+          "dwell": 8,
+          "y": 23.25,
+          "gap": 466,
+          "calls": 27
+        },
+        {
+          "arrival": "02:10:00",
+          "departure": "02:18:00",
+          "dwell": 8,
+          "y": 23.25,
+          "gap": 466,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FLO",
+      "name": "Florence Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 42.5,
+      "calls": 28,
+      "dwell_typical": 10,
+      "dwell_min": 10,
+      "dwell_max": 10,
+      "y_min": 42.5,
+      "y_max": 42.5,
+      "arrivals": [
+        {
+          "time": "22:22:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "22:22:00",
+          "departure": "22:32:00",
+          "dwell": 10,
+          "y": 42.5,
+          "gap": 917,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FTL",
+      "name": "Fort Lauderdale Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "17:06:00",
+          "calls": 1
+        },
+        {
+          "time": "18:06:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:06:00",
+          "departure": "18:06:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1362,
+          "calls": 27
+        },
+        {
+          "arrival": "17:06:00",
+          "departure": "17:06:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1362,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FTL",
+      "name": "Fort Lauderdale Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "07:45:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "07:45:00",
+          "departure": "07:45:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 40,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FBG",
+      "name": "Fredericksburg Amtrak",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 100,
+      "y": 8.5,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 8.5,
+      "y_max": 8.5,
+      "arrivals": [
+        {
+          "time": "20:32:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "20:32:00",
+          "departure": "20:35:00",
+          "dwell": 3,
+          "y": 8.5,
+          "gap": 68,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FBG",
+      "name": "Fredericksburg Amtrak",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "03:46:00",
+          "calls": 1
+        },
+        {
+          "time": "04:46:00",
+          "calls": 3
+        },
+        {
+          "time": "04:49:00",
+          "calls": 24
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "04:49:00",
+          "departure": "04:49:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1304,
+          "calls": 24
+        },
+        {
+          "arrival": "04:46:00",
+          "departure": "04:46:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1301,
+          "calls": 3
+        },
+        {
+          "arrival": "03:46:00",
+          "departure": "03:46:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1301,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "HOL",
+      "name": "Hollywood Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 47,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "17:21:00",
+          "calls": 1
+        },
+        {
+          "time": "18:21:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:21:00",
+          "departure": "18:21:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1377,
+          "calls": 27
+        },
+        {
+          "arrival": "17:21:00",
+          "departure": "17:21:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1377,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "HOL",
+      "name": "Hollywood Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 47,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "07:29:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "07:29:00",
+          "departure": "07:29:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 24,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "JAX",
+      "name": "Jacksonville",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 100.0,
+      "calls": 28,
+      "dwell_typical": 25,
+      "dwell_min": 25,
+      "dwell_max": 25,
+      "y_min": 100,
+      "y_max": 100,
+      "arrivals": [
+        {
+          "time": "08:24:00",
+          "calls": 1
+        },
+        {
+          "time": "09:24:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "09:24:00",
+          "departure": "09:49:00",
+          "dwell": 25,
+          "y": 100,
+          "gap": 840,
+          "calls": 27
+        },
+        {
+          "arrival": "08:24:00",
+          "departure": "08:49:00",
+          "dwell": 25,
+          "y": 100,
+          "gap": 840,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "JAX",
+      "name": "Jacksonville",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 79.688,
+      "calls": 28,
+      "dwell_typical": 20,
+      "dwell_min": 20,
+      "dwell_max": 20,
+      "y_min": 79.688,
+      "y_max": 79.688,
+      "arrivals": [
+        {
+          "time": "15:51:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "15:51:00",
+          "departure": "16:11:00",
+          "dwell": 20,
+          "y": 79.688,
+          "gap": 526,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "JSP",
+      "name": "Jesup Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 40,
+      "y": 10.0,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 10,
+      "y_max": 10,
+      "arrivals": [
+        {
+          "time": "06:43:00",
+          "calls": 1
+        },
+        {
+          "time": "07:43:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "07:43:00",
+          "departure": "07:47:00",
+          "dwell": 4,
+          "y": 10,
+          "gap": 739,
+          "calls": 27
+        },
+        {
+          "arrival": "06:43:00",
+          "departure": "06:47:00",
+          "dwell": 4,
+          "y": 10,
+          "gap": 739,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "JSP",
+      "name": "Jesup Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 40,
+      "y": 30.0,
+      "calls": 28,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 5,
+      "y_min": 30,
+      "y_max": 30,
+      "arrivals": [
+        {
+          "time": "17:30:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:30:00",
+          "departure": "17:35:00",
+          "dwell": 5,
+          "y": 30,
+          "gap": 625,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "KTR",
+      "name": "Kingstree Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 7.75,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 7.75,
+      "y_max": 7.75,
+      "arrivals": [
+        {
+          "time": "02:53:00",
+          "calls": 1
+        },
+        {
+          "time": "03:53:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "03:53:00",
+          "departure": "03:56:00",
+          "dwell": 3,
+          "y": 7.75,
+          "gap": 509,
+          "calls": 27
+        },
+        {
+          "arrival": "02:53:00",
+          "departure": "02:56:00",
+          "dwell": 3,
+          "y": 7.75,
+          "gap": 509,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "KTR",
+      "name": "Kingstree Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 8.5,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 8.5,
+      "y_max": 8.5,
+      "arrivals": [
+        {
+          "time": "21:25:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "21:25:00",
+          "departure": "21:28:00",
+          "dwell": 3,
+          "y": 8.5,
+          "gap": 860,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "KIS",
+      "name": "Kissimmee Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 96.5,
+      "y": 10.0,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 10,
+      "y_max": 10,
+      "arrivals": [
+        {
+          "time": "12:38:00",
+          "calls": 1
+        },
+        {
+          "time": "13:38:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "13:38:00",
+          "departure": "13:41:00",
+          "dwell": 3,
+          "y": 10,
+          "gap": 1094,
+          "calls": 27
+        },
+        {
+          "arrival": "12:38:00",
+          "departure": "12:41:00",
+          "dwell": 3,
+          "y": 10,
+          "gap": 1094,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "KIS",
+      "name": "Kissimmee Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 96.5,
+      "y": 9.5,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 9.5,
+      "y_max": 9.5,
+      "arrivals": [
+        {
+          "time": "11:54:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "11:54:00",
+          "departure": "11:57:00",
+          "dwell": 3,
+          "y": 9.5,
+          "gap": 289,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "NWK",
+      "name": "Newark",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 100,
+      "y": 7.375,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 7.375,
+      "y_max": 7.375,
+      "arrivals": [
+        {
+          "time": "14:50:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "14:50:00",
+          "departure": "14:53:00",
+          "dwell": 3,
+          "y": 7.375,
+          "gap": 20,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "NWK",
+      "name": "Newark",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "09:18:00",
+          "calls": 1
+        },
+        {
+          "time": "10:18:00",
+          "calls": 3
+        },
+        {
+          "time": "10:37:00",
+          "calls": 24
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "10:37:00",
+          "departure": "10:39:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 187,
+          "calls": 23
+        },
+        {
+          "arrival": "09:18:00",
+          "departure": "09:20:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 195,
+          "calls": 1
+        },
+        {
+          "arrival": "10:18:00",
+          "departure": "10:20:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 185,
+          "calls": 1
+        },
+        {
+          "arrival": "10:18:00",
+          "departure": "10:20:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 195,
+          "calls": 1
+        },
+        {
+          "arrival": "10:18:00",
+          "departure": "10:20:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 200,
+          "calls": 1
+        },
+        {
+          "arrival": "10:37:00",
+          "departure": "10:39:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 212,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "ORL",
+      "name": "Orlando",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 70.0,
+      "calls": 28,
+      "dwell_typical": 15,
+      "dwell_min": 15,
+      "dwell_max": 15,
+      "y_min": 70,
+      "y_max": 70,
+      "arrivals": [
+        {
+          "time": "12:04:00",
+          "calls": 1
+        },
+        {
+          "time": "13:04:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "13:04:00",
+          "departure": "13:19:00",
+          "dwell": 15,
+          "y": 70,
+          "gap": 1060,
+          "calls": 27
+        },
+        {
+          "arrival": "12:04:00",
+          "departure": "12:19:00",
+          "dwell": 15,
+          "y": 70,
+          "gap": 1060,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "ORL",
+      "name": "Orlando",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 47.5,
+      "calls": 28,
+      "dwell_typical": 14,
+      "dwell_min": 14,
+      "dwell_max": 14,
+      "y_min": 47.5,
+      "y_max": 47.5,
+      "arrivals": [
+        {
+          "time": "12:22:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "12:22:00",
+          "departure": "12:36:00",
+          "dwell": 14,
+          "y": 47.5,
+          "gap": 317,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "PAK",
+      "name": "Palatka Amtrak",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 27,
+      "y": 10.0,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 10,
+      "y_max": 10,
+      "arrivals": [
+        {
+          "time": "09:52:00",
+          "calls": 1
+        },
+        {
+          "time": "10:52:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "10:52:00",
+          "departure": "10:55:00",
+          "dwell": 3,
+          "y": 10,
+          "gap": 928,
+          "calls": 27
+        },
+        {
+          "arrival": "09:52:00",
+          "departure": "09:55:00",
+          "dwell": 3,
+          "y": 10,
+          "gap": 928,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "PAK",
+      "name": "Palatka Amtrak",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 27,
+      "y": 9.375,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 9.375,
+      "y_max": 9.375,
+      "arrivals": [
+        {
+          "time": "14:27:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "14:27:00",
+          "departure": "14:30:00",
+          "dwell": 3,
+          "y": 9.375,
+          "gap": 442,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "PTB",
+      "name": "Petersburg Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 47,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "22:21:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "22:21:00",
+          "departure": "22:23:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 177,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "PTB",
+      "name": "Petersburg Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 47,
+      "y": 7.75,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 7.75,
+      "y_max": 7.75,
+      "arrivals": [
+        {
+          "time": "01:50:00",
+          "calls": 1
+        },
+        {
+          "time": "02:50:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "02:50:00",
+          "departure": "02:53:00",
+          "dwell": 3,
+          "y": 7.75,
+          "gap": 1185,
+          "calls": 27
+        },
+        {
+          "arrival": "01:50:00",
+          "departure": "01:53:00",
+          "dwell": 3,
+          "y": 7.75,
+          "gap": 1185,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "PHL",
+      "name": "Philadelphia",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 70.5,
+      "y": 39.375,
+      "calls": 28,
+      "dwell_typical": 10,
+      "dwell_min": 10,
+      "dwell_max": 10,
+      "y_min": 39.375,
+      "y_max": 39.375,
+      "arrivals": [
+        {
+          "time": "16:05:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "16:05:00",
+          "departure": "16:15:00",
+          "dwell": 10,
+          "y": 39.375,
+          "gap": 95,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "PHL",
+      "name": "Philadelphia",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 70.5,
+      "y": 26.357142857142858,
+      "calls": 28,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 10,
+      "y_min": 25.5,
+      "y_max": 45,
+      "arrivals": [
+        {
+          "time": "08:08:00",
+          "calls": 1
+        },
+        {
+          "time": "09:08:00",
+          "calls": 3
+        },
+        {
+          "time": "09:20:00",
+          "calls": 1
+        },
+        {
+          "time": "09:25:00",
+          "calls": 23
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "09:25:00",
+          "departure": "09:30:00",
+          "dwell": 5,
+          "y": 25.5,
+          "gap": 115,
+          "calls": 23
+        },
+        {
+          "arrival": "08:08:00",
+          "departure": "08:13:00",
+          "dwell": 5,
+          "y": 27,
+          "gap": 125,
+          "calls": 1
+        },
+        {
+          "arrival": "09:08:00",
+          "departure": "09:13:00",
+          "dwell": 5,
+          "y": 25.5,
+          "gap": 115,
+          "calls": 1
+        },
+        {
+          "arrival": "09:08:00",
+          "departure": "09:13:00",
+          "dwell": 5,
+          "y": 27,
+          "gap": 125,
+          "calls": 1
+        },
+        {
+          "arrival": "09:08:00",
+          "departure": "09:13:00",
+          "dwell": 5,
+          "y": 27,
+          "gap": 130,
+          "calls": 1
+        },
+        {
+          "arrival": "09:20:00",
+          "departure": "09:30:00",
+          "dwell": 10,
+          "y": 45,
+          "gap": 135,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "RVR",
+      "name": "Richmond Staples Mill Road Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 40,
+      "y": 37.5,
+      "calls": 28,
+      "dwell_typical": 10,
+      "dwell_min": 10,
+      "dwell_max": 10,
+      "y_min": 37.5,
+      "y_max": 37.5,
+      "arrivals": [
+        {
+          "time": "21:39:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "21:39:00",
+          "departure": "21:49:00",
+          "dwell": 10,
+          "y": 37.5,
+          "gap": 135,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "RVR",
+      "name": "Richmond Staples Mill Road Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 40,
+      "y": 38.75,
+      "calls": 28,
+      "dwell_typical": 10,
+      "dwell_min": 10,
+      "dwell_max": 10,
+      "y_min": 38.75,
+      "y_max": 38.75,
+      "arrivals": [
+        {
+          "time": "02:42:00",
+          "calls": 1
+        },
+        {
+          "time": "03:42:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "03:42:00",
+          "departure": "03:52:00",
+          "dwell": 10,
+          "y": 38.75,
+          "gap": 1237,
+          "calls": 27
+        },
+        {
+          "arrival": "02:42:00",
+          "departure": "02:52:00",
+          "dwell": 10,
+          "y": 38.75,
+          "gap": 1237,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "RMT",
+      "name": "Rocky Mount",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 27,
+      "y": 7.25,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 7.25,
+      "y_max": 7.25,
+      "arrivals": [
+        {
+          "time": "23:52:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "23:52:00",
+          "departure": "23:55:00",
+          "dwell": 3,
+          "y": 7.25,
+          "gap": 268,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "RMT",
+      "name": "Rocky Mount",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 27,
+      "y": 7.75,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 7.75,
+      "y_max": 7.75,
+      "arrivals": [
+        {
+          "time": "01:25:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "01:25:00",
+          "departure": "01:29:00",
+          "dwell": 4,
+          "y": 7.75,
+          "gap": 1100,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "SAV",
+      "name": "Savannah",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 29.758928571428573,
+      "calls": 28,
+      "dwell_typical": 6,
+      "dwell_min": 6,
+      "dwell_max": 6,
+      "y_min": 23.25,
+      "y_max": 30,
+      "arrivals": [
+        {
+          "time": "05:43:00",
+          "calls": 1
+        },
+        {
+          "time": "06:43:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "06:43:00",
+          "departure": "06:49:00",
+          "dwell": 6,
+          "y": 30,
+          "gap": 679,
+          "calls": 27
+        },
+        {
+          "arrival": "05:43:00",
+          "departure": "05:49:00",
+          "dwell": 6,
+          "y": 23.25,
+          "gap": 679,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "SAV",
+      "name": "Savannah",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 30.0,
+      "calls": 28,
+      "dwell_typical": 8,
+      "dwell_min": 8,
+      "dwell_max": 8,
+      "y_min": 30,
+      "y_max": 30,
+      "arrivals": [
+        {
+          "time": "18:37:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:37:00",
+          "departure": "18:45:00",
+          "dwell": 8,
+          "y": 30,
+          "gap": 692,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "SBG",
+      "name": "Sebring Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 34,
+      "y": 9.375,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 9.375,
+      "y_max": 9.375,
+      "arrivals": [
+        {
+          "time": "14:11:00",
+          "calls": 1
+        },
+        {
+          "time": "15:11:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "15:11:00",
+          "departure": "15:14:00",
+          "dwell": 3,
+          "y": 9.375,
+          "gap": 1187,
+          "calls": 27
+        },
+        {
+          "arrival": "14:11:00",
+          "departure": "14:14:00",
+          "dwell": 3,
+          "y": 9.375,
+          "gap": 1187,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "SBG",
+      "name": "Sebring Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 34,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "10:21:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "10:21:00",
+          "departure": "10:23:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 196,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "TRE",
+      "name": "Trenton",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 96.5,
+      "y": 7.875,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 7.875,
+      "y_max": 7.875,
+      "arrivals": [
+        {
+          "time": "15:30:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "15:30:00",
+          "departure": "15:34:00",
+          "dwell": 4,
+          "y": 7.875,
+          "gap": 60,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "TRE",
+      "name": "Trenton",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 96.5,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "08:41:00",
+          "calls": 1
+        },
+        {
+          "time": "09:41:00",
+          "calls": 3
+        },
+        {
+          "time": "09:58:00",
+          "calls": 24
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "09:58:00",
+          "departure": "10:00:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 148,
+          "calls": 23
+        },
+        {
+          "arrival": "08:41:00",
+          "departure": "08:43:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 158,
+          "calls": 1
+        },
+        {
+          "arrival": "09:41:00",
+          "departure": "09:43:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 148,
+          "calls": 1
+        },
+        {
+          "arrival": "09:41:00",
+          "departure": "09:43:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 158,
+          "calls": 1
+        },
+        {
+          "arrival": "09:41:00",
+          "departure": "09:43:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 163,
+          "calls": 1
+        },
+        {
+          "arrival": "09:58:00",
+          "departure": "10:00:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 173,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Union Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 100,
+      "y": 90.0,
+      "calls": 28,
+      "dwell_typical": 58,
+      "dwell_min": 58,
+      "dwell_max": 58,
+      "y_min": 90,
+      "y_max": 90,
+      "arrivals": [
+        {
+          "time": "18:26:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:26:00",
+          "departure": "19:24:00",
+          "dwell": 58,
+          "y": 90,
+          "gap": 236,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Union Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 100,
+      "y": 99.19642857142857,
+      "calls": 28,
+      "dwell_typical": 65,
+      "dwell_min": 33,
+      "dwell_max": 65,
+      "y_min": 77.5,
+      "y_max": 100,
+      "arrivals": [
+        {
+          "time": "05:25:00",
+          "calls": 1
+        },
+        {
+          "time": "06:25:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "06:25:00",
+          "departure": "07:30:00",
+          "dwell": 65,
+          "y": 100,
+          "gap": 1400,
+          "calls": 23
+        },
+        {
+          "arrival": "05:25:00",
+          "departure": "06:03:00",
+          "dwell": 38,
+          "y": 77.5,
+          "gap": 1400,
+          "calls": 1
+        },
+        {
+          "arrival": "06:25:00",
+          "departure": "06:58:00",
+          "dwell": 33,
+          "y": 100,
+          "gap": 1400,
+          "calls": 1
+        },
+        {
+          "arrival": "06:25:00",
+          "departure": "07:03:00",
+          "dwell": 38,
+          "y": 100,
+          "gap": 1400,
+          "calls": 1
+        },
+        {
+          "arrival": "06:25:00",
+          "departure": "07:05:00",
+          "dwell": 40,
+          "y": 100,
+          "gap": 1400,
+          "calls": 1
+        },
+        {
+          "arrival": "06:25:00",
+          "departure": "07:13:00",
+          "dwell": 48,
+          "y": 100,
+          "gap": 1400,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WPB",
+      "name": "West Palm Beach Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "16:10:00",
+          "calls": 1
+        },
+        {
+          "time": "17:10:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:10:00",
+          "departure": "17:10:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1306,
+          "calls": 27
+        },
+        {
+          "arrival": "16:10:00",
+          "departure": "16:10:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 1306,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WPB",
+      "name": "West Palm Beach Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "08:42:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:42:00",
+          "departure": "08:42:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 97,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WIL",
+      "name": "Wilmington",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 70.5,
+      "y": 8.375,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 8.375,
+      "y_max": 8.375,
+      "arrivals": [
+        {
+          "time": "16:38:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "16:38:00",
+          "departure": "16:42:00",
+          "dwell": 4,
+          "y": 8.375,
+          "gap": 128,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WIL",
+      "name": "Wilmington",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 70.5,
+      "y": 8.5,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 8.5,
+      "y_max": 8.5,
+      "arrivals": [
+        {
+          "time": "07:33:00",
+          "calls": 1
+        },
+        {
+          "time": "08:28:00",
+          "calls": 1
+        },
+        {
+          "time": "08:33:00",
+          "calls": 1
+        },
+        {
+          "time": "08:43:00",
+          "calls": 1
+        },
+        {
+          "time": "08:45:00",
+          "calls": 1
+        },
+        {
+          "time": "09:00:00",
+          "calls": 23
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "09:00:00",
+          "departure": "09:04:00",
+          "dwell": 4,
+          "y": 8.5,
+          "gap": 90,
+          "calls": 23
+        },
+        {
+          "arrival": "07:33:00",
+          "departure": "07:37:00",
+          "dwell": 4,
+          "y": 8.5,
+          "gap": 90,
+          "calls": 1
+        },
+        {
+          "arrival": "08:28:00",
+          "departure": "08:32:00",
+          "dwell": 4,
+          "y": 8.5,
+          "gap": 90,
+          "calls": 1
+        },
+        {
+          "arrival": "08:33:00",
+          "departure": "08:37:00",
+          "dwell": 4,
+          "y": 8.5,
+          "gap": 90,
+          "calls": 1
+        },
+        {
+          "arrival": "08:43:00",
+          "departure": "08:47:00",
+          "dwell": 4,
+          "y": 8.5,
+          "gap": 90,
+          "calls": 1
+        },
+        {
+          "arrival": "08:45:00",
+          "departure": "08:49:00",
+          "dwell": 4,
+          "y": 8.5,
+          "gap": 100,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WTH",
+      "name": "Winter Haven",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 27,
+      "y": 9.397321428571429,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 9.375,
+      "y_max": 10,
+      "arrivals": [
+        {
+          "time": "13:30:00",
+          "calls": 1
+        },
+        {
+          "time": "14:30:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "14:30:00",
+          "departure": "14:33:00",
+          "dwell": 3,
+          "y": 9.375,
+          "gap": 1146,
+          "calls": 27
+        },
+        {
+          "arrival": "13:30:00",
+          "departure": "13:33:00",
+          "dwell": 3,
+          "y": 10,
+          "gap": 1146,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WTH",
+      "name": "Winter Haven",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 27,
+      "y": 27.0,
+      "calls": 28,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 5,
+      "y_min": 27,
+      "y_max": 27,
+      "arrivals": [
+        {
+          "time": "11:03:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "11:03:00",
+          "departure": "11:08:00",
+          "dwell": 5,
+          "y": 27,
+          "gap": 238,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WPK",
+      "name": "Winter Park Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 87,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "11:39:00",
+          "calls": 1
+        },
+        {
+          "time": "12:39:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "12:39:00",
+          "departure": "12:41:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 1035,
+          "calls": 27
+        },
+        {
+          "arrival": "11:39:00",
+          "departure": "11:41:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 1035,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WPK",
+      "name": "Winter Park Amtrak Station",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 87,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "12:51:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "12:51:00",
+          "departure": "12:53:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 346,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "YEM",
+      "name": "Yemassee Amtrak",
+      "route": "Silver Meteor",
+      "direction": "Miami Amtrak Station",
+      "x": 0,
+      "y": 7.75,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 7.75,
+      "y_max": 7.75,
+      "arrivals": [
+        {
+          "time": "04:44:00",
+          "calls": 1
+        },
+        {
+          "time": "05:44:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "05:44:00",
+          "departure": "05:48:00",
+          "dwell": 4,
+          "y": 7.75,
+          "gap": 620,
+          "calls": 27
+        },
+        {
+          "arrival": "04:44:00",
+          "departure": "04:48:00",
+          "dwell": 4,
+          "y": 7.75,
+          "gap": 620,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "YEM",
+      "name": "Yemassee Amtrak",
+      "route": "Silver Meteor",
+      "direction": "Ny Moynihan Train Hall At Penn Station",
+      "x": 0,
+      "y": 10.0,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 10,
+      "y_max": 10,
+      "arrivals": [
+        {
+          "time": "19:30:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "19:30:00",
+          "departure": "19:34:00",
+          "dwell": 4,
+          "y": 10,
+          "gap": 745,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "ABQ",
+      "name": "Albuquerque Alvarado Transportation Center",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 87,
+      "y": 100.0,
+      "calls": 27,
+      "dwell_typical": 50,
+      "dwell_min": 50,
+      "dwell_max": 50,
+      "y_min": 100,
+      "y_max": 100,
+      "arrivals": [
+        {
+          "time": "09:41:00",
+          "calls": 1
+        },
+        {
+          "time": "10:41:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "10:41:00",
+          "departure": "11:31:00",
+          "dwell": 50,
+          "y": 100,
+          "gap": 1006,
+          "calls": 26
+        },
+        {
+          "arrival": "09:41:00",
+          "departure": "10:31:00",
+          "dwell": 50,
+          "y": 100,
+          "gap": 1006,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "ABQ",
+      "name": "Albuquerque Alvarado Transportation Center",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 87,
+      "y": 93.97321428571429,
+      "calls": 28,
+      "dwell_typical": 50,
+      "dwell_min": 50,
+      "dwell_max": 50,
+      "y_min": 93.75,
+      "y_max": 100,
+      "arrivals": [
+        {
+          "time": "13:24:00",
+          "calls": 1
+        },
+        {
+          "time": "14:24:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "14:24:00",
+          "departure": "15:14:00",
+          "dwell": 50,
+          "y": 93.75,
+          "gap": 1067,
+          "calls": 27
+        },
+        {
+          "arrival": "13:24:00",
+          "departure": "14:14:00",
+          "dwell": 50,
+          "y": 100,
+          "gap": 1067,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "BAR",
+      "name": "Barstow",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 27.0,
+      "calls": 27,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 5,
+      "y_min": 27,
+      "y_max": 27,
+      "arrivals": [
+        {
+          "time": "20:42:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "20:42:00",
+          "departure": "20:47:00",
+          "dwell": 5,
+          "y": 27,
+          "gap": 227,
+          "calls": 27
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "BAR",
+      "name": "Barstow",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 0,
+      "y": 23.25,
+      "calls": 28,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 5,
+      "y_min": 23.25,
+      "y_max": 23.25,
+      "arrivals": [
+        {
+          "time": "02:08:00",
+          "calls": 2
+        },
+        {
+          "time": "03:08:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "03:08:00",
+          "departure": "03:13:00",
+          "dwell": 5,
+          "y": 23.25,
+          "gap": 774,
+          "calls": 26
+        },
+        {
+          "arrival": "02:08:00",
+          "departure": "02:13:00",
+          "dwell": 5,
+          "y": 23.25,
+          "gap": 774,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "DDG",
+      "name": "Dodge City Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 78.25,
+      "y": 23.333333333333332,
+      "calls": 27,
+      "dwell_typical": 6,
+      "dwell_min": 6,
+      "dwell_max": 6,
+      "y_min": 23.25,
+      "y_max": 25.5,
+      "arrivals": [
+        {
+          "time": "22:09:00",
+          "calls": 1
+        },
+        {
+          "time": "23:09:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "23:09:00",
+          "departure": "23:15:00",
+          "dwell": 6,
+          "y": 23.25,
+          "gap": 638,
+          "calls": 26
+        },
+        {
+          "arrival": "22:09:00",
+          "departure": "22:15:00",
+          "dwell": 6,
+          "y": 25.5,
+          "gap": 638,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "DDG",
+      "name": "Dodge City Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 78.25,
+      "y": 23.25,
+      "calls": 28,
+      "dwell_typical": 6,
+      "dwell_min": 6,
+      "dwell_max": 6,
+      "y_min": 23.25,
+      "y_max": 23.25,
+      "arrivals": [
+        {
+          "time": "03:08:00",
+          "calls": 1
+        },
+        {
+          "time": "04:08:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "04:08:00",
+          "departure": "04:14:00",
+          "dwell": 6,
+          "y": 23.25,
+          "gap": 391,
+          "calls": 27
+        },
+        {
+          "arrival": "03:08:00",
+          "departure": "03:14:00",
+          "dwell": 6,
+          "y": 23.25,
+          "gap": 391,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FLG",
+      "name": "Flagstaff",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 23.25,
+      "calls": 27,
+      "dwell_typical": 8,
+      "dwell_min": 8,
+      "dwell_max": 8,
+      "y_min": 23.25,
+      "y_max": 23.25,
+      "arrivals": [
+        {
+          "time": "04:31:00",
+          "calls": 3
+        },
+        {
+          "time": "05:31:00",
+          "calls": 24
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "05:31:00",
+          "departure": "05:39:00",
+          "dwell": 8,
+          "y": 23.25,
+          "gap": 696,
+          "calls": 24
+        },
+        {
+          "arrival": "04:31:00",
+          "departure": "04:39:00",
+          "dwell": 8,
+          "y": 23.25,
+          "gap": 636,
+          "calls": 2
+        },
+        {
+          "arrival": "04:31:00",
+          "departure": "04:39:00",
+          "dwell": 8,
+          "y": 23.25,
+          "gap": 696,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FLG",
+      "name": "Flagstaff",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 100,
+      "y": 25.982142857142858,
+      "calls": 28,
+      "dwell_typical": 6,
+      "dwell_min": 6,
+      "dwell_max": 6,
+      "y_min": 25.5,
+      "y_max": 30,
+      "arrivals": [
+        {
+          "time": "20:49:00",
+          "calls": 4
+        },
+        {
+          "time": "21:49:00",
+          "calls": 24
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "21:49:00",
+          "departure": "21:55:00",
+          "dwell": 6,
+          "y": 25.5,
+          "gap": 395,
+          "calls": 24
+        },
+        {
+          "arrival": "20:49:00",
+          "departure": "20:55:00",
+          "dwell": 6,
+          "y": 28.5,
+          "gap": 335,
+          "calls": 3
+        },
+        {
+          "arrival": "20:49:00",
+          "departure": "20:55:00",
+          "dwell": 6,
+          "y": 30,
+          "gap": 395,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FMD",
+      "name": "Fort Madison",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 79,
+      "y": 27.0,
+      "calls": 27,
+      "dwell_typical": 6,
+      "dwell_min": 6,
+      "dwell_max": 6,
+      "y_min": 27,
+      "y_max": 27,
+      "arrivals": [
+        {
+          "time": "09:25:00",
+          "calls": 2
+        },
+        {
+          "time": "10:25:00",
+          "calls": 25
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "10:25:00",
+          "departure": "10:31:00",
+          "dwell": 6,
+          "y": 27,
+          "gap": 202,
+          "calls": 25
+        },
+        {
+          "arrival": "09:25:00",
+          "departure": "09:31:00",
+          "dwell": 6,
+          "y": 27,
+          "gap": 202,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FMD",
+      "name": "Fort Madison",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 79,
+      "y": 27.0,
+      "calls": 28,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 5,
+      "y_min": 27,
+      "y_max": 27,
+      "arrivals": [
+        {
+          "time": "17:05:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:05:00",
+          "departure": "17:10:00",
+          "dwell": 5,
+          "y": 27,
+          "gap": 215,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FUL",
+      "name": "Fullerton Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 24.0,
+      "calls": 27,
+      "dwell_typical": 8,
+      "dwell_min": 8,
+      "dwell_max": 8,
+      "y_min": 24,
+      "y_max": 24,
+      "arrivals": [
+        {
+          "time": "17:25:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:25:00",
+          "departure": "17:33:00",
+          "dwell": 8,
+          "y": 24,
+          "gap": 30,
+          "calls": 27
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "FUL",
+      "name": "Fullerton Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 100,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "05:39:00",
+          "calls": 2
+        },
+        {
+          "time": "06:39:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "06:39:00",
+          "departure": "06:39:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 985,
+          "calls": 26
+        },
+        {
+          "arrival": "05:39:00",
+          "departure": "05:39:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 985,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "GBB",
+      "name": "Galesburg Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "10:35:00",
+          "calls": 2
+        },
+        {
+          "time": "11:35:00",
+          "calls": 25
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "11:35:00",
+          "departure": "11:37:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 272,
+          "calls": 25
+        },
+        {
+          "arrival": "10:35:00",
+          "departure": "10:37:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 272,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "GBB",
+      "name": "Galesburg Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 100,
+      "y": 8.375,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 8.375,
+      "y_max": 8.375,
+      "arrivals": [
+        {
+          "time": "16:06:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "16:06:00",
+          "departure": "16:09:00",
+          "dwell": 3,
+          "y": 8.375,
+          "gap": 156,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "GLP",
+      "name": "Gallup Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 96.5,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "06:36:00",
+          "calls": 1
+        },
+        {
+          "time": "07:36:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "07:36:00",
+          "departure": "07:36:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 821,
+          "calls": 26
+        },
+        {
+          "arrival": "06:36:00",
+          "departure": "06:36:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 821,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "GLP",
+      "name": "Gallup Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 96.5,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "16:54:00",
+          "calls": 1
+        },
+        {
+          "time": "17:54:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:54:00",
+          "departure": "17:54:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 160,
+          "calls": 27
+        },
+        {
+          "arrival": "16:54:00",
+          "departure": "16:54:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 160,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "GCK",
+      "name": "Garden City Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "21:18:00",
+          "calls": 1
+        },
+        {
+          "time": "22:18:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "22:18:00",
+          "departure": "22:20:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 587,
+          "calls": 26
+        },
+        {
+          "arrival": "21:18:00",
+          "departure": "21:20:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 587,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "GCK",
+      "name": "Garden City Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "04:03:00",
+          "calls": 1
+        },
+        {
+          "time": "05:03:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "05:03:00",
+          "departure": "05:05:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 446,
+          "calls": 27
+        },
+        {
+          "arrival": "04:03:00",
+          "departure": "04:05:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 446,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "HUT",
+      "name": "Hutchinson Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 96.5,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "00:08:00",
+          "calls": 1
+        },
+        {
+          "time": "01:08:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "01:08:00",
+          "departure": "01:10:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 757,
+          "calls": 26
+        },
+        {
+          "arrival": "00:08:00",
+          "departure": "00:10:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 757,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "HUT",
+      "name": "Hutchinson Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 96.5,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "01:13:00",
+          "calls": 1
+        },
+        {
+          "time": "02:13:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "02:13:00",
+          "departure": "02:15:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 276,
+          "calls": 27
+        },
+        {
+          "arrival": "01:13:00",
+          "departure": "01:15:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 276,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "KCY",
+      "name": "Kansas City",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 100,
+      "y": 98.33333333333333,
+      "calls": 27,
+      "dwell_typical": 45,
+      "dwell_min": 45,
+      "dwell_max": 45,
+      "y_min": 77.5,
+      "y_max": 100,
+      "arrivals": [
+        {
+          "time": "05:18:00",
+          "calls": 2
+        },
+        {
+          "time": "06:18:00",
+          "calls": 25
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "06:18:00",
+          "departure": "07:03:00",
+          "dwell": 45,
+          "y": 100,
+          "gap": 1067,
+          "calls": 25
+        },
+        {
+          "arrival": "05:18:00",
+          "departure": "06:03:00",
+          "dwell": 45,
+          "y": 77.5,
+          "gap": 1067,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "KCY",
+      "name": "Kansas City",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 100,
+      "y": 100.0,
+      "calls": 28,
+      "dwell_typical": 44,
+      "dwell_min": 44,
+      "dwell_max": 44,
+      "y_min": 100,
+      "y_max": 100,
+      "arrivals": [
+        {
+          "time": "20:53:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "20:53:00",
+          "departure": "21:37:00",
+          "dwell": 44,
+          "y": 100,
+          "gap": 443,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "KNG",
+      "name": "Kingman",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 65.25,
+      "y": 38.75,
+      "calls": 27,
+      "dwell_typical": 10,
+      "dwell_min": 10,
+      "dwell_max": 10,
+      "y_min": 38.75,
+      "y_max": 38.75,
+      "arrivals": [
+        {
+          "time": "01:27:00",
+          "calls": 3
+        },
+        {
+          "time": "02:27:00",
+          "calls": 24
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "02:27:00",
+          "departure": "02:37:00",
+          "dwell": 10,
+          "y": 38.75,
+          "gap": 512,
+          "calls": 24
+        },
+        {
+          "arrival": "01:27:00",
+          "departure": "01:37:00",
+          "dwell": 10,
+          "y": 38.75,
+          "gap": 452,
+          "calls": 2
+        },
+        {
+          "arrival": "01:27:00",
+          "departure": "01:37:00",
+          "dwell": 10,
+          "y": 38.75,
+          "gap": 512,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "KNG",
+      "name": "Kingman",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 65.25,
+      "y": 23.25,
+      "calls": 28,
+      "dwell_typical": 7,
+      "dwell_min": 7,
+      "dwell_max": 7,
+      "y_min": 23.25,
+      "y_max": 23.25,
+      "arrivals": [
+        {
+          "time": "00:42:00",
+          "calls": 24
+        },
+        {
+          "time": "23:42:00",
+          "calls": 4
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "00:42:00",
+          "departure": "00:49:00",
+          "dwell": 7,
+          "y": 23.25,
+          "gap": 568,
+          "calls": 24
+        },
+        {
+          "arrival": "23:42:00",
+          "departure": "23:49:00",
+          "dwell": 7,
+          "y": 23.25,
+          "gap": 508,
+          "calls": 3
+        },
+        {
+          "arrival": "23:42:00",
+          "departure": "23:49:00",
+          "dwell": 7,
+          "y": 23.25,
+          "gap": 568,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LAJ",
+      "name": "La Junta Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 60,
+      "y": 50.0,
+      "calls": 27,
+      "dwell_typical": 10,
+      "dwell_min": 10,
+      "dwell_max": 10,
+      "y_min": 50,
+      "y_max": 50,
+      "arrivals": [
+        {
+          "time": "17:45:00",
+          "calls": 1
+        },
+        {
+          "time": "18:45:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:45:00",
+          "departure": "18:55:00",
+          "dwell": 10,
+          "y": 50,
+          "gap": 434,
+          "calls": 26
+        },
+        {
+          "arrival": "17:45:00",
+          "departure": "17:55:00",
+          "dwell": 10,
+          "y": 50,
+          "gap": 434,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LAJ",
+      "name": "La Junta Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 60,
+      "y": 69.4375,
+      "calls": 28,
+      "dwell_typical": 15,
+      "dwell_min": 15,
+      "dwell_max": 15,
+      "y_min": 54.25,
+      "y_max": 70,
+      "arrivals": [
+        {
+          "time": "05:35:00",
+          "calls": 1
+        },
+        {
+          "time": "06:35:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "06:35:00",
+          "departure": "06:50:00",
+          "dwell": 15,
+          "y": 70,
+          "gap": 598,
+          "calls": 27
+        },
+        {
+          "arrival": "05:35:00",
+          "departure": "05:50:00",
+          "dwell": 15,
+          "y": 54.25,
+          "gap": 598,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LAP",
+      "name": "La Plata Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "08:13:00",
+          "calls": 2
+        },
+        {
+          "time": "09:13:00",
+          "calls": 25
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "09:13:00",
+          "departure": "09:15:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 130,
+          "calls": 25
+        },
+        {
+          "arrival": "08:13:00",
+          "departure": "08:15:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 130,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LAP",
+      "name": "La Plata Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "18:22:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:22:00",
+          "departure": "18:24:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 292,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LMR",
+      "name": "Lamar Amtrak",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 73,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "18:47:00",
+          "calls": 1
+        },
+        {
+          "time": "19:47:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "19:47:00",
+          "departure": "19:49:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 496,
+          "calls": 26
+        },
+        {
+          "arrival": "18:47:00",
+          "departure": "18:49:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 496,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LMR",
+      "name": "Lamar Amtrak",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 73,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "04:31:00",
+          "calls": 1
+        },
+        {
+          "time": "05:31:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "05:31:00",
+          "departure": "05:33:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 534,
+          "calls": 27
+        },
+        {
+          "arrival": "04:31:00",
+          "departure": "04:33:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 534,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LMY",
+      "name": "Lamy",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 79,
+      "y": 8.5,
+      "calls": 27,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 8.5,
+      "y_max": 8.5,
+      "arrivals": [
+        {
+          "time": "11:34:00",
+          "calls": 1
+        },
+        {
+          "time": "12:34:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "12:34:00",
+          "departure": "12:38:00",
+          "dwell": 4,
+          "y": 8.5,
+          "gap": 63,
+          "calls": 26
+        },
+        {
+          "arrival": "11:34:00",
+          "departure": "11:38:00",
+          "dwell": 4,
+          "y": 8.5,
+          "gap": 63,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LMY",
+      "name": "Lamy",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 79,
+      "y": 10.0,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 10,
+      "y_max": 10,
+      "arrivals": [
+        {
+          "time": "11:49:00",
+          "calls": 1
+        },
+        {
+          "time": "12:49:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "12:49:00",
+          "departure": "12:53:00",
+          "dwell": 4,
+          "y": 10,
+          "gap": 972,
+          "calls": 27
+        },
+        {
+          "arrival": "11:49:00",
+          "departure": "11:53:00",
+          "dwell": 4,
+          "y": 10,
+          "gap": 972,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LSV",
+      "name": "Las Vegas Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 86,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "13:27:00",
+          "calls": 1
+        },
+        {
+          "time": "14:27:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "14:27:00",
+          "departure": "14:27:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 176,
+          "calls": 26
+        },
+        {
+          "arrival": "13:27:00",
+          "departure": "13:27:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 176,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LSV",
+      "name": "Las Vegas Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 86,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "09:57:00",
+          "calls": 1
+        },
+        {
+          "time": "10:57:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "10:57:00",
+          "departure": "10:57:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 860,
+          "calls": 27
+        },
+        {
+          "arrival": "09:57:00",
+          "departure": "09:57:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 860,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LRC",
+      "name": "Lawrence Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 74,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "03:44:00",
+          "calls": 2
+        },
+        {
+          "time": "04:44:00",
+          "calls": 25
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "04:44:00",
+          "departure": "04:46:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 973,
+          "calls": 25
+        },
+        {
+          "arrival": "03:44:00",
+          "departure": "03:46:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 973,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "LRC",
+      "name": "Lawrence Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 74,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "22:45:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "22:45:00",
+          "departure": "22:47:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 68,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "MDT",
+      "name": "Mendota Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 1,
+      "dwell_min": 1,
+      "dwell_max": 1,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "11:50:00",
+          "calls": 2
+        },
+        {
+          "time": "12:50:00",
+          "calls": 25
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "12:50:00",
+          "departure": "12:51:00",
+          "dwell": 1,
+          "y": 0,
+          "gap": 347,
+          "calls": 25
+        },
+        {
+          "arrival": "11:50:00",
+          "departure": "11:51:00",
+          "dwell": 1,
+          "y": 0,
+          "gap": 347,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "MDT",
+      "name": "Mendota Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 0,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 1,
+      "dwell_min": 1,
+      "dwell_max": 1,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "14:53:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "14:53:00",
+          "departure": "14:54:00",
+          "dwell": 1,
+          "y": 0,
+          "gap": 83,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "NPV",
+      "name": "Naperville Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 91.25,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "12:55:00",
+          "calls": 2
+        },
+        {
+          "time": "13:55:00",
+          "calls": 25
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "13:55:00",
+          "departure": "13:55:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 412,
+          "calls": 25
+        },
+        {
+          "arrival": "12:55:00",
+          "departure": "12:55:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 412,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "NPV",
+      "name": "Naperville Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 91.25,
+      "y": 7.375,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 7.375,
+      "y_max": 7.375,
+      "arrivals": [
+        {
+          "time": "14:00:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "14:00:00",
+          "departure": "14:03:00",
+          "dwell": 3,
+          "y": 7.375,
+          "gap": 30,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "NDL",
+      "name": "Needles Amtrak",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 66,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "23:20:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "23:20:00",
+          "departure": "23:22:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 385,
+          "calls": 27
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "NDL",
+      "name": "Needles Amtrak",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 66,
+      "y": 23.330357142857142,
+      "calls": 28,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 5,
+      "y_min": 23.25,
+      "y_max": 25.5,
+      "arrivals": [
+        {
+          "time": "22:49:00",
+          "calls": 1
+        },
+        {
+          "time": "23:49:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "23:49:00",
+          "departure": "23:54:00",
+          "dwell": 5,
+          "y": 23.25,
+          "gap": 575,
+          "calls": 27
+        },
+        {
+          "arrival": "22:49:00",
+          "departure": "22:54:00",
+          "dwell": 5,
+          "y": 25.5,
+          "gap": 575,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "NEW",
+      "name": "Newton",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 96.5,
+      "y": 7.75,
+      "calls": 27,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 7.75,
+      "y_max": 7.75,
+      "arrivals": [
+        {
+          "time": "00:47:00",
+          "calls": 1
+        },
+        {
+          "time": "01:47:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "01:47:00",
+          "departure": "01:51:00",
+          "dwell": 4,
+          "y": 7.75,
+          "gap": 796,
+          "calls": 26
+        },
+        {
+          "arrival": "00:47:00",
+          "departure": "00:51:00",
+          "dwell": 4,
+          "y": 7.75,
+          "gap": 796,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "NEW",
+      "name": "Newton",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 96.5,
+      "y": 6.75,
+      "calls": 28,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 6.75,
+      "y_max": 6.75,
+      "arrivals": [
+        {
+          "time": "01:36:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "01:36:00",
+          "departure": "01:40:00",
+          "dwell": 4,
+          "y": 6.75,
+          "gap": 239,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "PCT",
+      "name": "Princeton Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 73,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "11:28:00",
+          "calls": 2
+        },
+        {
+          "time": "12:28:00",
+          "calls": 25
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "12:28:00",
+          "departure": "12:30:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 325,
+          "calls": 25
+        },
+        {
+          "arrival": "11:28:00",
+          "departure": "11:30:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 325,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "PCT",
+      "name": "Princeton Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 73,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "15:14:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "15:14:00",
+          "departure": "15:16:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 104,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "RAT",
+      "name": "Raton",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 73,
+      "y": 8.875,
+      "calls": 27,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 8.875,
+      "y_max": 8.875,
+      "arrivals": [
+        {
+          "time": "15:14:00",
+          "calls": 1
+        },
+        {
+          "time": "16:14:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "16:14:00",
+          "departure": "16:18:00",
+          "dwell": 4,
+          "y": 8.875,
+          "gap": 283,
+          "calls": 26
+        },
+        {
+          "arrival": "15:14:00",
+          "departure": "15:18:00",
+          "dwell": 4,
+          "y": 8.875,
+          "gap": 283,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "RAT",
+      "name": "Raton",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 73,
+      "y": 30.0,
+      "calls": 28,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 5,
+      "y_min": 30,
+      "y_max": 30,
+      "arrivals": [
+        {
+          "time": "08:07:00",
+          "calls": 1
+        },
+        {
+          "time": "09:07:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "09:07:00",
+          "departure": "09:12:00",
+          "dwell": 5,
+          "y": 30,
+          "gap": 750,
+          "calls": 27
+        },
+        {
+          "arrival": "08:07:00",
+          "departure": "08:12:00",
+          "dwell": 5,
+          "y": 30,
+          "gap": 750,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "RIV",
+      "name": "Riverside",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 52.25,
+      "y": 8.5,
+      "calls": 27,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 8.5,
+      "y_max": 8.5,
+      "arrivals": [
+        {
+          "time": "18:14:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:14:00",
+          "departure": "18:18:00",
+          "dwell": 4,
+          "y": 8.5,
+          "gap": 79,
+          "calls": 27
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "RIV",
+      "name": "Riverside",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 52.25,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "04:40:00",
+          "calls": 2
+        },
+        {
+          "time": "05:40:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "05:40:00",
+          "departure": "05:40:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 926,
+          "calls": 26
+        },
+        {
+          "arrival": "04:40:00",
+          "departure": "04:40:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 926,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "SNB",
+      "name": "San Bernardino",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 25.5,
+      "calls": 27,
+      "dwell_typical": 7,
+      "dwell_min": 7,
+      "dwell_max": 7,
+      "y_min": 25.5,
+      "y_max": 25.5,
+      "arrivals": [
+        {
+          "time": "18:36:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "18:36:00",
+          "departure": "18:43:00",
+          "dwell": 7,
+          "y": 25.5,
+          "gap": 101,
+          "calls": 27
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "SNB",
+      "name": "San Bernardino",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 0,
+      "y": 23.25,
+      "calls": 28,
+      "dwell_typical": 5,
+      "dwell_min": 5,
+      "dwell_max": 5,
+      "y_min": 23.25,
+      "y_max": 23.25,
+      "arrivals": [
+        {
+          "time": "04:16:00",
+          "calls": 2
+        },
+        {
+          "time": "05:16:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "05:16:00",
+          "departure": "05:21:00",
+          "dwell": 5,
+          "y": 23.25,
+          "gap": 902,
+          "calls": 26
+        },
+        {
+          "arrival": "04:16:00",
+          "departure": "04:21:00",
+          "dwell": 5,
+          "y": 23.25,
+          "gap": 902,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "TOP",
+      "name": "Topeka Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 0,
+      "y": 7.75,
+      "calls": 27,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 7.75,
+      "y_max": 7.75,
+      "arrivals": [
+        {
+          "time": "03:14:00",
+          "calls": 2
+        },
+        {
+          "time": "04:14:00",
+          "calls": 25
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "04:14:00",
+          "departure": "04:17:00",
+          "dwell": 3,
+          "y": 7.75,
+          "gap": 943,
+          "calls": 25
+        },
+        {
+          "arrival": "03:14:00",
+          "departure": "03:17:00",
+          "dwell": 3,
+          "y": 7.75,
+          "gap": 943,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "TOP",
+      "name": "Topeka Amtrak Station",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 0,
+      "y": 6.25,
+      "calls": 28,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 6.25,
+      "y_max": 6.25,
+      "arrivals": [
+        {
+          "time": "23:21:00",
+          "calls": 28
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "23:21:00",
+          "departure": "23:24:00",
+          "dwell": 3,
+          "y": 6.25,
+          "gap": 104,
+          "calls": 28
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "TRI",
+      "name": "Trinidad Amtrak",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 78.25,
+      "y": 0.0,
+      "calls": 27,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "16:17:00",
+          "calls": 1
+        },
+        {
+          "time": "17:17:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "17:17:00",
+          "departure": "17:17:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 346,
+          "calls": 26
+        },
+        {
+          "arrival": "16:17:00",
+          "departure": "16:17:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 346,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "TRI",
+      "name": "Trinidad Amtrak",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 78.25,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 0,
+      "dwell_min": 0,
+      "dwell_max": 0,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "07:10:00",
+          "calls": 1
+        },
+        {
+          "time": "08:10:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "08:10:00",
+          "departure": "08:10:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 693,
+          "calls": 27
+        },
+        {
+          "arrival": "07:10:00",
+          "departure": "07:10:00",
+          "dwell": 0,
+          "y": 0,
+          "gap": 693,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "VRV",
+      "name": "Victorville Amtrak",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 40,
+      "y": 9.0,
+      "calls": 27,
+      "dwell_typical": 3,
+      "dwell_min": 3,
+      "dwell_max": 3,
+      "y_min": 9,
+      "y_max": 9,
+      "arrivals": [
+        {
+          "time": "19:51:00",
+          "calls": 27
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "19:51:00",
+          "departure": "19:54:00",
+          "dwell": 3,
+          "y": 9,
+          "gap": 176,
+          "calls": 27
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "VRV",
+      "name": "Victorville Amtrak",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 40,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "02:50:00",
+          "calls": 2
+        },
+        {
+          "time": "03:50:00",
+          "calls": 26
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "03:50:00",
+          "departure": "03:52:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 816,
+          "calls": 26
+        },
+        {
+          "arrival": "02:50:00",
+          "departure": "02:52:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 816,
+          "calls": 2
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WLO",
+      "name": "Winslow Amtrak",
+      "route": "Southwest Chief",
+      "direction": "Chicago Union Station",
+      "x": 91.25,
+      "y": 9.75,
+      "calls": 27,
+      "dwell_typical": 4,
+      "dwell_min": 4,
+      "dwell_max": 4,
+      "y_min": 7.75,
+      "y_max": 10,
+      "arrivals": [
+        {
+          "time": "05:39:00",
+          "calls": 3
+        },
+        {
+          "time": "06:39:00",
+          "calls": 24
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "06:39:00",
+          "departure": "06:43:00",
+          "dwell": 4,
+          "y": 10,
+          "gap": 764,
+          "calls": 24
+        },
+        {
+          "arrival": "05:39:00",
+          "departure": "05:43:00",
+          "dwell": 4,
+          "y": 7.75,
+          "gap": 704,
+          "calls": 2
+        },
+        {
+          "arrival": "05:39:00",
+          "departure": "05:43:00",
+          "dwell": 4,
+          "y": 7.75,
+          "gap": 764,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-29",
+      "service_date_end": "2026-11-24"
+    },
+    {
+      "id": "WLO",
+      "name": "Winslow Amtrak",
+      "route": "Southwest Chief",
+      "direction": "Los Angeles",
+      "x": 91.25,
+      "y": 0.0,
+      "calls": 28,
+      "dwell_typical": 2,
+      "dwell_min": 2,
+      "dwell_max": 2,
+      "y_min": 0,
+      "y_max": 0,
+      "arrivals": [
+        {
+          "time": "19:41:00",
+          "calls": 4
+        },
+        {
+          "time": "20:41:00",
+          "calls": 24
+        }
+      ],
+      "patterns": [
+        {
+          "arrival": "20:41:00",
+          "departure": "20:43:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 327,
+          "calls": 24
+        },
+        {
+          "arrival": "19:41:00",
+          "departure": "19:43:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 267,
+          "calls": 3
+        },
+        {
+          "arrival": "19:41:00",
+          "departure": "19:43:00",
+          "dwell": 2,
+          "y": 0,
+          "gap": 327,
+          "calls": 1
+        }
+      ],
+      "service_date_start": "2026-10-28",
+      "service_date_end": "2026-11-24"
+    }
+  ],
+  "opportunity": [
+    {
+      "id": "ABQ",
+      "name": "Albuquerque Alvarado Transportation Center",
+      "route": "Southwest Chief",
+      "x": 13,
+      "y": 96.066,
+      "food": 31,
+      "weekly": 13.75
+    },
+    {
+      "id": "ALD",
+      "name": "Alderson Amtrak",
+      "route": "Cardinal",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "ALX",
+      "name": "Alexandria",
+      "route": "Cardinal; Silver Meteor",
+      "x": 13,
+      "y": 0,
+      "food": 18,
+      "weekly": 0
+    },
+    {
+      "id": "AKY",
+      "name": "Ashland Amtrak Station",
+      "route": "Cardinal",
+      "x": 0,
+      "y": 0,
+      "food": 10,
+      "weekly": 0
+    },
+    {
+      "id": "BAL",
+      "name": "Baltimore Penn Station",
+      "route": "Cardinal; Silver Meteor",
+      "x": 13,
+      "y": 0,
+      "food": 25,
+      "weekly": 0
+    },
+    {
+      "id": "BAR",
+      "name": "Barstow",
+      "route": "Southwest Chief",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "CHW",
+      "name": "Charleston",
+      "route": "Cardinal",
+      "x": 60,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "CHS",
+      "name": "Charleston Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 73,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "CVS",
+      "name": "Charlottesville",
+      "route": "Cardinal",
+      "x": 0,
+      "y": 0,
+      "food": 27,
+      "weekly": 0
+    },
+    {
+      "id": "CIN",
+      "name": "Cincinnati Union Terminal",
+      "route": "Cardinal",
+      "x": 21,
+      "y": 27.679,
+      "food": 1,
+      "weekly": 6
+    },
+    {
+      "id": "CLF",
+      "name": "Clifton Forge Amtrak Station",
+      "route": "Cardinal",
+      "x": 47,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "COI",
+      "name": "Connersville Amtrak",
+      "route": "Cardinal",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "CRF",
+      "name": "Crawfordsville Amtrak",
+      "route": "Cardinal",
+      "x": 47,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "CLP",
+      "name": "Culpeper Amtrak Station",
+      "route": "Cardinal",
+      "x": 0,
+      "y": 0,
+      "food": 17,
+      "weekly": 0
+    },
+    {
+      "id": "DFB",
+      "name": "Deerfield Beach Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "DLD",
+      "name": "Deland",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "DLB",
+      "name": "Delray Beach Amtrak",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "DDG",
+      "name": "Dodge City Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 21.75,
+      "y": 0,
+      "food": 4,
+      "weekly": 0
+    },
+    {
+      "id": "DYE",
+      "name": "Dyer Amtrak",
+      "route": "Cardinal",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "FAY",
+      "name": "Fayetteville Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 16.5,
+      "y": 37.5,
+      "food": 6,
+      "weekly": 14
+    },
+    {
+      "id": "FLG",
+      "name": "Flagstaff",
+      "route": "Southwest Chief",
+      "x": 0,
+      "y": 0,
+      "food": 39,
+      "weekly": 0
+    },
+    {
+      "id": "FLO",
+      "name": "Florence Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 24.656,
+      "food": 0,
+      "weekly": 7
+    },
+    {
+      "id": "FTL",
+      "name": "Fort Lauderdale Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "FMD",
+      "name": "Fort Madison",
+      "route": "Southwest Chief",
+      "x": 21,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "FBG",
+      "name": "Fredericksburg Amtrak",
+      "route": "Silver Meteor",
+      "x": 0,
+      "y": 0,
+      "food": 19,
+      "weekly": 0
+    },
+    {
+      "id": "FUL",
+      "name": "Fullerton Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 0,
+      "y": 0,
+      "food": 40,
+      "weekly": 0
+    },
+    {
+      "id": "GBB",
+      "name": "Galesburg Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 0,
+      "y": 0,
+      "food": 13,
+      "weekly": 0
+    },
+    {
+      "id": "GLP",
+      "name": "Gallup Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 3.5,
+      "y": 0,
+      "food": 5,
+      "weekly": 0
+    },
+    {
+      "id": "GCK",
+      "name": "Garden City Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "HIN",
+      "name": "Hinton Amtrak Station",
+      "route": "Cardinal",
+      "x": 21.75,
+      "y": 0,
+      "food": 4,
+      "weekly": 0
+    },
+    {
+      "id": "HOL",
+      "name": "Hollywood Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 53,
+      "y": 0,
+      "food": 2,
+      "weekly": 0
+    },
+    {
+      "id": "HUN",
+      "name": "Huntington Amtrak Station",
+      "route": "Cardinal",
+      "x": 47.75,
+      "y": 0,
+      "food": 4,
+      "weekly": 0
+    },
+    {
+      "id": "HUT",
+      "name": "Hutchinson Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 3.5,
+      "y": 0,
+      "food": 5,
+      "weekly": 0
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis",
+      "route": "Cardinal",
+      "x": 26,
+      "y": 53.571,
+      "food": 15,
+      "weekly": 6
+    },
+    {
+      "id": "JAX",
+      "name": "Jacksonville",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 89.844,
+      "food": 0,
+      "weekly": 14
+    },
+    {
+      "id": "JSP",
+      "name": "Jesup Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 60,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "KCY",
+      "name": "Kansas City",
+      "route": "Southwest Chief",
+      "x": 0,
+      "y": 98.296,
+      "food": 15,
+      "weekly": 13.75
+    },
+    {
+      "id": "KNG",
+      "name": "Kingman",
+      "route": "Southwest Chief",
+      "x": 34.75,
+      "y": 22.869,
+      "food": 3,
+      "weekly": 6.75
+    },
+    {
+      "id": "KTR",
+      "name": "Kingstree Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "KIS",
+      "name": "Kissimmee Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 3.5,
+      "y": 0,
+      "food": 6,
+      "weekly": 0
+    },
+    {
+      "id": "LAJ",
+      "name": "La Junta Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 40,
+      "y": 59.361,
+      "food": 2,
+      "weekly": 13.75
+    },
+    {
+      "id": "LAP",
+      "name": "La Plata Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "LAF",
+      "name": "Lafayette Amtrak Station",
+      "route": "Cardinal",
+      "x": 0,
+      "y": 0,
+      "food": 13,
+      "weekly": 0
+    },
+    {
+      "id": "LMR",
+      "name": "Lamar Amtrak",
+      "route": "Southwest Chief",
+      "x": 27,
+      "y": 0,
+      "food": 2,
+      "weekly": 0
+    },
+    {
+      "id": "LMY",
+      "name": "Lamy",
+      "route": "Southwest Chief",
+      "x": 21,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "LSV",
+      "name": "Las Vegas Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 14,
+      "y": 0,
+      "food": 2,
+      "weekly": 0
+    },
+    {
+      "id": "LRC",
+      "name": "Lawrence Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 26,
+      "y": 0,
+      "food": 16,
+      "weekly": 0
+    },
+    {
+      "id": "MSS",
+      "name": "Manassas Amtrak Station",
+      "route": "Cardinal",
+      "x": 0,
+      "y": 0,
+      "food": 21,
+      "weekly": 0
+    },
+    {
+      "id": "MAY",
+      "name": "Maysville Amtrak Station",
+      "route": "Cardinal",
+      "x": 34,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "MDT",
+      "name": "Mendota Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "MNG",
+      "name": "Montgomery Amtrak",
+      "route": "Cardinal",
+      "x": 21,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "NPV",
+      "name": "Naperville Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 8.75,
+      "y": 0,
+      "food": 3,
+      "weekly": 0
+    },
+    {
+      "id": "NDL",
+      "name": "Needles Amtrak",
+      "route": "Southwest Chief",
+      "x": 34,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "NWK",
+      "name": "Newark",
+      "route": "Cardinal; Silver Meteor",
+      "x": 0,
+      "y": 0,
+      "food": 14,
+      "weekly": 0
+    },
+    {
+      "id": "NEW",
+      "name": "Newton",
+      "route": "Southwest Chief",
+      "x": 3.5,
+      "y": 0,
+      "food": 5,
+      "weekly": 0
+    },
+    {
+      "id": "ORL",
+      "name": "Orlando",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 58.75,
+      "food": 0,
+      "weekly": 14
+    },
+    {
+      "id": "PAK",
+      "name": "Palatka Amtrak",
+      "route": "Silver Meteor",
+      "x": 73,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "PTB",
+      "name": "Petersburg Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 53,
+      "y": 0,
+      "food": 2,
+      "weekly": 0
+    },
+    {
+      "id": "PHL",
+      "name": "Philadelphia",
+      "route": "Cardinal; Silver Meteor",
+      "x": 29.5,
+      "y": 29.344,
+      "food": 8,
+      "weekly": 10.25
+    },
+    {
+      "id": "PRC",
+      "name": "Prince Amtrak Station",
+      "route": "Cardinal",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "PCT",
+      "name": "Princeton Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 27,
+      "y": 0,
+      "food": 2,
+      "weekly": 0
+    },
+    {
+      "id": "RAT",
+      "name": "Raton",
+      "route": "Southwest Chief",
+      "x": 27,
+      "y": 0,
+      "food": 2,
+      "weekly": 0
+    },
+    {
+      "id": "REN",
+      "name": "Rensselaer Amtrak",
+      "route": "Cardinal",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "RVR",
+      "name": "Richmond Staples Mill Road Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 60,
+      "y": 38.125,
+      "food": 1,
+      "weekly": 14
+    },
+    {
+      "id": "RIV",
+      "name": "Riverside",
+      "route": "Southwest Chief",
+      "x": 47.75,
+      "y": 0,
+      "food": 3,
+      "weekly": 0
+    },
+    {
+      "id": "RMT",
+      "name": "Rocky Mount",
+      "route": "Silver Meteor",
+      "x": 73,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "SNB",
+      "name": "San Bernardino",
+      "route": "Southwest Chief",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "SAV",
+      "name": "Savannah",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "SBG",
+      "name": "Sebring Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 66,
+      "y": 0,
+      "food": 2,
+      "weekly": 0
+    },
+    {
+      "id": "SPM",
+      "name": "South Portsmouth Amtrak",
+      "route": "Cardinal",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "STA",
+      "name": "Staunton Amtrak Station",
+      "route": "Cardinal",
+      "x": 0,
+      "y": 0,
+      "food": 24,
+      "weekly": 0
+    },
+    {
+      "id": "THN",
+      "name": "Thurmond Amtrak",
+      "route": "Cardinal",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "TOP",
+      "name": "Topeka Amtrak Station",
+      "route": "Southwest Chief",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "TRE",
+      "name": "Trenton",
+      "route": "Cardinal; Silver Meteor",
+      "x": 3.5,
+      "y": 0,
+      "food": 7,
+      "weekly": 0
+    },
+    {
+      "id": "TRI",
+      "name": "Trinidad Amtrak",
+      "route": "Southwest Chief",
+      "x": 21.75,
+      "y": 0,
+      "food": 4,
+      "weekly": 0
+    },
+    {
+      "id": "VRV",
+      "name": "Victorville Amtrak",
+      "route": "Southwest Chief",
+      "x": 60,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Union Station",
+      "route": "Cardinal; Silver Meteor",
+      "x": 0,
+      "y": 94.719,
+      "food": 23,
+      "weekly": 20
+    },
+    {
+      "id": "WPB",
+      "name": "West Palm Beach Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "WSS",
+      "name": "White Sulphur Springs Amtrak",
+      "route": "Cardinal",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    },
+    {
+      "id": "WIL",
+      "name": "Wilmington",
+      "route": "Cardinal; Silver Meteor",
+      "x": 29.5,
+      "y": 0,
+      "food": 5,
+      "weekly": 0
+    },
+    {
+      "id": "WLO",
+      "name": "Winslow Amtrak",
+      "route": "Southwest Chief",
+      "x": 8.75,
+      "y": 0,
+      "food": 3,
+      "weekly": 0
+    },
+    {
+      "id": "WTH",
+      "name": "Winter Haven",
+      "route": "Silver Meteor",
+      "x": 73,
+      "y": 0,
+      "food": 1,
+      "weekly": 0
+    },
+    {
+      "id": "WPK",
+      "name": "Winter Park Amtrak Station",
+      "route": "Silver Meteor",
+      "x": 13,
+      "y": 0,
+      "food": 31,
+      "weekly": 0
+    },
+    {
+      "id": "YEM",
+      "name": "Yemassee Amtrak",
+      "route": "Silver Meteor",
+      "x": 100,
+      "y": 0,
+      "food": 0,
+      "weekly": 0
+    }
+  ],
+  "period": "2026-10-28 through 2026-11-24 inclusive; 28 days."
+}

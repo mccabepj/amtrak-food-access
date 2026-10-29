@@ -1,0 +1,9 @@
+{
+  "workbook": "C:\\Users\\17574\\Desktop\\sites\\amtrak\\viewer\\viewer\\exports\\food_scoring\\food_scores.xlsx",
+  "backup_directory": "C:\\Users\\17574\\Desktop\\sites\\amtrak\\viewer\\viewer\\exports\\food_scoring\\backups\\before_dwell_update_20261028_165814_513234",
+  "dated_calls_with_changed_dwell_score": 52,
+  "dated_calls_with_changed_original_existing_y": 52,
+  "dated_calls_with_changed_independent_y": 52,
+  "stations_with_changed_opportunity_y": 3,
+  "rule": "Dwell >20 minutes scores100. Exactly20 remains85. Break clock remains >30 minutes."
+}

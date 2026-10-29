@@ -1,0 +1,89 @@
+﻿Station ID,Station,Selected Routes,Latitude,Longitude,Scan Status,Food Count,Cafe Count,Restaurant Count,Nearest Food M,Scan Radius M,Proximity Score,Choice Score,Food Provision Score,Opportunity X Gap,Calls In Period,Valid Timetable Calls,Qualifying Calls In Period,Qualifying Calls Per Week,Days With Qualifying Calls,Mean Potential Call Suitability,Recurrence Score,Opportunity Y Potential,Opportunity Plot Eligible,Assessment Start,Assessment End,Assessment Days,Scan Error,Review Flags
+ABQ,Albuquerque Alvarado Transportation Center,Southwest Chief,35.082,-106.648,Success,31,11,20,137.8,500.0,80,100,87.0,13.0,55,55,55,13.75,28,96.932,98.214,96.066,True,2026-10-28,2026-11-24,28,,
+ALD,Alderson Amtrak,Cardinal,37.724,-80.645,Success,0,0,0,,500.0,0,0,0.0,100.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+ALX,Alexandria,Cardinal; Silver Meteor,38.807,-77.062,Success,18,6,12,187.3,500.0,80,100,87.0,13.0,80,80,0,0.0,0,2.8,0.0,0,True,2026-10-28,2026-11-24,28,,
+AKY,Ashland Amtrak Station,Cardinal,38.481,-82.64,Success,10,1,9,99.6,500.0,100,100,100.0,0.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+BAL,Baltimore Penn Station,Cardinal; Silver Meteor,39.307,-76.616,Success,25,5,20,189.2,500.0,80,100,87.0,13.0,80,80,0,0.0,0,4.15,0.0,0,True,2026-10-28,2026-11-24,28,,
+BAR,Barstow,Southwest Chief,34.905,-117.025,Success,0,0,0,,500.0,0,0,0.0,100.0,55,55,0,0.0,0,25.091,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+CHW,Charleston,Cardinal,38.346,-81.638,Success,1,1,0,363.8,500.0,40,40,40.0,60.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+CHS,Charleston Amtrak Station,Silver Meteor,32.875,-79.998,Success,1,0,1,411.8,500.0,20,40,27.0,73.0,56,56,0,0.0,0,26.625,0.0,0,True,2026-10-28,2026-11-24,28,,
+CVS,Charlottesville,Cardinal,38.031,-78.492,Success,27,4,23,68.4,500.0,100,100,100.0,0.0,24,24,0,0.0,0,26.625,0.0,0,True,2026-10-28,2026-11-24,28,,
+CHI,Chicago Union Station,Cardinal; Southwest Chief,41.879,-87.639,Success,56,12,44,40.1,500.0,100,100,100.0,0.0,0,0,0,0.0,0,,0.0,,False,2026-10-28,2026-11-24,28,,No intermediate calls in assessment period (terminal-only or no active trips)
+CIN,Cincinnati Union Terminal,Cardinal,39.11,-84.537,Success,1,1,0,24.5,500.0,100,40,79.0,21.0,24,24,24,6.0,24,38.75,42.857,27.679,True,2026-10-28,2026-11-24,28,,
+CLF,Clifton Forge Amtrak Station,Cardinal,37.815,-79.827,Success,1,1,0,222.8,500.0,60,40,53.0,47.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+COI,Connersville Amtrak,Cardinal,39.646,-85.133,Success,0,0,0,,500.0,0,0,0.0,100.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+CRF,Crawfordsville Amtrak,Cardinal,40.045,-86.899,Success,1,0,1,222.6,500.0,60,40,53.0,47.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+CLP,Culpeper Amtrak Station,Cardinal,38.472,-77.993,Success,17,3,14,76.0,500.0,100,100,100.0,0.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+DFB,Deerfield Beach Amtrak Station,Silver Meteor,26.317,-80.122,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+DLD,Deland,Silver Meteor,29.018,-81.352,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,0,0.0,0,5.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+DLB,Delray Beach Amtrak,Silver Meteor,26.454,-80.091,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+DDG,Dodge City Amtrak Station,Southwest Chief,37.752,-100.017,Success,4,0,4,120.4,500.0,80,75,78.25,21.75,55,55,0,0.0,0,23.291,0.0,0,True,2026-10-28,2026-11-24,28,,
+DYE,Dyer Amtrak,Cardinal,41.515,-87.518,Success,0,0,0,,500.0,0,0,0.0,100.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+FAY,Fayetteville Amtrak Station,Silver Meteor,35.055,-78.885,Success,6,3,3,134.6,500.0,80,90,83.5,16.5,56,56,56,14.0,29,37.5,100.0,37.5,True,2026-10-28,2026-11-24,28,,
+FLG,Flagstaff,Southwest Chief,35.197,-111.649,Success,39,11,28,23.7,500.0,100,100,100.0,0.0,55,55,0,0.0,0,24.641,0.0,0,True,2026-10-28,2026-11-24,28,,
+FLO,Florence Amtrak Station,Silver Meteor,34.199,-79.757,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,28,7.0,28,32.875,50.0,24.656,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+FTL,Fort Lauderdale Amtrak Station,Silver Meteor,26.119,-80.17,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+FMD,Fort Madison,Southwest Chief,40.63,-91.314,Success,1,0,1,82.4,500.0,100,40,79.0,21.0,55,55,0,0.0,0,27.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+FBG,Fredericksburg Amtrak,Silver Meteor,38.298,-77.457,Success,19,5,14,17.7,500.0,100,100,100.0,0.0,56,56,0,0.0,0,4.25,0.0,0,True,2026-10-28,2026-11-24,28,,
+FUL,Fullerton Amtrak Station,Southwest Chief,33.869,-117.923,Success,40,10,30,28.7,500.0,100,100,100.0,0.0,55,55,0,0.0,0,11.782,0.0,0,True,2026-10-28,2026-11-24,28,,
+GBB,Galesburg Amtrak Station,Southwest Chief,40.945,-90.364,Success,13,2,11,99.0,500.0,100,100,100.0,0.0,55,55,0,0.0,0,4.264,0.0,0,True,2026-10-28,2026-11-24,28,,
+GLP,Gallup Amtrak Station,Southwest Chief,35.529,-108.741,Success,5,3,2,48.2,500.0,100,90,96.5,3.5,55,55,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+GCK,Garden City Amtrak Station,Southwest Chief,37.964,-100.873,Success,0,0,0,,500.0,0,0,0.0,100.0,55,55,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+HIN,Hinton Amtrak Station,Cardinal,37.675,-80.892,Success,4,1,3,126.8,500.0,80,75,78.25,21.75,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+HOL,Hollywood Amtrak Station,Silver Meteor,26.012,-80.168,Success,2,0,2,384.4,500.0,40,60,47.0,53.0,56,56,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+HUN,Huntington Amtrak Station,Cardinal,38.416,-82.44,Success,4,1,3,377.9,500.0,40,75,52.25,47.75,24,24,0,0.0,0,27.75,0.0,0,True,2026-10-28,2026-11-24,28,,
+HUT,Hutchinson Amtrak Station,Southwest Chief,38.056,-97.932,Success,5,1,4,29.4,500.0,100,90,96.5,3.5,55,55,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+IND,Indianapolis,Cardinal,39.762,-86.16,Success,15,3,12,209.0,500.0,60,100,74.0,26.0,24,24,24,6.0,16,69.562,42.857,49.688,True,2026-10-28,2026-11-24,28,,
+JAX,Jacksonville,Silver Meteor,30.366,-81.724,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,56,14.0,29,82.344,100.0,82.344,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+JSP,Jesup Amtrak Station,Silver Meteor,31.606,-81.882,Success,1,0,1,398.9,500.0,40,40,40.0,60.0,56,56,0,0.0,0,20.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+KCY,Kansas City,Southwest Chief,39.085,-94.585,Success,15,3,12,21.3,500.0,100,100,100.0,0.0,55,55,55,13.75,30,99.182,98.214,98.296,True,2026-10-28,2026-11-24,28,,
+KNG,Kingman,Southwest Chief,35.188,-114.053,Success,3,1,2,248.9,500.0,60,75,65.25,34.75,55,55,27,6.75,27,30.859,48.214,22.869,True,2026-10-28,2026-11-24,28,,
+KTR,Kingstree Amtrak Station,Silver Meteor,33.664,-79.829,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,0,0.0,0,8.125,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+KIS,Kissimmee Amtrak Station,Silver Meteor,28.294,-81.404,Success,6,2,4,99.8,500.0,100,90,96.5,3.5,56,56,0,0.0,0,9.75,0.0,0,True,2026-10-28,2026-11-24,28,,
+LAJ,La Junta Amtrak Station,Southwest Chief,37.988,-103.544,Success,2,0,2,265.9,500.0,60,60,60.0,40.0,55,55,55,13.75,28,59.895,98.214,59.361,True,2026-10-28,2026-11-24,28,,
+LAP,La Plata Amtrak Station,Southwest Chief,40.029,-92.493,Success,0,0,0,,500.0,0,0,0.0,100.0,55,55,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+LAF,Lafayette Amtrak Station,Cardinal,40.419,-86.896,Success,13,4,9,49.5,500.0,100,100,100.0,0.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+LMR,Lamar Amtrak,Southwest Chief,38.09,-102.619,Success,2,1,1,118.5,500.0,80,60,73.0,27.0,55,55,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+LMY,Lamy,Southwest Chief,35.481,-105.88,Success,1,0,1,81.8,500.0,100,40,79.0,21.0,55,55,0,0.0,0,9.264,0.0,0,True,2026-10-28,2026-11-24,28,,
+LSV,Las Vegas Amtrak Station,Southwest Chief,35.593,-105.213,Success,2,0,2,87.1,500.0,100,60,86.0,14.0,55,55,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+LRC,Lawrence Amtrak Station,Southwest Chief,38.971,-95.231,Success,16,4,12,291.9,500.0,60,100,74.0,26.0,55,55,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+LAX,Los Angeles,Southwest Chief,34.056,-118.237,Success,24,5,19,41.9,500.0,100,100,100.0,0.0,0,0,0,0.0,0,,0.0,,False,2026-10-28,2026-11-24,28,,No intermediate calls in assessment period (terminal-only or no active trips)
+MSS,Manassas Amtrak Station,Cardinal,38.75,-77.473,Success,21,2,19,13.8,500.0,100,100,100.0,0.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+MAY,Maysville Amtrak Station,Cardinal,38.652,-83.771,Success,1,0,1,113.9,500.0,80,40,66.0,34.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+MDT,Mendota Amtrak Station,Southwest Chief,41.55,-89.118,Success,0,0,0,,500.0,0,0,0.0,100.0,55,55,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+MIA,Miami Amtrak Station,Silver Meteor,25.85,-80.258,Success,0,0,0,,500.0,0,0,0.0,100.0,0,0,0,0.0,0,,0.0,,False,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence; No intermediate calls in assessment period (terminal-only or no active trips)
+MNG,Montgomery Amtrak,Cardinal,38.181,-81.324,Success,1,0,1,89.1,500.0,100,40,79.0,21.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+NPV,Naperville Amtrak Station,Southwest Chief,41.78,-88.145,Success,3,0,3,85.0,500.0,100,75,91.25,8.75,55,55,0,0.0,0,3.755,0.0,0,True,2026-10-28,2026-11-24,28,,
+NDL,Needles Amtrak,Southwest Chief,34.841,-114.606,Success,1,0,1,178.0,500.0,80,40,66.0,34.0,55,55,0,0.0,0,11.877,0.0,0,True,2026-10-28,2026-11-24,28,,
+NWK,Newark,Cardinal; Silver Meteor,40.735,-74.165,Success,14,3,11,92.8,500.0,100,100,100.0,0.0,80,80,0,0.0,0,6.181,0.0,0,True,2026-10-28,2026-11-24,28,,
+NEW,Newton,Southwest Chief,38.047,-97.345,Success,5,1,4,42.6,500.0,100,90,96.5,3.5,55,55,0,0.0,0,7.241,0.0,0,True,2026-10-28,2026-11-24,28,,
+NYP,Ny Moynihan Train Hall At Penn Station,Cardinal; Silver Meteor,40.75,-73.994,Success,108,39,69,76.8,500.0,100,100,100.0,0.0,0,0,0,0.0,0,,0.0,,False,2026-10-28,2026-11-24,28,,No intermediate calls in assessment period (terminal-only or no active trips)
+ORL,Orlando,Silver Meteor,28.526,-81.382,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,56,14.0,29,58.75,100.0,58.75,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+PAK,Palatka Amtrak,Silver Meteor,29.65,-81.64,Success,1,0,1,498.0,500.0,20,40,27.0,73.0,56,56,0,0.0,0,9.688,0.0,0,True,2026-10-28,2026-11-24,28,,
+PTB,Petersburg Amtrak Station,Silver Meteor,37.242,-77.429,Success,2,0,2,366.2,500.0,40,60,47.0,53.0,56,56,0,0.0,0,3.875,0.0,0,True,2026-10-28,2026-11-24,28,,
+PHL,Philadelphia,Cardinal; Silver Meteor,39.956,-75.181,Success,8,2,6,284.6,500.0,60,90,70.5,29.5,80,80,41,10.25,28,33.881,73.214,29.344,True,2026-10-28,2026-11-24,28,,
+PRC,Prince Amtrak Station,Cardinal,37.857,-81.061,Success,0,0,0,,500.0,0,0,0.0,100.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+PCT,Princeton Amtrak Station,Southwest Chief,41.385,-89.467,Success,2,0,2,125.8,500.0,80,60,73.0,27.0,55,55,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+RAT,Raton,Southwest Chief,36.901,-104.438,Success,2,1,1,123.4,500.0,80,60,73.0,27.0,55,55,0,0.0,0,19.63,0.0,0,True,2026-10-28,2026-11-24,28,,
+REN,Rensselaer Amtrak,Cardinal,40.943,-87.155,Success,0,0,0,,500.0,0,0,0.0,100.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+RVR,Richmond Staples Mill Road Amtrak Station,Silver Meteor,37.618,-77.497,Success,1,0,1,395.7,500.0,40,40,40.0,60.0,56,56,56,14.0,29,38.125,100.0,38.125,True,2026-10-28,2026-11-24,28,,
+RIV,Riverside,Southwest Chief,33.976,-117.37,Success,3,0,3,383.5,500.0,40,75,52.25,47.75,55,55,0,0.0,0,4.173,0.0,0,True,2026-10-28,2026-11-24,28,,
+RMT,Rocky Mount,Silver Meteor,35.938,-77.798,Success,1,0,1,463.6,500.0,20,40,27.0,73.0,56,56,0,0.0,0,7.5,0.0,0,True,2026-10-28,2026-11-24,28,,
+SNB,San Bernardino,Southwest Chief,34.104,-117.311,Success,0,0,0,,500.0,0,0,0.0,100.0,55,55,0,0.0,0,24.355,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+SAV,Savannah,Silver Meteor,32.083,-81.148,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,0,0.0,0,29.879,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+SBG,Sebring Amtrak Station,Silver Meteor,27.497,-81.434,Success,2,0,2,486.6,500.0,20,60,34.0,66.0,56,56,0,0.0,0,4.688,0.0,0,True,2026-10-28,2026-11-24,28,,
+SPM,South Portsmouth Amtrak,Cardinal,38.721,-82.964,Success,0,0,0,,500.0,0,0,0.0,100.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+STA,Staunton Amtrak Station,Cardinal,38.148,-79.072,Success,24,6,18,55.0,500.0,100,100,100.0,0.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+THN,Thurmond Amtrak,Cardinal,37.957,-81.079,Success,0,0,0,,500.0,0,0,0.0,100.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+TOP,Topeka Amtrak Station,Southwest Chief,39.051,-95.665,Success,0,0,0,,500.0,0,0,0.0,100.0,55,55,0,0.0,0,6.986,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+TRE,Trenton,Cardinal; Silver Meteor,40.219,-74.754,Success,7,0,7,45.1,500.0,100,90,96.5,3.5,80,80,0,0.0,0,3.956,0.0,0,True,2026-10-28,2026-11-24,28,,
+TRI,Trinidad Amtrak,Southwest Chief,37.173,-104.508,Success,4,0,4,179.6,500.0,80,75,78.25,21.75,55,55,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+VRV,Victorville Amtrak,Southwest Chief,34.537,-117.293,Success,1,0,1,390.8,500.0,40,40,40.0,60.0,55,55,0,0.0,0,4.418,0.0,0,True,2026-10-28,2026-11-24,28,,
+WAS,Washington Union Station,Cardinal; Silver Meteor,38.897,-77.006,Success,23,11,12,67.4,500.0,100,100,100.0,0.0,80,80,80,20.0,29,92.469,100,92.469,True,2026-10-28,2026-11-24,28,,
+WPB,West Palm Beach Amtrak Station,Silver Meteor,26.713,-80.062,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+WSS,White Sulphur Springs Amtrak,Cardinal,37.786,-80.304,Success,0,0,0,,500.0,0,0,0.0,100.0,24,24,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
+WIL,Wilmington,Cardinal; Silver Meteor,39.737,-75.551,Success,5,1,4,289.8,500.0,60,90,70.5,29.5,80,80,0,0.0,0,7.256,0.0,0,True,2026-10-28,2026-11-24,28,,
+WLO,Winslow Amtrak,Southwest Chief,35.022,-110.695,Success,3,0,3,31.5,500.0,100,75,91.25,8.75,55,55,0,0.0,0,4.786,0.0,0,True,2026-10-28,2026-11-24,28,,
+WTH,Winter Haven,Silver Meteor,28.002,-81.735,Success,1,0,1,476.9,500.0,20,40,27.0,73.0,56,56,0,0.0,0,18.199,0.0,0,True,2026-10-28,2026-11-24,28,,
+WPK,Winter Park Amtrak Station,Silver Meteor,28.597,-81.352,Success,31,5,26,104.8,500.0,80,100,87.0,13.0,56,56,0,0.0,0,0.0,0.0,0,True,2026-10-28,2026-11-24,28,,
+YEM,Yemassee Amtrak,Silver Meteor,32.688,-80.847,Success,0,0,0,,500.0,0,0,0.0,100.0,56,56,0,0.0,0,8.875,0.0,0,True,2026-10-28,2026-11-24,28,,Successful zero: no matching food mapped within 500 m; not verified absence
